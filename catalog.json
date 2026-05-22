@@ -8,9 +8,9 @@
       "subtitle": "Automated mock render validation",
       "author": "Codex",
       "category": "Other",
-      "coverImage": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/mock-pipeline-test-1779446925091/cover.webp",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mock-pipeline-test-1779446925091/cover.webp",
       "status": "published",
-      "metadataUrl": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/mock-pipeline-test-1779446925091/metadata.json"
+      "metadataUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mock-pipeline-test-1779446925091/metadata.json"
     },
     {
       "id": "mock-pipeline-test-1779446943720",
@@ -18,9 +18,9 @@
       "subtitle": "Automated mock render validation",
       "author": "Codex",
       "category": "Other",
-      "coverImage": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/mock-pipeline-test-1779446943720/cover.webp",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mock-pipeline-test-1779446943720/cover.webp",
       "status": "published",
-      "metadataUrl": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/mock-pipeline-test-1779446943720/metadata.json"
+      "metadataUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mock-pipeline-test-1779446943720/metadata.json"
     },
     {
       "id": "real-render-test-1779451148907",
@@ -28,9 +28,9 @@
       "subtitle": "Automated real render validation",
       "author": "Codex",
       "category": "Other",
-      "coverImage": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/real-render-test-1779451148907/cover.png",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/real-render-test-1779451148907/cover.png",
       "status": "published",
-      "metadataUrl": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/real-render-test-1779451148907/metadata.json"
+      "metadataUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/real-render-test-1779451148907/metadata.json"
     },
     {
       "id": "shifa-shareef-roman-urdu-test-1779452306507",
@@ -38,9 +38,9 @@
       "subtitle": "Roman Urdu test ingestion",
       "author": "Islamic Library Test",
       "category": "Durood",
-      "coverImage": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/shifa-shareef-roman-urdu-test-1779452306507/cover.png",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu-test-1779452306507/cover.png",
       "status": "published",
-      "metadataUrl": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/shifa-shareef-roman-urdu-test-1779452306507/metadata.json"
+      "metadataUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu-test-1779452306507/metadata.json"
     }
   ]
 }
