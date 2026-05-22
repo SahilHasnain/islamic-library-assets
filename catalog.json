@@ -1,6 +1,6 @@
 {
-  "version": "2026-05-22-161848",
-  "generatedAt": "2026-05-22T10:48:49.147Z",
+  "version": "2026-05-22-16196",
+  "generatedAt": "2026-05-22T10:49:06.656Z",
   "books": [
     {
       "id": "mock-pipeline-test-1779446925091",
@@ -11,6 +11,16 @@
       "coverImage": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/mock-pipeline-test-1779446925091/cover.webp",
       "status": "published",
       "metadataUrl": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/mock-pipeline-test-1779446925091/metadata.json"
+    },
+    {
+      "id": "mock-pipeline-test-1779446943720",
+      "title": "Mock Pipeline Test",
+      "subtitle": "Automated mock render validation",
+      "author": "Codex",
+      "category": "Other",
+      "coverImage": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/mock-pipeline-test-1779446943720/cover.webp",
+      "status": "published",
+      "metadataUrl": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/mock-pipeline-test-1779446943720/metadata.json"
     }
   ]
 }

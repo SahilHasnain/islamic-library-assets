@@ -1,0 +1,22 @@
+{
+  "id": "mock-pipeline-test-1779446943720",
+  "title": "Mock Pipeline Test",
+  "subtitle": "Automated mock render validation",
+  "author": "Codex",
+  "description": "Pipeline smoke test using mock render mode.",
+  "category": "Other",
+  "coverImage": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/mock-pipeline-test-1779446943720/cover.webp",
+  "languages": [
+    {
+      "id": "english",
+      "title": "english",
+      "volumes": [
+        {
+          "id": "volume1",
+          "title": "volume1",
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/mock-pipeline-test-1779446943720/english/volume1/manifest.json"
+        }
+      ]
+    }
+  ]
+}
