@@ -1,0 +1,22 @@
+{
+  "id": "shifa-shareef-roman-urdu",
+  "title": "Shifa Shareef",
+  "subtitle": "Roman Urdu",
+  "author": "Islamic Library",
+  "description": "Shifa Shareef Roman Urdu edition.",
+  "category": "Durood",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/cover.png",
+  "languages": [
+    {
+      "id": "roman-urdu",
+      "title": "roman-urdu",
+      "volumes": [
+        {
+          "id": "volume1",
+          "title": "volume1",
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/manifest.json"
+        }
+      ]
+    }
+  ]
+}
