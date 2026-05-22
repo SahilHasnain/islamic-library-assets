@@ -1,6 +1,6 @@
 {
-  "version": "2026-05-22-16196",
-  "generatedAt": "2026-05-22T10:49:06.656Z",
+  "version": "2026-05-22-172911",
+  "generatedAt": "2026-05-22T11:59:12.196Z",
   "books": [
     {
       "id": "mock-pipeline-test-1779446925091",
@@ -21,6 +21,16 @@
       "coverImage": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/mock-pipeline-test-1779446943720/cover.webp",
       "status": "published",
       "metadataUrl": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/mock-pipeline-test-1779446943720/metadata.json"
+    },
+    {
+      "id": "real-render-test-1779451148907",
+      "title": "Real Render Test",
+      "subtitle": "Automated real render validation",
+      "author": "Codex",
+      "category": "Other",
+      "coverImage": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/real-render-test-1779451148907/cover.png",
+      "status": "published",
+      "metadataUrl": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/real-render-test-1779451148907/metadata.json"
     }
   ]
 }

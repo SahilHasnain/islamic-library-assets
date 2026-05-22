@@ -1,0 +1,22 @@
+{
+  "id": "real-render-test-1779451148907",
+  "title": "Real Render Test",
+  "subtitle": "Automated real render validation",
+  "author": "Codex",
+  "description": "Pipeline smoke test using real render mode.",
+  "category": "Other",
+  "coverImage": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/real-render-test-1779451148907/cover.png",
+  "languages": [
+    {
+      "id": "english",
+      "title": "english",
+      "volumes": [
+        {
+          "id": "volume1",
+          "title": "volume1",
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/real-render-test-1779451148907/english/volume1/manifest.json"
+        }
+      ]
+    }
+  ]
+}

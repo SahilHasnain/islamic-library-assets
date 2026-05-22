@@ -1,0 +1,21 @@
+{
+  "bookId": "real-render-test-1779451148907",
+  "languageId": "english",
+  "volumeId": "volume1",
+  "version": "2026-05-22-172911",
+  "totalPages": 1,
+  "baseUrl": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/real-render-test-1779451148907/english/volume1",
+  "filePattern": "page-{page}.png",
+  "extension": "png",
+  "coverImage": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/real-render-test-1779451148907/cover.png",
+  "pages": [
+    {
+      "page": 1,
+      "fileName": "page-001.png",
+      "width": 600,
+      "height": 288,
+      "size": 5431,
+      "url": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/real-render-test-1779451148907/english/volume1/page-001.png"
+    }
+  ]
+}
