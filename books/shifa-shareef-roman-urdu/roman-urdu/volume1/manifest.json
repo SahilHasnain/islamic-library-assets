@@ -2,7 +2,7 @@
   "bookId": "shifa-shareef-roman-urdu",
   "languageId": "roman-urdu",
   "volumeId": "volume1",
-  "version": "2026-05-22-193946",
+  "version": "2026-05-22-194135",
   "totalPages": 306,
   "baseUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1",
   "filePattern": "page-{page}.png",
