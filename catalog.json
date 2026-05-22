@@ -1,6 +1,6 @@
 {
-  "version": "2026-05-22-172911",
-  "generatedAt": "2026-05-22T11:59:12.196Z",
+  "version": "2026-05-22-174923",
+  "generatedAt": "2026-05-22T12:19:23.793Z",
   "books": [
     {
       "id": "mock-pipeline-test-1779446925091",
@@ -31,6 +31,16 @@
       "coverImage": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/real-render-test-1779451148907/cover.png",
       "status": "published",
       "metadataUrl": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/real-render-test-1779451148907/metadata.json"
+    },
+    {
+      "id": "shifa-shareef-roman-urdu-test-1779452306507",
+      "title": "Shifa Shareef",
+      "subtitle": "Roman Urdu test ingestion",
+      "author": "Islamic Library Test",
+      "category": "Durood",
+      "coverImage": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/shifa-shareef-roman-urdu-test-1779452306507/cover.png",
+      "status": "published",
+      "metadataUrl": "https://cdn.jsdelivr.net/gh/local-test/islamic-library-assets@main/books/shifa-shareef-roman-urdu-test-1779452306507/metadata.json"
     }
   ]
 }
