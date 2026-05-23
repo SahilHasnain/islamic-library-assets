@@ -1,0 +1,19 @@
+{
+  "id": "shifa-shareef",
+  "title": "Shifa Shareef",
+  "category": "Seerah",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/cover.png",
+  "languages": [
+    {
+      "id": "urdu",
+      "title": "urdu",
+      "volumes": [
+        {
+          "id": "volume1",
+          "title": "volume1",
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/urdu/volume1/manifest.json"
+        }
+      ]
+    }
+  ]
+}
