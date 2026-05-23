@@ -1,6 +1,6 @@
 {
   "id": "shifa-shareef",
-  "title": "Shifa Shareef",
+  "title": "Shifa Shareef - Vol 1",
   "category": "Seerah",
   "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/cover.png",
   "languages": [
@@ -15,5 +15,6 @@
         }
       ]
     }
-  ]
+  ],
+  "subtitle": "Urdu"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "2026-05-23-121825",
-  "generatedAt": "2026-05-23T06:48:26.488Z",
+  "version": "2026-05-23-122954",
+  "generatedAt": "2026-05-23T06:59:54.785Z",
   "books": [
     {
       "id": "shifa-shareef-roman-urdu",
@@ -14,7 +14,8 @@
     },
     {
       "id": "shifa-shareef",
-      "title": "Shifa Shareef",
+      "title": "Shifa Shareef - Vol 1",
+      "subtitle": "Urdu",
       "category": "Seerah",
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/cover.png",
       "status": "published",
