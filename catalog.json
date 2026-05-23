@@ -1,6 +1,6 @@
 {
-  "version": "2026-05-23-122954",
-  "generatedAt": "2026-05-23T06:59:54.785Z",
+  "version": "2026-05-23-12364",
+  "generatedAt": "2026-05-23T07:06:04.914Z",
   "books": [
     {
       "id": "shifa-shareef-roman-urdu",
@@ -19,7 +19,7 @@
       "category": "Seerah",
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/cover.png",
       "status": "published",
-      "metadataUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/metadata.json"
+      "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/shifa-shareef/metadata.json"
     }
   ]
 }
