@@ -2,7 +2,7 @@
   "bookId": "aqaid-e-ahle-sunnat",
   "languageId": "roman-urdu",
   "volumeId": "volume1",
-  "version": "2026-05-28-103424",
+  "version": "2026-05-28-104313",
   "totalPages": 53,
   "baseUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/aqaid-e-ahle-sunnat/roman-urdu/volume1",
   "filePattern": "page-{page}.png",
