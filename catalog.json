@@ -1,7 +1,16 @@
 {
-  "version": "2026-05-23-12364",
-  "generatedAt": "2026-05-23T07:06:04.914Z",
+  "version": "2026-05-28-91655",
+  "generatedAt": "2026-05-28T03:46:56.692Z",
   "books": [
+    {
+      "id": "seerat-e-mustafa",
+      "title": "Seerat e Mustafa",
+      "subtitle": "A gentle seerah reading journey",
+      "category": "Seerah",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/seerat-e-mustafa/cover.png",
+      "status": "published",
+      "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/seerat-e-mustafa/metadata.json"
+    },
     {
       "id": "shifa-shareef-roman-urdu",
       "title": "Shifa Shareef",
