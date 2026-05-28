@@ -1,0 +1,3141 @@
+{
+  "bookId": "mukashafatul-quloob",
+  "languageId": "roman-urdu",
+  "volumeId": "volume2",
+  "version": "2026-05-28-103442",
+  "totalPages": 391,
+  "baseUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2",
+  "filePattern": "page-{page}.png",
+  "extension": "png",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/cover.png",
+  "pages": [
+    {
+      "page": 1,
+      "fileName": "page-001.png",
+      "width": 792,
+      "height": 1224,
+      "size": 1267784,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-001.png"
+    },
+    {
+      "page": 2,
+      "fileName": "page-002.png",
+      "width": 792,
+      "height": 1224,
+      "size": 73037,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-002.png"
+    },
+    {
+      "page": 3,
+      "fileName": "page-003.png",
+      "width": 792,
+      "height": 1224,
+      "size": 65765,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-003.png"
+    },
+    {
+      "page": 4,
+      "fileName": "page-004.png",
+      "width": 792,
+      "height": 1224,
+      "size": 48311,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-004.png"
+    },
+    {
+      "page": 5,
+      "fileName": "page-005.png",
+      "width": 792,
+      "height": 1224,
+      "size": 75306,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-005.png"
+    },
+    {
+      "page": 6,
+      "fileName": "page-006.png",
+      "width": 792,
+      "height": 1224,
+      "size": 33653,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-006.png"
+    },
+    {
+      "page": 7,
+      "fileName": "page-007.png",
+      "width": 792,
+      "height": 1224,
+      "size": 110636,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-007.png"
+    },
+    {
+      "page": 8,
+      "fileName": "page-008.png",
+      "width": 792,
+      "height": 1224,
+      "size": 118469,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-008.png"
+    },
+    {
+      "page": 9,
+      "fileName": "page-009.png",
+      "width": 792,
+      "height": 1224,
+      "size": 103950,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-009.png"
+    },
+    {
+      "page": 10,
+      "fileName": "page-010.png",
+      "width": 792,
+      "height": 1224,
+      "size": 106242,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-010.png"
+    },
+    {
+      "page": 11,
+      "fileName": "page-011.png",
+      "width": 792,
+      "height": 1224,
+      "size": 112865,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-011.png"
+    },
+    {
+      "page": 12,
+      "fileName": "page-012.png",
+      "width": 792,
+      "height": 1224,
+      "size": 115712,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-012.png"
+    },
+    {
+      "page": 13,
+      "fileName": "page-013.png",
+      "width": 792,
+      "height": 1224,
+      "size": 116130,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-013.png"
+    },
+    {
+      "page": 14,
+      "fileName": "page-014.png",
+      "width": 792,
+      "height": 1224,
+      "size": 118106,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-014.png"
+    },
+    {
+      "page": 15,
+      "fileName": "page-015.png",
+      "width": 792,
+      "height": 1224,
+      "size": 100212,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-015.png"
+    },
+    {
+      "page": 16,
+      "fileName": "page-016.png",
+      "width": 792,
+      "height": 1224,
+      "size": 160421,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-016.png"
+    },
+    {
+      "page": 17,
+      "fileName": "page-017.png",
+      "width": 792,
+      "height": 1224,
+      "size": 159980,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-017.png"
+    },
+    {
+      "page": 18,
+      "fileName": "page-018.png",
+      "width": 792,
+      "height": 1224,
+      "size": 82732,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-018.png"
+    },
+    {
+      "page": 19,
+      "fileName": "page-019.png",
+      "width": 792,
+      "height": 1224,
+      "size": 198659,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-019.png"
+    },
+    {
+      "page": 20,
+      "fileName": "page-020.png",
+      "width": 792,
+      "height": 1224,
+      "size": 182464,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-020.png"
+    },
+    {
+      "page": 21,
+      "fileName": "page-021.png",
+      "width": 792,
+      "height": 1224,
+      "size": 187041,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-021.png"
+    },
+    {
+      "page": 22,
+      "fileName": "page-022.png",
+      "width": 792,
+      "height": 1224,
+      "size": 203041,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-022.png"
+    },
+    {
+      "page": 23,
+      "fileName": "page-023.png",
+      "width": 792,
+      "height": 1224,
+      "size": 196326,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-023.png"
+    },
+    {
+      "page": 24,
+      "fileName": "page-024.png",
+      "width": 792,
+      "height": 1224,
+      "size": 195963,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-024.png"
+    },
+    {
+      "page": 25,
+      "fileName": "page-025.png",
+      "width": 792,
+      "height": 1224,
+      "size": 183758,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-025.png"
+    },
+    {
+      "page": 26,
+      "fileName": "page-026.png",
+      "width": 792,
+      "height": 1224,
+      "size": 191622,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-026.png"
+    },
+    {
+      "page": 27,
+      "fileName": "page-027.png",
+      "width": 792,
+      "height": 1224,
+      "size": 190405,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-027.png"
+    },
+    {
+      "page": 28,
+      "fileName": "page-028.png",
+      "width": 792,
+      "height": 1224,
+      "size": 190395,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-028.png"
+    },
+    {
+      "page": 29,
+      "fileName": "page-029.png",
+      "width": 792,
+      "height": 1224,
+      "size": 108200,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-029.png"
+    },
+    {
+      "page": 30,
+      "fileName": "page-030.png",
+      "width": 792,
+      "height": 1224,
+      "size": 186822,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-030.png"
+    },
+    {
+      "page": 31,
+      "fileName": "page-031.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201532,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-031.png"
+    },
+    {
+      "page": 32,
+      "fileName": "page-032.png",
+      "width": 792,
+      "height": 1224,
+      "size": 200644,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-032.png"
+    },
+    {
+      "page": 33,
+      "fileName": "page-033.png",
+      "width": 792,
+      "height": 1224,
+      "size": 197263,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-033.png"
+    },
+    {
+      "page": 34,
+      "fileName": "page-034.png",
+      "width": 792,
+      "height": 1224,
+      "size": 190930,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-034.png"
+    },
+    {
+      "page": 35,
+      "fileName": "page-035.png",
+      "width": 792,
+      "height": 1224,
+      "size": 183151,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-035.png"
+    },
+    {
+      "page": 36,
+      "fileName": "page-036.png",
+      "width": 792,
+      "height": 1224,
+      "size": 204698,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-036.png"
+    },
+    {
+      "page": 37,
+      "fileName": "page-037.png",
+      "width": 792,
+      "height": 1224,
+      "size": 182403,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-037.png"
+    },
+    {
+      "page": 38,
+      "fileName": "page-038.png",
+      "width": 792,
+      "height": 1224,
+      "size": 160456,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-038.png"
+    },
+    {
+      "page": 39,
+      "fileName": "page-039.png",
+      "width": 792,
+      "height": 1224,
+      "size": 202310,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-039.png"
+    },
+    {
+      "page": 40,
+      "fileName": "page-040.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201954,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-040.png"
+    },
+    {
+      "page": 41,
+      "fileName": "page-041.png",
+      "width": 792,
+      "height": 1224,
+      "size": 206748,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-041.png"
+    },
+    {
+      "page": 42,
+      "fileName": "page-042.png",
+      "width": 792,
+      "height": 1224,
+      "size": 182381,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-042.png"
+    },
+    {
+      "page": 43,
+      "fileName": "page-043.png",
+      "width": 792,
+      "height": 1224,
+      "size": 190171,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-043.png"
+    },
+    {
+      "page": 44,
+      "fileName": "page-044.png",
+      "width": 792,
+      "height": 1224,
+      "size": 194990,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-044.png"
+    },
+    {
+      "page": 45,
+      "fileName": "page-045.png",
+      "width": 792,
+      "height": 1224,
+      "size": 187234,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-045.png"
+    },
+    {
+      "page": 46,
+      "fileName": "page-046.png",
+      "width": 792,
+      "height": 1224,
+      "size": 202865,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-046.png"
+    },
+    {
+      "page": 47,
+      "fileName": "page-047.png",
+      "width": 792,
+      "height": 1224,
+      "size": 186531,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-047.png"
+    },
+    {
+      "page": 48,
+      "fileName": "page-048.png",
+      "width": 792,
+      "height": 1224,
+      "size": 182596,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-048.png"
+    },
+    {
+      "page": 49,
+      "fileName": "page-049.png",
+      "width": 792,
+      "height": 1224,
+      "size": 204751,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-049.png"
+    },
+    {
+      "page": 50,
+      "fileName": "page-050.png",
+      "width": 792,
+      "height": 1224,
+      "size": 161558,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-050.png"
+    },
+    {
+      "page": 51,
+      "fileName": "page-051.png",
+      "width": 792,
+      "height": 1224,
+      "size": 177434,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-051.png"
+    },
+    {
+      "page": 52,
+      "fileName": "page-052.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201571,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-052.png"
+    },
+    {
+      "page": 53,
+      "fileName": "page-053.png",
+      "width": 792,
+      "height": 1224,
+      "size": 186370,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-053.png"
+    },
+    {
+      "page": 54,
+      "fileName": "page-054.png",
+      "width": 792,
+      "height": 1224,
+      "size": 209125,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-054.png"
+    },
+    {
+      "page": 55,
+      "fileName": "page-055.png",
+      "width": 792,
+      "height": 1224,
+      "size": 203443,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-055.png"
+    },
+    {
+      "page": 56,
+      "fileName": "page-056.png",
+      "width": 792,
+      "height": 1224,
+      "size": 183227,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-056.png"
+    },
+    {
+      "page": 57,
+      "fileName": "page-057.png",
+      "width": 792,
+      "height": 1224,
+      "size": 185243,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-057.png"
+    },
+    {
+      "page": 58,
+      "fileName": "page-058.png",
+      "width": 792,
+      "height": 1224,
+      "size": 206311,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-058.png"
+    },
+    {
+      "page": 59,
+      "fileName": "page-059.png",
+      "width": 792,
+      "height": 1224,
+      "size": 193413,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-059.png"
+    },
+    {
+      "page": 60,
+      "fileName": "page-060.png",
+      "width": 792,
+      "height": 1224,
+      "size": 194310,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-060.png"
+    },
+    {
+      "page": 61,
+      "fileName": "page-061.png",
+      "width": 792,
+      "height": 1224,
+      "size": 160668,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-061.png"
+    },
+    {
+      "page": 62,
+      "fileName": "page-062.png",
+      "width": 792,
+      "height": 1224,
+      "size": 177604,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-062.png"
+    },
+    {
+      "page": 63,
+      "fileName": "page-063.png",
+      "width": 792,
+      "height": 1224,
+      "size": 193657,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-063.png"
+    },
+    {
+      "page": 64,
+      "fileName": "page-064.png",
+      "width": 792,
+      "height": 1224,
+      "size": 194584,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-064.png"
+    },
+    {
+      "page": 65,
+      "fileName": "page-065.png",
+      "width": 792,
+      "height": 1224,
+      "size": 199278,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-065.png"
+    },
+    {
+      "page": 66,
+      "fileName": "page-066.png",
+      "width": 792,
+      "height": 1224,
+      "size": 200201,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-066.png"
+    },
+    {
+      "page": 67,
+      "fileName": "page-067.png",
+      "width": 792,
+      "height": 1224,
+      "size": 194682,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-067.png"
+    },
+    {
+      "page": 68,
+      "fileName": "page-068.png",
+      "width": 792,
+      "height": 1224,
+      "size": 192516,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-068.png"
+    },
+    {
+      "page": 69,
+      "fileName": "page-069.png",
+      "width": 792,
+      "height": 1224,
+      "size": 181204,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-069.png"
+    },
+    {
+      "page": 70,
+      "fileName": "page-070.png",
+      "width": 792,
+      "height": 1224,
+      "size": 197203,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-070.png"
+    },
+    {
+      "page": 71,
+      "fileName": "page-071.png",
+      "width": 792,
+      "height": 1224,
+      "size": 187432,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-071.png"
+    },
+    {
+      "page": 72,
+      "fileName": "page-072.png",
+      "width": 792,
+      "height": 1224,
+      "size": 181979,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-072.png"
+    },
+    {
+      "page": 73,
+      "fileName": "page-073.png",
+      "width": 792,
+      "height": 1224,
+      "size": 184670,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-073.png"
+    },
+    {
+      "page": 74,
+      "fileName": "page-074.png",
+      "width": 792,
+      "height": 1224,
+      "size": 188486,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-074.png"
+    },
+    {
+      "page": 75,
+      "fileName": "page-075.png",
+      "width": 792,
+      "height": 1224,
+      "size": 176481,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-075.png"
+    },
+    {
+      "page": 76,
+      "fileName": "page-076.png",
+      "width": 792,
+      "height": 1224,
+      "size": 179945,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-076.png"
+    },
+    {
+      "page": 77,
+      "fileName": "page-077.png",
+      "width": 792,
+      "height": 1224,
+      "size": 177106,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-077.png"
+    },
+    {
+      "page": 78,
+      "fileName": "page-078.png",
+      "width": 792,
+      "height": 1224,
+      "size": 183906,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-078.png"
+    },
+    {
+      "page": 79,
+      "fileName": "page-079.png",
+      "width": 792,
+      "height": 1224,
+      "size": 181493,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-079.png"
+    },
+    {
+      "page": 80,
+      "fileName": "page-080.png",
+      "width": 792,
+      "height": 1224,
+      "size": 194473,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-080.png"
+    },
+    {
+      "page": 81,
+      "fileName": "page-081.png",
+      "width": 792,
+      "height": 1224,
+      "size": 195501,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-081.png"
+    },
+    {
+      "page": 82,
+      "fileName": "page-082.png",
+      "width": 792,
+      "height": 1224,
+      "size": 207470,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-082.png"
+    },
+    {
+      "page": 83,
+      "fileName": "page-083.png",
+      "width": 792,
+      "height": 1224,
+      "size": 195708,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-083.png"
+    },
+    {
+      "page": 84,
+      "fileName": "page-084.png",
+      "width": 792,
+      "height": 1224,
+      "size": 204925,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-084.png"
+    },
+    {
+      "page": 85,
+      "fileName": "page-085.png",
+      "width": 792,
+      "height": 1224,
+      "size": 194338,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-085.png"
+    },
+    {
+      "page": 86,
+      "fileName": "page-086.png",
+      "width": 792,
+      "height": 1224,
+      "size": 211152,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-086.png"
+    },
+    {
+      "page": 87,
+      "fileName": "page-087.png",
+      "width": 792,
+      "height": 1224,
+      "size": 206632,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-087.png"
+    },
+    {
+      "page": 88,
+      "fileName": "page-088.png",
+      "width": 792,
+      "height": 1224,
+      "size": 202501,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-088.png"
+    },
+    {
+      "page": 89,
+      "fileName": "page-089.png",
+      "width": 792,
+      "height": 1224,
+      "size": 115205,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-089.png"
+    },
+    {
+      "page": 90,
+      "fileName": "page-090.png",
+      "width": 792,
+      "height": 1224,
+      "size": 150791,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-090.png"
+    },
+    {
+      "page": 91,
+      "fileName": "page-091.png",
+      "width": 792,
+      "height": 1224,
+      "size": 199175,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-091.png"
+    },
+    {
+      "page": 92,
+      "fileName": "page-092.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201439,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-092.png"
+    },
+    {
+      "page": 93,
+      "fileName": "page-093.png",
+      "width": 792,
+      "height": 1224,
+      "size": 195353,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-093.png"
+    },
+    {
+      "page": 94,
+      "fileName": "page-094.png",
+      "width": 792,
+      "height": 1224,
+      "size": 198736,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-094.png"
+    },
+    {
+      "page": 95,
+      "fileName": "page-095.png",
+      "width": 792,
+      "height": 1224,
+      "size": 191920,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-095.png"
+    },
+    {
+      "page": 96,
+      "fileName": "page-096.png",
+      "width": 792,
+      "height": 1224,
+      "size": 105241,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-096.png"
+    },
+    {
+      "page": 97,
+      "fileName": "page-097.png",
+      "width": 792,
+      "height": 1224,
+      "size": 181670,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-097.png"
+    },
+    {
+      "page": 98,
+      "fileName": "page-098.png",
+      "width": 792,
+      "height": 1224,
+      "size": 196466,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-098.png"
+    },
+    {
+      "page": 99,
+      "fileName": "page-099.png",
+      "width": 792,
+      "height": 1224,
+      "size": 200573,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-099.png"
+    },
+    {
+      "page": 100,
+      "fileName": "page-100.png",
+      "width": 792,
+      "height": 1224,
+      "size": 116256,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-100.png"
+    },
+    {
+      "page": 101,
+      "fileName": "page-101.png",
+      "width": 792,
+      "height": 1224,
+      "size": 185275,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-101.png"
+    },
+    {
+      "page": 102,
+      "fileName": "page-102.png",
+      "width": 792,
+      "height": 1224,
+      "size": 200914,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-102.png"
+    },
+    {
+      "page": 103,
+      "fileName": "page-103.png",
+      "width": 792,
+      "height": 1224,
+      "size": 207977,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-103.png"
+    },
+    {
+      "page": 104,
+      "fileName": "page-104.png",
+      "width": 792,
+      "height": 1224,
+      "size": 174455,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-104.png"
+    },
+    {
+      "page": 105,
+      "fileName": "page-105.png",
+      "width": 792,
+      "height": 1224,
+      "size": 186491,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-105.png"
+    },
+    {
+      "page": 106,
+      "fileName": "page-106.png",
+      "width": 792,
+      "height": 1224,
+      "size": 190156,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-106.png"
+    },
+    {
+      "page": 107,
+      "fileName": "page-107.png",
+      "width": 792,
+      "height": 1224,
+      "size": 205130,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-107.png"
+    },
+    {
+      "page": 108,
+      "fileName": "page-108.png",
+      "width": 792,
+      "height": 1224,
+      "size": 181288,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-108.png"
+    },
+    {
+      "page": 109,
+      "fileName": "page-109.png",
+      "width": 792,
+      "height": 1224,
+      "size": 178416,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-109.png"
+    },
+    {
+      "page": 110,
+      "fileName": "page-110.png",
+      "width": 792,
+      "height": 1224,
+      "size": 197539,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-110.png"
+    },
+    {
+      "page": 111,
+      "fileName": "page-111.png",
+      "width": 792,
+      "height": 1224,
+      "size": 190848,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-111.png"
+    },
+    {
+      "page": 112,
+      "fileName": "page-112.png",
+      "width": 792,
+      "height": 1224,
+      "size": 103331,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-112.png"
+    },
+    {
+      "page": 113,
+      "fileName": "page-113.png",
+      "width": 792,
+      "height": 1224,
+      "size": 184682,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-113.png"
+    },
+    {
+      "page": 114,
+      "fileName": "page-114.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201011,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-114.png"
+    },
+    {
+      "page": 115,
+      "fileName": "page-115.png",
+      "width": 792,
+      "height": 1224,
+      "size": 207163,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-115.png"
+    },
+    {
+      "page": 116,
+      "fileName": "page-116.png",
+      "width": 792,
+      "height": 1224,
+      "size": 204662,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-116.png"
+    },
+    {
+      "page": 117,
+      "fileName": "page-117.png",
+      "width": 792,
+      "height": 1224,
+      "size": 184101,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-117.png"
+    },
+    {
+      "page": 118,
+      "fileName": "page-118.png",
+      "width": 792,
+      "height": 1224,
+      "size": 193936,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-118.png"
+    },
+    {
+      "page": 119,
+      "fileName": "page-119.png",
+      "width": 792,
+      "height": 1224,
+      "size": 188526,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-119.png"
+    },
+    {
+      "page": 120,
+      "fileName": "page-120.png",
+      "width": 792,
+      "height": 1224,
+      "size": 190656,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-120.png"
+    },
+    {
+      "page": 121,
+      "fileName": "page-121.png",
+      "width": 792,
+      "height": 1224,
+      "size": 144161,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-121.png"
+    },
+    {
+      "page": 122,
+      "fileName": "page-122.png",
+      "width": 792,
+      "height": 1224,
+      "size": 187332,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-122.png"
+    },
+    {
+      "page": 123,
+      "fileName": "page-123.png",
+      "width": 792,
+      "height": 1224,
+      "size": 195262,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-123.png"
+    },
+    {
+      "page": 124,
+      "fileName": "page-124.png",
+      "width": 792,
+      "height": 1224,
+      "size": 211550,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-124.png"
+    },
+    {
+      "page": 125,
+      "fileName": "page-125.png",
+      "width": 792,
+      "height": 1224,
+      "size": 193351,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-125.png"
+    },
+    {
+      "page": 126,
+      "fileName": "page-126.png",
+      "width": 792,
+      "height": 1224,
+      "size": 183257,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-126.png"
+    },
+    {
+      "page": 127,
+      "fileName": "page-127.png",
+      "width": 792,
+      "height": 1224,
+      "size": 194169,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-127.png"
+    },
+    {
+      "page": 128,
+      "fileName": "page-128.png",
+      "width": 792,
+      "height": 1224,
+      "size": 207339,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-128.png"
+    },
+    {
+      "page": 129,
+      "fileName": "page-129.png",
+      "width": 792,
+      "height": 1224,
+      "size": 190815,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-129.png"
+    },
+    {
+      "page": 130,
+      "fileName": "page-130.png",
+      "width": 792,
+      "height": 1224,
+      "size": 207152,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-130.png"
+    },
+    {
+      "page": 131,
+      "fileName": "page-131.png",
+      "width": 792,
+      "height": 1224,
+      "size": 207268,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-131.png"
+    },
+    {
+      "page": 132,
+      "fileName": "page-132.png",
+      "width": 792,
+      "height": 1224,
+      "size": 190044,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-132.png"
+    },
+    {
+      "page": 133,
+      "fileName": "page-133.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201348,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-133.png"
+    },
+    {
+      "page": 134,
+      "fileName": "page-134.png",
+      "width": 792,
+      "height": 1224,
+      "size": 200769,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-134.png"
+    },
+    {
+      "page": 135,
+      "fileName": "page-135.png",
+      "width": 792,
+      "height": 1224,
+      "size": 198946,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-135.png"
+    },
+    {
+      "page": 136,
+      "fileName": "page-136.png",
+      "width": 792,
+      "height": 1224,
+      "size": 197454,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-136.png"
+    },
+    {
+      "page": 137,
+      "fileName": "page-137.png",
+      "width": 792,
+      "height": 1224,
+      "size": 202055,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-137.png"
+    },
+    {
+      "page": 138,
+      "fileName": "page-138.png",
+      "width": 792,
+      "height": 1224,
+      "size": 203230,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-138.png"
+    },
+    {
+      "page": 139,
+      "fileName": "page-139.png",
+      "width": 792,
+      "height": 1224,
+      "size": 187246,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-139.png"
+    },
+    {
+      "page": 140,
+      "fileName": "page-140.png",
+      "width": 792,
+      "height": 1224,
+      "size": 194825,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-140.png"
+    },
+    {
+      "page": 141,
+      "fileName": "page-141.png",
+      "width": 792,
+      "height": 1224,
+      "size": 188014,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-141.png"
+    },
+    {
+      "page": 142,
+      "fileName": "page-142.png",
+      "width": 792,
+      "height": 1224,
+      "size": 203660,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-142.png"
+    },
+    {
+      "page": 143,
+      "fileName": "page-143.png",
+      "width": 792,
+      "height": 1224,
+      "size": 192140,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-143.png"
+    },
+    {
+      "page": 144,
+      "fileName": "page-144.png",
+      "width": 792,
+      "height": 1224,
+      "size": 194758,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-144.png"
+    },
+    {
+      "page": 145,
+      "fileName": "page-145.png",
+      "width": 792,
+      "height": 1224,
+      "size": 198918,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-145.png"
+    },
+    {
+      "page": 146,
+      "fileName": "page-146.png",
+      "width": 792,
+      "height": 1224,
+      "size": 136067,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-146.png"
+    },
+    {
+      "page": 147,
+      "fileName": "page-147.png",
+      "width": 792,
+      "height": 1224,
+      "size": 187758,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-147.png"
+    },
+    {
+      "page": 148,
+      "fileName": "page-148.png",
+      "width": 792,
+      "height": 1224,
+      "size": 197857,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-148.png"
+    },
+    {
+      "page": 149,
+      "fileName": "page-149.png",
+      "width": 792,
+      "height": 1224,
+      "size": 200451,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-149.png"
+    },
+    {
+      "page": 150,
+      "fileName": "page-150.png",
+      "width": 792,
+      "height": 1224,
+      "size": 194312,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-150.png"
+    },
+    {
+      "page": 151,
+      "fileName": "page-151.png",
+      "width": 792,
+      "height": 1224,
+      "size": 194167,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-151.png"
+    },
+    {
+      "page": 152,
+      "fileName": "page-152.png",
+      "width": 792,
+      "height": 1224,
+      "size": 145296,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-152.png"
+    },
+    {
+      "page": 153,
+      "fileName": "page-153.png",
+      "width": 792,
+      "height": 1224,
+      "size": 185277,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-153.png"
+    },
+    {
+      "page": 154,
+      "fileName": "page-154.png",
+      "width": 792,
+      "height": 1224,
+      "size": 195167,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-154.png"
+    },
+    {
+      "page": 155,
+      "fileName": "page-155.png",
+      "width": 792,
+      "height": 1224,
+      "size": 185866,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-155.png"
+    },
+    {
+      "page": 156,
+      "fileName": "page-156.png",
+      "width": 792,
+      "height": 1224,
+      "size": 180783,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-156.png"
+    },
+    {
+      "page": 157,
+      "fileName": "page-157.png",
+      "width": 792,
+      "height": 1224,
+      "size": 192853,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-157.png"
+    },
+    {
+      "page": 158,
+      "fileName": "page-158.png",
+      "width": 792,
+      "height": 1224,
+      "size": 203830,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-158.png"
+    },
+    {
+      "page": 159,
+      "fileName": "page-159.png",
+      "width": 792,
+      "height": 1224,
+      "size": 191264,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-159.png"
+    },
+    {
+      "page": 160,
+      "fileName": "page-160.png",
+      "width": 792,
+      "height": 1224,
+      "size": 185915,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-160.png"
+    },
+    {
+      "page": 161,
+      "fileName": "page-161.png",
+      "width": 792,
+      "height": 1224,
+      "size": 92990,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-161.png"
+    },
+    {
+      "page": 162,
+      "fileName": "page-162.png",
+      "width": 792,
+      "height": 1224,
+      "size": 193469,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-162.png"
+    },
+    {
+      "page": 163,
+      "fileName": "page-163.png",
+      "width": 792,
+      "height": 1224,
+      "size": 209796,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-163.png"
+    },
+    {
+      "page": 164,
+      "fileName": "page-164.png",
+      "width": 792,
+      "height": 1224,
+      "size": 207646,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-164.png"
+    },
+    {
+      "page": 165,
+      "fileName": "page-165.png",
+      "width": 792,
+      "height": 1224,
+      "size": 207665,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-165.png"
+    },
+    {
+      "page": 166,
+      "fileName": "page-166.png",
+      "width": 792,
+      "height": 1224,
+      "size": 198859,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-166.png"
+    },
+    {
+      "page": 167,
+      "fileName": "page-167.png",
+      "width": 792,
+      "height": 1224,
+      "size": 204619,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-167.png"
+    },
+    {
+      "page": 168,
+      "fileName": "page-168.png",
+      "width": 792,
+      "height": 1224,
+      "size": 202236,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-168.png"
+    },
+    {
+      "page": 169,
+      "fileName": "page-169.png",
+      "width": 792,
+      "height": 1224,
+      "size": 193384,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-169.png"
+    },
+    {
+      "page": 170,
+      "fileName": "page-170.png",
+      "width": 792,
+      "height": 1224,
+      "size": 202756,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-170.png"
+    },
+    {
+      "page": 171,
+      "fileName": "page-171.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201143,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-171.png"
+    },
+    {
+      "page": 172,
+      "fileName": "page-172.png",
+      "width": 792,
+      "height": 1224,
+      "size": 65947,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-172.png"
+    },
+    {
+      "page": 173,
+      "fileName": "page-173.png",
+      "width": 792,
+      "height": 1224,
+      "size": 176284,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-173.png"
+    },
+    {
+      "page": 174,
+      "fileName": "page-174.png",
+      "width": 792,
+      "height": 1224,
+      "size": 197706,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-174.png"
+    },
+    {
+      "page": 175,
+      "fileName": "page-175.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201796,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-175.png"
+    },
+    {
+      "page": 176,
+      "fileName": "page-176.png",
+      "width": 792,
+      "height": 1224,
+      "size": 202881,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-176.png"
+    },
+    {
+      "page": 177,
+      "fileName": "page-177.png",
+      "width": 792,
+      "height": 1224,
+      "size": 196893,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-177.png"
+    },
+    {
+      "page": 178,
+      "fileName": "page-178.png",
+      "width": 792,
+      "height": 1224,
+      "size": 195674,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-178.png"
+    },
+    {
+      "page": 179,
+      "fileName": "page-179.png",
+      "width": 792,
+      "height": 1224,
+      "size": 195078,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-179.png"
+    },
+    {
+      "page": 180,
+      "fileName": "page-180.png",
+      "width": 792,
+      "height": 1224,
+      "size": 168141,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-180.png"
+    },
+    {
+      "page": 181,
+      "fileName": "page-181.png",
+      "width": 792,
+      "height": 1224,
+      "size": 208061,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-181.png"
+    },
+    {
+      "page": 182,
+      "fileName": "page-182.png",
+      "width": 792,
+      "height": 1224,
+      "size": 193619,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-182.png"
+    },
+    {
+      "page": 183,
+      "fileName": "page-183.png",
+      "width": 792,
+      "height": 1224,
+      "size": 194566,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-183.png"
+    },
+    {
+      "page": 184,
+      "fileName": "page-184.png",
+      "width": 792,
+      "height": 1224,
+      "size": 185599,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-184.png"
+    },
+    {
+      "page": 185,
+      "fileName": "page-185.png",
+      "width": 792,
+      "height": 1224,
+      "size": 193535,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-185.png"
+    },
+    {
+      "page": 186,
+      "fileName": "page-186.png",
+      "width": 792,
+      "height": 1224,
+      "size": 180896,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-186.png"
+    },
+    {
+      "page": 187,
+      "fileName": "page-187.png",
+      "width": 792,
+      "height": 1224,
+      "size": 193824,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-187.png"
+    },
+    {
+      "page": 188,
+      "fileName": "page-188.png",
+      "width": 792,
+      "height": 1224,
+      "size": 210159,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-188.png"
+    },
+    {
+      "page": 189,
+      "fileName": "page-189.png",
+      "width": 792,
+      "height": 1224,
+      "size": 206423,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-189.png"
+    },
+    {
+      "page": 190,
+      "fileName": "page-190.png",
+      "width": 792,
+      "height": 1224,
+      "size": 198972,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-190.png"
+    },
+    {
+      "page": 191,
+      "fileName": "page-191.png",
+      "width": 792,
+      "height": 1224,
+      "size": 209395,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-191.png"
+    },
+    {
+      "page": 192,
+      "fileName": "page-192.png",
+      "width": 792,
+      "height": 1224,
+      "size": 198799,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-192.png"
+    },
+    {
+      "page": 193,
+      "fileName": "page-193.png",
+      "width": 792,
+      "height": 1224,
+      "size": 185977,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-193.png"
+    },
+    {
+      "page": 194,
+      "fileName": "page-194.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201528,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-194.png"
+    },
+    {
+      "page": 195,
+      "fileName": "page-195.png",
+      "width": 792,
+      "height": 1224,
+      "size": 206371,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-195.png"
+    },
+    {
+      "page": 196,
+      "fileName": "page-196.png",
+      "width": 792,
+      "height": 1224,
+      "size": 208101,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-196.png"
+    },
+    {
+      "page": 197,
+      "fileName": "page-197.png",
+      "width": 792,
+      "height": 1224,
+      "size": 199952,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-197.png"
+    },
+    {
+      "page": 198,
+      "fileName": "page-198.png",
+      "width": 792,
+      "height": 1224,
+      "size": 175999,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-198.png"
+    },
+    {
+      "page": 199,
+      "fileName": "page-199.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201781,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-199.png"
+    },
+    {
+      "page": 200,
+      "fileName": "page-200.png",
+      "width": 792,
+      "height": 1224,
+      "size": 202170,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-200.png"
+    },
+    {
+      "page": 201,
+      "fileName": "page-201.png",
+      "width": 792,
+      "height": 1224,
+      "size": 202649,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-201.png"
+    },
+    {
+      "page": 202,
+      "fileName": "page-202.png",
+      "width": 792,
+      "height": 1224,
+      "size": 206632,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-202.png"
+    },
+    {
+      "page": 203,
+      "fileName": "page-203.png",
+      "width": 792,
+      "height": 1224,
+      "size": 176449,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-203.png"
+    },
+    {
+      "page": 204,
+      "fileName": "page-204.png",
+      "width": 792,
+      "height": 1224,
+      "size": 186299,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-204.png"
+    },
+    {
+      "page": 205,
+      "fileName": "page-205.png",
+      "width": 792,
+      "height": 1224,
+      "size": 196690,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-205.png"
+    },
+    {
+      "page": 206,
+      "fileName": "page-206.png",
+      "width": 792,
+      "height": 1224,
+      "size": 206938,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-206.png"
+    },
+    {
+      "page": 207,
+      "fileName": "page-207.png",
+      "width": 792,
+      "height": 1224,
+      "size": 202057,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-207.png"
+    },
+    {
+      "page": 208,
+      "fileName": "page-208.png",
+      "width": 792,
+      "height": 1224,
+      "size": 189547,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-208.png"
+    },
+    {
+      "page": 209,
+      "fileName": "page-209.png",
+      "width": 792,
+      "height": 1224,
+      "size": 205812,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-209.png"
+    },
+    {
+      "page": 210,
+      "fileName": "page-210.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201862,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-210.png"
+    },
+    {
+      "page": 211,
+      "fileName": "page-211.png",
+      "width": 792,
+      "height": 1224,
+      "size": 172864,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-211.png"
+    },
+    {
+      "page": 212,
+      "fileName": "page-212.png",
+      "width": 792,
+      "height": 1224,
+      "size": 190864,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-212.png"
+    },
+    {
+      "page": 213,
+      "fileName": "page-213.png",
+      "width": 792,
+      "height": 1224,
+      "size": 189755,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-213.png"
+    },
+    {
+      "page": 214,
+      "fileName": "page-214.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201477,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-214.png"
+    },
+    {
+      "page": 215,
+      "fileName": "page-215.png",
+      "width": 792,
+      "height": 1224,
+      "size": 192299,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-215.png"
+    },
+    {
+      "page": 216,
+      "fileName": "page-216.png",
+      "width": 792,
+      "height": 1224,
+      "size": 178722,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-216.png"
+    },
+    {
+      "page": 217,
+      "fileName": "page-217.png",
+      "width": 792,
+      "height": 1224,
+      "size": 186877,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-217.png"
+    },
+    {
+      "page": 218,
+      "fileName": "page-218.png",
+      "width": 792,
+      "height": 1224,
+      "size": 182048,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-218.png"
+    },
+    {
+      "page": 219,
+      "fileName": "page-219.png",
+      "width": 792,
+      "height": 1224,
+      "size": 184451,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-219.png"
+    },
+    {
+      "page": 220,
+      "fileName": "page-220.png",
+      "width": 792,
+      "height": 1224,
+      "size": 189641,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-220.png"
+    },
+    {
+      "page": 221,
+      "fileName": "page-221.png",
+      "width": 792,
+      "height": 1224,
+      "size": 200646,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-221.png"
+    },
+    {
+      "page": 222,
+      "fileName": "page-222.png",
+      "width": 792,
+      "height": 1224,
+      "size": 195607,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-222.png"
+    },
+    {
+      "page": 223,
+      "fileName": "page-223.png",
+      "width": 792,
+      "height": 1224,
+      "size": 202608,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-223.png"
+    },
+    {
+      "page": 224,
+      "fileName": "page-224.png",
+      "width": 792,
+      "height": 1224,
+      "size": 148399,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-224.png"
+    },
+    {
+      "page": 225,
+      "fileName": "page-225.png",
+      "width": 792,
+      "height": 1224,
+      "size": 189574,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-225.png"
+    },
+    {
+      "page": 226,
+      "fileName": "page-226.png",
+      "width": 792,
+      "height": 1224,
+      "size": 209471,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-226.png"
+    },
+    {
+      "page": 227,
+      "fileName": "page-227.png",
+      "width": 792,
+      "height": 1224,
+      "size": 208825,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-227.png"
+    },
+    {
+      "page": 228,
+      "fileName": "page-228.png",
+      "width": 792,
+      "height": 1224,
+      "size": 188984,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-228.png"
+    },
+    {
+      "page": 229,
+      "fileName": "page-229.png",
+      "width": 792,
+      "height": 1224,
+      "size": 191000,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-229.png"
+    },
+    {
+      "page": 230,
+      "fileName": "page-230.png",
+      "width": 792,
+      "height": 1224,
+      "size": 197050,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-230.png"
+    },
+    {
+      "page": 231,
+      "fileName": "page-231.png",
+      "width": 792,
+      "height": 1224,
+      "size": 177969,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-231.png"
+    },
+    {
+      "page": 232,
+      "fileName": "page-232.png",
+      "width": 792,
+      "height": 1224,
+      "size": 142142,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-232.png"
+    },
+    {
+      "page": 233,
+      "fileName": "page-233.png",
+      "width": 792,
+      "height": 1224,
+      "size": 194122,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-233.png"
+    },
+    {
+      "page": 234,
+      "fileName": "page-234.png",
+      "width": 792,
+      "height": 1224,
+      "size": 194712,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-234.png"
+    },
+    {
+      "page": 235,
+      "fileName": "page-235.png",
+      "width": 792,
+      "height": 1224,
+      "size": 207873,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-235.png"
+    },
+    {
+      "page": 236,
+      "fileName": "page-236.png",
+      "width": 792,
+      "height": 1224,
+      "size": 205913,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-236.png"
+    },
+    {
+      "page": 237,
+      "fileName": "page-237.png",
+      "width": 792,
+      "height": 1224,
+      "size": 205575,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-237.png"
+    },
+    {
+      "page": 238,
+      "fileName": "page-238.png",
+      "width": 792,
+      "height": 1224,
+      "size": 166141,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-238.png"
+    },
+    {
+      "page": 239,
+      "fileName": "page-239.png",
+      "width": 792,
+      "height": 1224,
+      "size": 185693,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-239.png"
+    },
+    {
+      "page": 240,
+      "fileName": "page-240.png",
+      "width": 792,
+      "height": 1224,
+      "size": 198152,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-240.png"
+    },
+    {
+      "page": 241,
+      "fileName": "page-241.png",
+      "width": 792,
+      "height": 1224,
+      "size": 199544,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-241.png"
+    },
+    {
+      "page": 242,
+      "fileName": "page-242.png",
+      "width": 792,
+      "height": 1224,
+      "size": 191903,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-242.png"
+    },
+    {
+      "page": 243,
+      "fileName": "page-243.png",
+      "width": 792,
+      "height": 1224,
+      "size": 128966,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-243.png"
+    },
+    {
+      "page": 244,
+      "fileName": "page-244.png",
+      "width": 792,
+      "height": 1224,
+      "size": 188111,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-244.png"
+    },
+    {
+      "page": 245,
+      "fileName": "page-245.png",
+      "width": 792,
+      "height": 1224,
+      "size": 192370,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-245.png"
+    },
+    {
+      "page": 246,
+      "fileName": "page-246.png",
+      "width": 792,
+      "height": 1224,
+      "size": 188630,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-246.png"
+    },
+    {
+      "page": 247,
+      "fileName": "page-247.png",
+      "width": 792,
+      "height": 1224,
+      "size": 189897,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-247.png"
+    },
+    {
+      "page": 248,
+      "fileName": "page-248.png",
+      "width": 792,
+      "height": 1224,
+      "size": 179535,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-248.png"
+    },
+    {
+      "page": 249,
+      "fileName": "page-249.png",
+      "width": 792,
+      "height": 1224,
+      "size": 178222,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-249.png"
+    },
+    {
+      "page": 250,
+      "fileName": "page-250.png",
+      "width": 792,
+      "height": 1224,
+      "size": 199438,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-250.png"
+    },
+    {
+      "page": 251,
+      "fileName": "page-251.png",
+      "width": 792,
+      "height": 1224,
+      "size": 196756,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-251.png"
+    },
+    {
+      "page": 252,
+      "fileName": "page-252.png",
+      "width": 792,
+      "height": 1224,
+      "size": 198954,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-252.png"
+    },
+    {
+      "page": 253,
+      "fileName": "page-253.png",
+      "width": 792,
+      "height": 1224,
+      "size": 181049,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-253.png"
+    },
+    {
+      "page": 254,
+      "fileName": "page-254.png",
+      "width": 792,
+      "height": 1224,
+      "size": 196438,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-254.png"
+    },
+    {
+      "page": 255,
+      "fileName": "page-255.png",
+      "width": 792,
+      "height": 1224,
+      "size": 191079,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-255.png"
+    },
+    {
+      "page": 256,
+      "fileName": "page-256.png",
+      "width": 792,
+      "height": 1224,
+      "size": 156098,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-256.png"
+    },
+    {
+      "page": 257,
+      "fileName": "page-257.png",
+      "width": 792,
+      "height": 1224,
+      "size": 185338,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-257.png"
+    },
+    {
+      "page": 258,
+      "fileName": "page-258.png",
+      "width": 792,
+      "height": 1224,
+      "size": 191058,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-258.png"
+    },
+    {
+      "page": 259,
+      "fileName": "page-259.png",
+      "width": 792,
+      "height": 1224,
+      "size": 199886,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-259.png"
+    },
+    {
+      "page": 260,
+      "fileName": "page-260.png",
+      "width": 792,
+      "height": 1224,
+      "size": 168669,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-260.png"
+    },
+    {
+      "page": 261,
+      "fileName": "page-261.png",
+      "width": 792,
+      "height": 1224,
+      "size": 192650,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-261.png"
+    },
+    {
+      "page": 262,
+      "fileName": "page-262.png",
+      "width": 792,
+      "height": 1224,
+      "size": 200735,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-262.png"
+    },
+    {
+      "page": 263,
+      "fileName": "page-263.png",
+      "width": 792,
+      "height": 1224,
+      "size": 198050,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-263.png"
+    },
+    {
+      "page": 264,
+      "fileName": "page-264.png",
+      "width": 792,
+      "height": 1224,
+      "size": 188203,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-264.png"
+    },
+    {
+      "page": 265,
+      "fileName": "page-265.png",
+      "width": 792,
+      "height": 1224,
+      "size": 198859,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-265.png"
+    },
+    {
+      "page": 266,
+      "fileName": "page-266.png",
+      "width": 792,
+      "height": 1224,
+      "size": 90281,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-266.png"
+    },
+    {
+      "page": 267,
+      "fileName": "page-267.png",
+      "width": 792,
+      "height": 1224,
+      "size": 181703,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-267.png"
+    },
+    {
+      "page": 268,
+      "fileName": "page-268.png",
+      "width": 792,
+      "height": 1224,
+      "size": 200916,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-268.png"
+    },
+    {
+      "page": 269,
+      "fileName": "page-269.png",
+      "width": 792,
+      "height": 1224,
+      "size": 190964,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-269.png"
+    },
+    {
+      "page": 270,
+      "fileName": "page-270.png",
+      "width": 792,
+      "height": 1224,
+      "size": 198305,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-270.png"
+    },
+    {
+      "page": 271,
+      "fileName": "page-271.png",
+      "width": 792,
+      "height": 1224,
+      "size": 215771,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-271.png"
+    },
+    {
+      "page": 272,
+      "fileName": "page-272.png",
+      "width": 792,
+      "height": 1224,
+      "size": 163980,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-272.png"
+    },
+    {
+      "page": 273,
+      "fileName": "page-273.png",
+      "width": 792,
+      "height": 1224,
+      "size": 187381,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-273.png"
+    },
+    {
+      "page": 274,
+      "fileName": "page-274.png",
+      "width": 792,
+      "height": 1224,
+      "size": 198814,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-274.png"
+    },
+    {
+      "page": 275,
+      "fileName": "page-275.png",
+      "width": 792,
+      "height": 1224,
+      "size": 199495,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-275.png"
+    },
+    {
+      "page": 276,
+      "fileName": "page-276.png",
+      "width": 792,
+      "height": 1224,
+      "size": 198822,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-276.png"
+    },
+    {
+      "page": 277,
+      "fileName": "page-277.png",
+      "width": 792,
+      "height": 1224,
+      "size": 205909,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-277.png"
+    },
+    {
+      "page": 278,
+      "fileName": "page-278.png",
+      "width": 792,
+      "height": 1224,
+      "size": 88691,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-278.png"
+    },
+    {
+      "page": 279,
+      "fileName": "page-279.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201112,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-279.png"
+    },
+    {
+      "page": 280,
+      "fileName": "page-280.png",
+      "width": 792,
+      "height": 1224,
+      "size": 203199,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-280.png"
+    },
+    {
+      "page": 281,
+      "fileName": "page-281.png",
+      "width": 792,
+      "height": 1224,
+      "size": 193624,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-281.png"
+    },
+    {
+      "page": 282,
+      "fileName": "page-282.png",
+      "width": 792,
+      "height": 1224,
+      "size": 197866,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-282.png"
+    },
+    {
+      "page": 283,
+      "fileName": "page-283.png",
+      "width": 792,
+      "height": 1224,
+      "size": 202610,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-283.png"
+    },
+    {
+      "page": 284,
+      "fileName": "page-284.png",
+      "width": 792,
+      "height": 1224,
+      "size": 135941,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-284.png"
+    },
+    {
+      "page": 285,
+      "fileName": "page-285.png",
+      "width": 792,
+      "height": 1224,
+      "size": 177441,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-285.png"
+    },
+    {
+      "page": 286,
+      "fileName": "page-286.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201537,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-286.png"
+    },
+    {
+      "page": 287,
+      "fileName": "page-287.png",
+      "width": 792,
+      "height": 1224,
+      "size": 191094,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-287.png"
+    },
+    {
+      "page": 288,
+      "fileName": "page-288.png",
+      "width": 792,
+      "height": 1224,
+      "size": 70623,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-288.png"
+    },
+    {
+      "page": 289,
+      "fileName": "page-289.png",
+      "width": 792,
+      "height": 1224,
+      "size": 192502,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-289.png"
+    },
+    {
+      "page": 290,
+      "fileName": "page-290.png",
+      "width": 792,
+      "height": 1224,
+      "size": 205906,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-290.png"
+    },
+    {
+      "page": 291,
+      "fileName": "page-291.png",
+      "width": 792,
+      "height": 1224,
+      "size": 200999,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-291.png"
+    },
+    {
+      "page": 292,
+      "fileName": "page-292.png",
+      "width": 792,
+      "height": 1224,
+      "size": 199153,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-292.png"
+    },
+    {
+      "page": 293,
+      "fileName": "page-293.png",
+      "width": 792,
+      "height": 1224,
+      "size": 204266,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-293.png"
+    },
+    {
+      "page": 294,
+      "fileName": "page-294.png",
+      "width": 792,
+      "height": 1224,
+      "size": 195240,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-294.png"
+    },
+    {
+      "page": 295,
+      "fileName": "page-295.png",
+      "width": 792,
+      "height": 1224,
+      "size": 192657,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-295.png"
+    },
+    {
+      "page": 296,
+      "fileName": "page-296.png",
+      "width": 792,
+      "height": 1224,
+      "size": 101188,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-296.png"
+    },
+    {
+      "page": 297,
+      "fileName": "page-297.png",
+      "width": 792,
+      "height": 1224,
+      "size": 191272,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-297.png"
+    },
+    {
+      "page": 298,
+      "fileName": "page-298.png",
+      "width": 792,
+      "height": 1224,
+      "size": 202660,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-298.png"
+    },
+    {
+      "page": 299,
+      "fileName": "page-299.png",
+      "width": 792,
+      "height": 1224,
+      "size": 195736,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-299.png"
+    },
+    {
+      "page": 300,
+      "fileName": "page-300.png",
+      "width": 792,
+      "height": 1224,
+      "size": 197632,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-300.png"
+    },
+    {
+      "page": 301,
+      "fileName": "page-301.png",
+      "width": 792,
+      "height": 1224,
+      "size": 208902,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-301.png"
+    },
+    {
+      "page": 302,
+      "fileName": "page-302.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201245,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-302.png"
+    },
+    {
+      "page": 303,
+      "fileName": "page-303.png",
+      "width": 792,
+      "height": 1224,
+      "size": 106335,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-303.png"
+    },
+    {
+      "page": 304,
+      "fileName": "page-304.png",
+      "width": 792,
+      "height": 1224,
+      "size": 183056,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-304.png"
+    },
+    {
+      "page": 305,
+      "fileName": "page-305.png",
+      "width": 792,
+      "height": 1224,
+      "size": 195137,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-305.png"
+    },
+    {
+      "page": 306,
+      "fileName": "page-306.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201781,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-306.png"
+    },
+    {
+      "page": 307,
+      "fileName": "page-307.png",
+      "width": 792,
+      "height": 1224,
+      "size": 171762,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-307.png"
+    },
+    {
+      "page": 308,
+      "fileName": "page-308.png",
+      "width": 792,
+      "height": 1224,
+      "size": 205534,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-308.png"
+    },
+    {
+      "page": 309,
+      "fileName": "page-309.png",
+      "width": 792,
+      "height": 1224,
+      "size": 203133,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-309.png"
+    },
+    {
+      "page": 310,
+      "fileName": "page-310.png",
+      "width": 792,
+      "height": 1224,
+      "size": 208586,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-310.png"
+    },
+    {
+      "page": 311,
+      "fileName": "page-311.png",
+      "width": 792,
+      "height": 1224,
+      "size": 160331,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-311.png"
+    },
+    {
+      "page": 312,
+      "fileName": "page-312.png",
+      "width": 792,
+      "height": 1224,
+      "size": 179243,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-312.png"
+    },
+    {
+      "page": 313,
+      "fileName": "page-313.png",
+      "width": 792,
+      "height": 1224,
+      "size": 186190,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-313.png"
+    },
+    {
+      "page": 314,
+      "fileName": "page-314.png",
+      "width": 792,
+      "height": 1224,
+      "size": 195872,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-314.png"
+    },
+    {
+      "page": 315,
+      "fileName": "page-315.png",
+      "width": 792,
+      "height": 1224,
+      "size": 200894,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-315.png"
+    },
+    {
+      "page": 316,
+      "fileName": "page-316.png",
+      "width": 792,
+      "height": 1224,
+      "size": 195966,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-316.png"
+    },
+    {
+      "page": 317,
+      "fileName": "page-317.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201969,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-317.png"
+    },
+    {
+      "page": 318,
+      "fileName": "page-318.png",
+      "width": 792,
+      "height": 1224,
+      "size": 198556,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-318.png"
+    },
+    {
+      "page": 319,
+      "fileName": "page-319.png",
+      "width": 792,
+      "height": 1224,
+      "size": 167803,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-319.png"
+    },
+    {
+      "page": 320,
+      "fileName": "page-320.png",
+      "width": 792,
+      "height": 1224,
+      "size": 193002,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-320.png"
+    },
+    {
+      "page": 321,
+      "fileName": "page-321.png",
+      "width": 792,
+      "height": 1224,
+      "size": 195873,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-321.png"
+    },
+    {
+      "page": 322,
+      "fileName": "page-322.png",
+      "width": 792,
+      "height": 1224,
+      "size": 195366,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-322.png"
+    },
+    {
+      "page": 323,
+      "fileName": "page-323.png",
+      "width": 792,
+      "height": 1224,
+      "size": 196322,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-323.png"
+    },
+    {
+      "page": 324,
+      "fileName": "page-324.png",
+      "width": 792,
+      "height": 1224,
+      "size": 173198,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-324.png"
+    },
+    {
+      "page": 325,
+      "fileName": "page-325.png",
+      "width": 792,
+      "height": 1224,
+      "size": 200809,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-325.png"
+    },
+    {
+      "page": 326,
+      "fileName": "page-326.png",
+      "width": 792,
+      "height": 1224,
+      "size": 192508,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-326.png"
+    },
+    {
+      "page": 327,
+      "fileName": "page-327.png",
+      "width": 792,
+      "height": 1224,
+      "size": 89369,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-327.png"
+    },
+    {
+      "page": 328,
+      "fileName": "page-328.png",
+      "width": 792,
+      "height": 1224,
+      "size": 178988,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-328.png"
+    },
+    {
+      "page": 329,
+      "fileName": "page-329.png",
+      "width": 792,
+      "height": 1224,
+      "size": 200761,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-329.png"
+    },
+    {
+      "page": 330,
+      "fileName": "page-330.png",
+      "width": 792,
+      "height": 1224,
+      "size": 198969,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-330.png"
+    },
+    {
+      "page": 331,
+      "fileName": "page-331.png",
+      "width": 792,
+      "height": 1224,
+      "size": 212542,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-331.png"
+    },
+    {
+      "page": 332,
+      "fileName": "page-332.png",
+      "width": 792,
+      "height": 1224,
+      "size": 198115,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-332.png"
+    },
+    {
+      "page": 333,
+      "fileName": "page-333.png",
+      "width": 792,
+      "height": 1224,
+      "size": 189653,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-333.png"
+    },
+    {
+      "page": 334,
+      "fileName": "page-334.png",
+      "width": 792,
+      "height": 1224,
+      "size": 187223,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-334.png"
+    },
+    {
+      "page": 335,
+      "fileName": "page-335.png",
+      "width": 792,
+      "height": 1224,
+      "size": 202906,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-335.png"
+    },
+    {
+      "page": 336,
+      "fileName": "page-336.png",
+      "width": 792,
+      "height": 1224,
+      "size": 197940,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-336.png"
+    },
+    {
+      "page": 337,
+      "fileName": "page-337.png",
+      "width": 792,
+      "height": 1224,
+      "size": 108935,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-337.png"
+    },
+    {
+      "page": 338,
+      "fileName": "page-338.png",
+      "width": 792,
+      "height": 1224,
+      "size": 194286,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-338.png"
+    },
+    {
+      "page": 339,
+      "fileName": "page-339.png",
+      "width": 792,
+      "height": 1224,
+      "size": 215043,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-339.png"
+    },
+    {
+      "page": 340,
+      "fileName": "page-340.png",
+      "width": 792,
+      "height": 1224,
+      "size": 189022,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-340.png"
+    },
+    {
+      "page": 341,
+      "fileName": "page-341.png",
+      "width": 792,
+      "height": 1224,
+      "size": 192685,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-341.png"
+    },
+    {
+      "page": 342,
+      "fileName": "page-342.png",
+      "width": 792,
+      "height": 1224,
+      "size": 162833,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-342.png"
+    },
+    {
+      "page": 343,
+      "fileName": "page-343.png",
+      "width": 792,
+      "height": 1224,
+      "size": 199442,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-343.png"
+    },
+    {
+      "page": 344,
+      "fileName": "page-344.png",
+      "width": 792,
+      "height": 1224,
+      "size": 195155,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-344.png"
+    },
+    {
+      "page": 345,
+      "fileName": "page-345.png",
+      "width": 792,
+      "height": 1224,
+      "size": 187749,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-345.png"
+    },
+    {
+      "page": 346,
+      "fileName": "page-346.png",
+      "width": 792,
+      "height": 1224,
+      "size": 209495,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-346.png"
+    },
+    {
+      "page": 347,
+      "fileName": "page-347.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201125,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-347.png"
+    },
+    {
+      "page": 348,
+      "fileName": "page-348.png",
+      "width": 792,
+      "height": 1224,
+      "size": 164640,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-348.png"
+    },
+    {
+      "page": 349,
+      "fileName": "page-349.png",
+      "width": 792,
+      "height": 1224,
+      "size": 155254,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-349.png"
+    },
+    {
+      "page": 350,
+      "fileName": "page-350.png",
+      "width": 792,
+      "height": 1224,
+      "size": 175189,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-350.png"
+    },
+    {
+      "page": 351,
+      "fileName": "page-351.png",
+      "width": 792,
+      "height": 1224,
+      "size": 199719,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-351.png"
+    },
+    {
+      "page": 352,
+      "fileName": "page-352.png",
+      "width": 792,
+      "height": 1224,
+      "size": 202091,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-352.png"
+    },
+    {
+      "page": 353,
+      "fileName": "page-353.png",
+      "width": 792,
+      "height": 1224,
+      "size": 175548,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-353.png"
+    },
+    {
+      "page": 354,
+      "fileName": "page-354.png",
+      "width": 792,
+      "height": 1224,
+      "size": 192841,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-354.png"
+    },
+    {
+      "page": 355,
+      "fileName": "page-355.png",
+      "width": 792,
+      "height": 1224,
+      "size": 181856,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-355.png"
+    },
+    {
+      "page": 356,
+      "fileName": "page-356.png",
+      "width": 792,
+      "height": 1224,
+      "size": 207462,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-356.png"
+    },
+    {
+      "page": 357,
+      "fileName": "page-357.png",
+      "width": 792,
+      "height": 1224,
+      "size": 109709,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-357.png"
+    },
+    {
+      "page": 358,
+      "fileName": "page-358.png",
+      "width": 792,
+      "height": 1224,
+      "size": 192086,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-358.png"
+    },
+    {
+      "page": 359,
+      "fileName": "page-359.png",
+      "width": 792,
+      "height": 1224,
+      "size": 204280,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-359.png"
+    },
+    {
+      "page": 360,
+      "fileName": "page-360.png",
+      "width": 792,
+      "height": 1224,
+      "size": 188873,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-360.png"
+    },
+    {
+      "page": 361,
+      "fileName": "page-361.png",
+      "width": 792,
+      "height": 1224,
+      "size": 197647,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-361.png"
+    },
+    {
+      "page": 362,
+      "fileName": "page-362.png",
+      "width": 792,
+      "height": 1224,
+      "size": 205475,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-362.png"
+    },
+    {
+      "page": 363,
+      "fileName": "page-363.png",
+      "width": 792,
+      "height": 1224,
+      "size": 199211,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-363.png"
+    },
+    {
+      "page": 364,
+      "fileName": "page-364.png",
+      "width": 792,
+      "height": 1224,
+      "size": 133118,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-364.png"
+    },
+    {
+      "page": 365,
+      "fileName": "page-365.png",
+      "width": 792,
+      "height": 1224,
+      "size": 194283,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-365.png"
+    },
+    {
+      "page": 366,
+      "fileName": "page-366.png",
+      "width": 792,
+      "height": 1224,
+      "size": 208740,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-366.png"
+    },
+    {
+      "page": 367,
+      "fileName": "page-367.png",
+      "width": 792,
+      "height": 1224,
+      "size": 202153,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-367.png"
+    },
+    {
+      "page": 368,
+      "fileName": "page-368.png",
+      "width": 792,
+      "height": 1224,
+      "size": 195911,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-368.png"
+    },
+    {
+      "page": 369,
+      "fileName": "page-369.png",
+      "width": 792,
+      "height": 1224,
+      "size": 157153,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-369.png"
+    },
+    {
+      "page": 370,
+      "fileName": "page-370.png",
+      "width": 792,
+      "height": 1224,
+      "size": 179375,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-370.png"
+    },
+    {
+      "page": 371,
+      "fileName": "page-371.png",
+      "width": 792,
+      "height": 1224,
+      "size": 192386,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-371.png"
+    },
+    {
+      "page": 372,
+      "fileName": "page-372.png",
+      "width": 792,
+      "height": 1224,
+      "size": 203205,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-372.png"
+    },
+    {
+      "page": 373,
+      "fileName": "page-373.png",
+      "width": 792,
+      "height": 1224,
+      "size": 193314,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-373.png"
+    },
+    {
+      "page": 374,
+      "fileName": "page-374.png",
+      "width": 792,
+      "height": 1224,
+      "size": 183799,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-374.png"
+    },
+    {
+      "page": 375,
+      "fileName": "page-375.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201167,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-375.png"
+    },
+    {
+      "page": 376,
+      "fileName": "page-376.png",
+      "width": 792,
+      "height": 1224,
+      "size": 203085,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-376.png"
+    },
+    {
+      "page": 377,
+      "fileName": "page-377.png",
+      "width": 792,
+      "height": 1224,
+      "size": 204611,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-377.png"
+    },
+    {
+      "page": 378,
+      "fileName": "page-378.png",
+      "width": 792,
+      "height": 1224,
+      "size": 186662,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-378.png"
+    },
+    {
+      "page": 379,
+      "fileName": "page-379.png",
+      "width": 792,
+      "height": 1224,
+      "size": 201938,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-379.png"
+    },
+    {
+      "page": 380,
+      "fileName": "page-380.png",
+      "width": 792,
+      "height": 1224,
+      "size": 200941,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-380.png"
+    },
+    {
+      "page": 381,
+      "fileName": "page-381.png",
+      "width": 792,
+      "height": 1224,
+      "size": 202129,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-381.png"
+    },
+    {
+      "page": 382,
+      "fileName": "page-382.png",
+      "width": 792,
+      "height": 1224,
+      "size": 203648,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-382.png"
+    },
+    {
+      "page": 383,
+      "fileName": "page-383.png",
+      "width": 792,
+      "height": 1224,
+      "size": 205809,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-383.png"
+    },
+    {
+      "page": 384,
+      "fileName": "page-384.png",
+      "width": 792,
+      "height": 1224,
+      "size": 205224,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-384.png"
+    },
+    {
+      "page": 385,
+      "fileName": "page-385.png",
+      "width": 792,
+      "height": 1224,
+      "size": 202464,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-385.png"
+    },
+    {
+      "page": 386,
+      "fileName": "page-386.png",
+      "width": 792,
+      "height": 1224,
+      "size": 197512,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-386.png"
+    },
+    {
+      "page": 387,
+      "fileName": "page-387.png",
+      "width": 792,
+      "height": 1224,
+      "size": 206563,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-387.png"
+    },
+    {
+      "page": 388,
+      "fileName": "page-388.png",
+      "width": 792,
+      "height": 1224,
+      "size": 194884,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-388.png"
+    },
+    {
+      "page": 389,
+      "fileName": "page-389.png",
+      "width": 792,
+      "height": 1224,
+      "size": 198813,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-389.png"
+    },
+    {
+      "page": 390,
+      "fileName": "page-390.png",
+      "width": 792,
+      "height": 1224,
+      "size": 34668,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-390.png"
+    },
+    {
+      "page": 391,
+      "fileName": "page-391.png",
+      "width": 792,
+      "height": 1224,
+      "size": 709858,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/page-391.png"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "version": "2026-05-28-103427",
-  "generatedAt": "2026-05-28T05:04:28.075Z",
+  "version": "2026-05-28-103442",
+  "generatedAt": "2026-05-28T05:04:45.004Z",
   "books": [
     {
       "id": "addawatul-makkiyyah",
@@ -50,6 +50,14 @@
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/maqalaat-e-ahsani/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/maqalaat-e-ahsani/metadata.json"
+    },
+    {
+      "id": "mukashafatul-quloob",
+      "title": "Mukashafatul Quloob",
+      "category": "Seerah",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/cover.png",
+      "status": "published",
+      "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/mukashafatul-quloob/metadata.json"
     },
     {
       "id": "qayamat-kab-aayegi",

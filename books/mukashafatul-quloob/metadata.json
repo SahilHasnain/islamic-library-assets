@@ -1,0 +1,19 @@
+{
+  "id": "mukashafatul-quloob",
+  "title": "Mukashafatul Quloob",
+  "category": "Seerah",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/cover.png",
+  "languages": [
+    {
+      "id": "roman-urdu",
+      "title": "roman-urdu",
+      "volumes": [
+        {
+          "id": "volume2",
+          "title": "volume2",
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/manifest.json"
+        }
+      ]
+    }
+  ]
+}
