@@ -1,7 +1,15 @@
 {
-  "version": "2026-05-28-92010",
-  "generatedAt": "2026-05-28T03:50:11.985Z",
+  "version": "2026-05-28-94439",
+  "generatedAt": "2026-05-28T04:14:40.077Z",
   "books": [
+    {
+      "id": "ikhteyarat-e-mustafa",
+      "title": "Ikhteyarat e Mustafa",
+      "category": "Seerah",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ikhteyarat-e-mustafa/cover.png",
+      "status": "published",
+      "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/ikhteyarat-e-mustafa/metadata.json"
+    },
     {
       "id": "kanzul-iman",
       "title": "Kanzul Iman",
