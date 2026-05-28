@@ -1,0 +1,19 @@
+{
+  "id": "addawatul-makkiyyah",
+  "title": "Addawatul Makkiyyah",
+  "category": "Seerah",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/cover.png",
+  "languages": [
+    {
+      "id": "roman-urdu",
+      "title": "roman-urdu",
+      "volumes": [
+        {
+          "id": "volume1",
+          "title": "volume1",
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/roman-urdu/volume1/manifest.json"
+        }
+      ]
+    }
+  ]
+}
