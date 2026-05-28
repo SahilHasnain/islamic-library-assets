@@ -1,6 +1,6 @@
 {
-  "version": "2026-05-28-103331",
-  "generatedAt": "2026-05-28T05:03:32.344Z",
+  "version": "2026-05-28-103344",
+  "generatedAt": "2026-05-28T05:03:47.066Z",
   "books": [
     {
       "id": "addawatul-makkiyyah",
@@ -26,6 +26,14 @@
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/kanzul-iman/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/kanzul-iman/metadata.json"
+    },
+    {
+      "id": "maqalaat-e-ahsani",
+      "title": "Maqalaat e Ahsani",
+      "category": "Other",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/maqalaat-e-ahsani/cover.png",
+      "status": "published",
+      "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/maqalaat-e-ahsani/metadata.json"
     },
     {
       "id": "seerat-e-mustafa",

@@ -1,0 +1,19 @@
+{
+  "id": "maqalaat-e-ahsani",
+  "title": "Maqalaat e Ahsani",
+  "category": "Other",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/maqalaat-e-ahsani/cover.png",
+  "languages": [
+    {
+      "id": "hindi",
+      "title": "hindi",
+      "volumes": [
+        {
+          "id": "volume1",
+          "title": "volume1",
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/maqalaat-e-ahsani/hindi/volume1/manifest.json"
+        }
+      ]
+    }
+  ]
+}
