@@ -9,9 +9,9 @@
       "title": "roman-urdu",
       "volumes": [
         {
-          "id": "volume2",
-          "title": "volume2",
-          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/manifest.json"
+          "id": "volume1",
+          "title": "volume1",
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume1/manifest.json"
         }
       ]
     }
