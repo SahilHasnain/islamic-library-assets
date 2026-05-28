@@ -1,0 +1,19 @@
+{
+  "id": "qayamat-kab-aayegi",
+  "title": "Qayamat Kab Aayegi",
+  "category": "Seerah",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/qayamat-kab-aayegi/cover.png",
+  "languages": [
+    {
+      "id": "roman-urdu",
+      "title": "roman-urdu",
+      "volumes": [
+        {
+          "id": "volume1",
+          "title": "volume1",
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/qayamat-kab-aayegi/roman-urdu/volume1/manifest.json"
+        }
+      ]
+    }
+  ]
+}

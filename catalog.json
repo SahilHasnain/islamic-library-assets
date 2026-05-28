@@ -1,6 +1,6 @@
 {
-  "version": "2026-05-28-103424",
-  "generatedAt": "2026-05-28T05:04:24.969Z",
+  "version": "2026-05-28-103427",
+  "generatedAt": "2026-05-28T05:04:28.075Z",
   "books": [
     {
       "id": "addawatul-makkiyyah",
@@ -17,6 +17,14 @@
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ahle-sunaat-ki-pehchan/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/ahle-sunaat-ki-pehchan/metadata.json"
+    },
+    {
+      "id": "aqaid-e-ahle-sunnat",
+      "title": "Aqaid e Ahle Sunnat",
+      "category": "Seerah",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/aqaid-e-ahle-sunnat/cover.png",
+      "status": "published",
+      "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/aqaid-e-ahle-sunnat/metadata.json"
     },
     {
       "id": "ikhteyarat-e-mustafa",
@@ -42,6 +50,14 @@
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/maqalaat-e-ahsani/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/maqalaat-e-ahsani/metadata.json"
+    },
+    {
+      "id": "qayamat-kab-aayegi",
+      "title": "Qayamat Kab Aayegi",
+      "category": "Seerah",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/qayamat-kab-aayegi/cover.png",
+      "status": "published",
+      "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/qayamat-kab-aayegi/metadata.json"
     },
     {
       "id": "seerat-e-mustafa",

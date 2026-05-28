@@ -1,0 +1,19 @@
+{
+  "id": "aqaid-e-ahle-sunnat",
+  "title": "Aqaid e Ahle Sunnat",
+  "category": "Seerah",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/aqaid-e-ahle-sunnat/cover.png",
+  "languages": [
+    {
+      "id": "roman-urdu",
+      "title": "roman-urdu",
+      "volumes": [
+        {
+          "id": "volume1",
+          "title": "volume1",
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/aqaid-e-ahle-sunnat/roman-urdu/volume1/manifest.json"
+        }
+      ]
+    }
+  ]
+}
