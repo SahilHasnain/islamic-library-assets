@@ -1,6 +1,6 @@
 {
-  "version": "2026-05-28-103442",
-  "generatedAt": "2026-05-28T05:04:45.004Z",
+  "version": "2026-05-28-104241",
+  "generatedAt": "2026-05-28T05:12:41.638Z",
   "books": [
     {
       "id": "addawatul-makkiyyah",
@@ -17,6 +17,14 @@
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ahle-sunaat-ki-pehchan/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/ahle-sunaat-ki-pehchan/metadata.json"
+    },
+    {
+      "id": "anwaar-e-shariat",
+      "title": "Anwaar e Shariat",
+      "category": "Seerah",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/cover.png",
+      "status": "published",
+      "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/anwaar-e-shariat/metadata.json"
     },
     {
       "id": "aqaid-e-ahle-sunnat",

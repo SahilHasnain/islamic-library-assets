@@ -1,0 +1,1157 @@
+{
+  "bookId": "anwaar-e-shariat",
+  "languageId": "roman-urdu",
+  "volumeId": "volume1",
+  "version": "2026-05-28-104241",
+  "totalPages": 143,
+  "baseUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1",
+  "filePattern": "page-{page}.png",
+  "extension": "png",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/cover.png",
+  "pages": [
+    {
+      "page": 1,
+      "fileName": "page-001.png",
+      "width": 756,
+      "height": 1188,
+      "size": 852433,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-001.png"
+    },
+    {
+      "page": 2,
+      "fileName": "page-002.png",
+      "width": 756,
+      "height": 1188,
+      "size": 30142,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-002.png"
+    },
+    {
+      "page": 3,
+      "fileName": "page-003.png",
+      "width": 756,
+      "height": 1188,
+      "size": 94704,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-003.png"
+    },
+    {
+      "page": 4,
+      "fileName": "page-004.png",
+      "width": 756,
+      "height": 1188,
+      "size": 32194,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-004.png"
+    },
+    {
+      "page": 5,
+      "fileName": "page-005.png",
+      "width": 756,
+      "height": 1188,
+      "size": 121259,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-005.png"
+    },
+    {
+      "page": 6,
+      "fileName": "page-006.png",
+      "width": 756,
+      "height": 1188,
+      "size": 124627,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-006.png"
+    },
+    {
+      "page": 7,
+      "fileName": "page-007.png",
+      "width": 756,
+      "height": 1188,
+      "size": 120448,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-007.png"
+    },
+    {
+      "page": 8,
+      "fileName": "page-008.png",
+      "width": 756,
+      "height": 1188,
+      "size": 128769,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-008.png"
+    },
+    {
+      "page": 9,
+      "fileName": "page-009.png",
+      "width": 756,
+      "height": 1188,
+      "size": 130627,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-009.png"
+    },
+    {
+      "page": 10,
+      "fileName": "page-010.png",
+      "width": 756,
+      "height": 1188,
+      "size": 73323,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-010.png"
+    },
+    {
+      "page": 11,
+      "fileName": "page-011.png",
+      "width": 756,
+      "height": 1188,
+      "size": 123110,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-011.png"
+    },
+    {
+      "page": 12,
+      "fileName": "page-012.png",
+      "width": 756,
+      "height": 1188,
+      "size": 138114,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-012.png"
+    },
+    {
+      "page": 13,
+      "fileName": "page-013.png",
+      "width": 756,
+      "height": 1188,
+      "size": 119783,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-013.png"
+    },
+    {
+      "page": 14,
+      "fileName": "page-014.png",
+      "width": 756,
+      "height": 1188,
+      "size": 109411,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-014.png"
+    },
+    {
+      "page": 15,
+      "fileName": "page-015.png",
+      "width": 756,
+      "height": 1188,
+      "size": 143484,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-015.png"
+    },
+    {
+      "page": 16,
+      "fileName": "page-016.png",
+      "width": 756,
+      "height": 1188,
+      "size": 129464,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-016.png"
+    },
+    {
+      "page": 17,
+      "fileName": "page-017.png",
+      "width": 756,
+      "height": 1188,
+      "size": 135211,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-017.png"
+    },
+    {
+      "page": 18,
+      "fileName": "page-018.png",
+      "width": 756,
+      "height": 1188,
+      "size": 121555,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-018.png"
+    },
+    {
+      "page": 19,
+      "fileName": "page-019.png",
+      "width": 756,
+      "height": 1188,
+      "size": 148663,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-019.png"
+    },
+    {
+      "page": 20,
+      "fileName": "page-020.png",
+      "width": 756,
+      "height": 1188,
+      "size": 145112,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-020.png"
+    },
+    {
+      "page": 21,
+      "fileName": "page-021.png",
+      "width": 756,
+      "height": 1188,
+      "size": 126601,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-021.png"
+    },
+    {
+      "page": 22,
+      "fileName": "page-022.png",
+      "width": 756,
+      "height": 1188,
+      "size": 141298,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-022.png"
+    },
+    {
+      "page": 23,
+      "fileName": "page-023.png",
+      "width": 756,
+      "height": 1188,
+      "size": 133692,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-023.png"
+    },
+    {
+      "page": 24,
+      "fileName": "page-024.png",
+      "width": 756,
+      "height": 1188,
+      "size": 147263,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-024.png"
+    },
+    {
+      "page": 25,
+      "fileName": "page-025.png",
+      "width": 756,
+      "height": 1188,
+      "size": 125799,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-025.png"
+    },
+    {
+      "page": 26,
+      "fileName": "page-026.png",
+      "width": 756,
+      "height": 1188,
+      "size": 128925,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-026.png"
+    },
+    {
+      "page": 27,
+      "fileName": "page-027.png",
+      "width": 756,
+      "height": 1188,
+      "size": 133674,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-027.png"
+    },
+    {
+      "page": 28,
+      "fileName": "page-028.png",
+      "width": 756,
+      "height": 1188,
+      "size": 140376,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-028.png"
+    },
+    {
+      "page": 29,
+      "fileName": "page-029.png",
+      "width": 756,
+      "height": 1188,
+      "size": 133835,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-029.png"
+    },
+    {
+      "page": 30,
+      "fileName": "page-030.png",
+      "width": 756,
+      "height": 1188,
+      "size": 129681,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-030.png"
+    },
+    {
+      "page": 31,
+      "fileName": "page-031.png",
+      "width": 756,
+      "height": 1188,
+      "size": 128239,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-031.png"
+    },
+    {
+      "page": 32,
+      "fileName": "page-032.png",
+      "width": 756,
+      "height": 1188,
+      "size": 111771,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-032.png"
+    },
+    {
+      "page": 33,
+      "fileName": "page-033.png",
+      "width": 756,
+      "height": 1188,
+      "size": 124661,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-033.png"
+    },
+    {
+      "page": 34,
+      "fileName": "page-034.png",
+      "width": 756,
+      "height": 1188,
+      "size": 114555,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-034.png"
+    },
+    {
+      "page": 35,
+      "fileName": "page-035.png",
+      "width": 756,
+      "height": 1188,
+      "size": 128540,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-035.png"
+    },
+    {
+      "page": 36,
+      "fileName": "page-036.png",
+      "width": 756,
+      "height": 1188,
+      "size": 121160,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-036.png"
+    },
+    {
+      "page": 37,
+      "fileName": "page-037.png",
+      "width": 756,
+      "height": 1188,
+      "size": 117048,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-037.png"
+    },
+    {
+      "page": 38,
+      "fileName": "page-038.png",
+      "width": 756,
+      "height": 1188,
+      "size": 132268,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-038.png"
+    },
+    {
+      "page": 39,
+      "fileName": "page-039.png",
+      "width": 756,
+      "height": 1188,
+      "size": 109557,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-039.png"
+    },
+    {
+      "page": 40,
+      "fileName": "page-040.png",
+      "width": 756,
+      "height": 1188,
+      "size": 137959,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-040.png"
+    },
+    {
+      "page": 41,
+      "fileName": "page-041.png",
+      "width": 756,
+      "height": 1188,
+      "size": 138192,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-041.png"
+    },
+    {
+      "page": 42,
+      "fileName": "page-042.png",
+      "width": 756,
+      "height": 1188,
+      "size": 132931,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-042.png"
+    },
+    {
+      "page": 43,
+      "fileName": "page-043.png",
+      "width": 756,
+      "height": 1188,
+      "size": 129315,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-043.png"
+    },
+    {
+      "page": 44,
+      "fileName": "page-044.png",
+      "width": 756,
+      "height": 1188,
+      "size": 107548,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-044.png"
+    },
+    {
+      "page": 45,
+      "fileName": "page-045.png",
+      "width": 756,
+      "height": 1188,
+      "size": 128514,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-045.png"
+    },
+    {
+      "page": 46,
+      "fileName": "page-046.png",
+      "width": 756,
+      "height": 1188,
+      "size": 114753,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-046.png"
+    },
+    {
+      "page": 47,
+      "fileName": "page-047.png",
+      "width": 756,
+      "height": 1188,
+      "size": 108770,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-047.png"
+    },
+    {
+      "page": 48,
+      "fileName": "page-048.png",
+      "width": 756,
+      "height": 1188,
+      "size": 127983,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-048.png"
+    },
+    {
+      "page": 49,
+      "fileName": "page-049.png",
+      "width": 756,
+      "height": 1188,
+      "size": 105071,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-049.png"
+    },
+    {
+      "page": 50,
+      "fileName": "page-050.png",
+      "width": 756,
+      "height": 1188,
+      "size": 113410,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-050.png"
+    },
+    {
+      "page": 51,
+      "fileName": "page-051.png",
+      "width": 756,
+      "height": 1188,
+      "size": 116566,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-051.png"
+    },
+    {
+      "page": 52,
+      "fileName": "page-052.png",
+      "width": 756,
+      "height": 1188,
+      "size": 116779,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-052.png"
+    },
+    {
+      "page": 53,
+      "fileName": "page-053.png",
+      "width": 756,
+      "height": 1188,
+      "size": 115540,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-053.png"
+    },
+    {
+      "page": 54,
+      "fileName": "page-054.png",
+      "width": 756,
+      "height": 1188,
+      "size": 109683,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-054.png"
+    },
+    {
+      "page": 55,
+      "fileName": "page-055.png",
+      "width": 756,
+      "height": 1188,
+      "size": 115265,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-055.png"
+    },
+    {
+      "page": 56,
+      "fileName": "page-056.png",
+      "width": 756,
+      "height": 1188,
+      "size": 124579,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-056.png"
+    },
+    {
+      "page": 57,
+      "fileName": "page-057.png",
+      "width": 756,
+      "height": 1188,
+      "size": 119315,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-057.png"
+    },
+    {
+      "page": 58,
+      "fileName": "page-058.png",
+      "width": 756,
+      "height": 1188,
+      "size": 163653,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-058.png"
+    },
+    {
+      "page": 59,
+      "fileName": "page-059.png",
+      "width": 756,
+      "height": 1188,
+      "size": 150977,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-059.png"
+    },
+    {
+      "page": 60,
+      "fileName": "page-060.png",
+      "width": 756,
+      "height": 1188,
+      "size": 141020,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-060.png"
+    },
+    {
+      "page": 61,
+      "fileName": "page-061.png",
+      "width": 756,
+      "height": 1188,
+      "size": 154311,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-061.png"
+    },
+    {
+      "page": 62,
+      "fileName": "page-062.png",
+      "width": 756,
+      "height": 1188,
+      "size": 119514,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-062.png"
+    },
+    {
+      "page": 63,
+      "fileName": "page-063.png",
+      "width": 756,
+      "height": 1188,
+      "size": 115295,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-063.png"
+    },
+    {
+      "page": 64,
+      "fileName": "page-064.png",
+      "width": 756,
+      "height": 1188,
+      "size": 114322,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-064.png"
+    },
+    {
+      "page": 65,
+      "fileName": "page-065.png",
+      "width": 756,
+      "height": 1188,
+      "size": 112975,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-065.png"
+    },
+    {
+      "page": 66,
+      "fileName": "page-066.png",
+      "width": 756,
+      "height": 1188,
+      "size": 147665,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-066.png"
+    },
+    {
+      "page": 67,
+      "fileName": "page-067.png",
+      "width": 756,
+      "height": 1188,
+      "size": 142393,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-067.png"
+    },
+    {
+      "page": 68,
+      "fileName": "page-068.png",
+      "width": 756,
+      "height": 1188,
+      "size": 161657,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-068.png"
+    },
+    {
+      "page": 69,
+      "fileName": "page-069.png",
+      "width": 756,
+      "height": 1188,
+      "size": 116279,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-069.png"
+    },
+    {
+      "page": 70,
+      "fileName": "page-070.png",
+      "width": 756,
+      "height": 1188,
+      "size": 118564,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-070.png"
+    },
+    {
+      "page": 71,
+      "fileName": "page-071.png",
+      "width": 756,
+      "height": 1188,
+      "size": 115692,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-071.png"
+    },
+    {
+      "page": 72,
+      "fileName": "page-072.png",
+      "width": 756,
+      "height": 1188,
+      "size": 140267,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-072.png"
+    },
+    {
+      "page": 73,
+      "fileName": "page-073.png",
+      "width": 756,
+      "height": 1188,
+      "size": 131579,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-073.png"
+    },
+    {
+      "page": 74,
+      "fileName": "page-074.png",
+      "width": 756,
+      "height": 1188,
+      "size": 166172,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-074.png"
+    },
+    {
+      "page": 75,
+      "fileName": "page-075.png",
+      "width": 756,
+      "height": 1188,
+      "size": 145047,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-075.png"
+    },
+    {
+      "page": 76,
+      "fileName": "page-076.png",
+      "width": 756,
+      "height": 1188,
+      "size": 144331,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-076.png"
+    },
+    {
+      "page": 77,
+      "fileName": "page-077.png",
+      "width": 756,
+      "height": 1188,
+      "size": 123220,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-077.png"
+    },
+    {
+      "page": 78,
+      "fileName": "page-078.png",
+      "width": 756,
+      "height": 1188,
+      "size": 128446,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-078.png"
+    },
+    {
+      "page": 79,
+      "fileName": "page-079.png",
+      "width": 756,
+      "height": 1188,
+      "size": 145866,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-079.png"
+    },
+    {
+      "page": 80,
+      "fileName": "page-080.png",
+      "width": 756,
+      "height": 1188,
+      "size": 116395,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-080.png"
+    },
+    {
+      "page": 81,
+      "fileName": "page-081.png",
+      "width": 756,
+      "height": 1188,
+      "size": 146798,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-081.png"
+    },
+    {
+      "page": 82,
+      "fileName": "page-082.png",
+      "width": 756,
+      "height": 1188,
+      "size": 141138,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-082.png"
+    },
+    {
+      "page": 83,
+      "fileName": "page-083.png",
+      "width": 756,
+      "height": 1188,
+      "size": 112933,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-083.png"
+    },
+    {
+      "page": 84,
+      "fileName": "page-084.png",
+      "width": 756,
+      "height": 1188,
+      "size": 121081,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-084.png"
+    },
+    {
+      "page": 85,
+      "fileName": "page-085.png",
+      "width": 756,
+      "height": 1188,
+      "size": 113231,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-085.png"
+    },
+    {
+      "page": 86,
+      "fileName": "page-086.png",
+      "width": 756,
+      "height": 1188,
+      "size": 134496,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-086.png"
+    },
+    {
+      "page": 87,
+      "fileName": "page-087.png",
+      "width": 756,
+      "height": 1188,
+      "size": 136210,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-087.png"
+    },
+    {
+      "page": 88,
+      "fileName": "page-088.png",
+      "width": 756,
+      "height": 1188,
+      "size": 127275,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-088.png"
+    },
+    {
+      "page": 89,
+      "fileName": "page-089.png",
+      "width": 756,
+      "height": 1188,
+      "size": 129178,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-089.png"
+    },
+    {
+      "page": 90,
+      "fileName": "page-090.png",
+      "width": 756,
+      "height": 1188,
+      "size": 122089,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-090.png"
+    },
+    {
+      "page": 91,
+      "fileName": "page-091.png",
+      "width": 756,
+      "height": 1188,
+      "size": 130564,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-091.png"
+    },
+    {
+      "page": 92,
+      "fileName": "page-092.png",
+      "width": 756,
+      "height": 1188,
+      "size": 129986,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-092.png"
+    },
+    {
+      "page": 93,
+      "fileName": "page-093.png",
+      "width": 756,
+      "height": 1188,
+      "size": 122315,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-093.png"
+    },
+    {
+      "page": 94,
+      "fileName": "page-094.png",
+      "width": 756,
+      "height": 1188,
+      "size": 113412,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-094.png"
+    },
+    {
+      "page": 95,
+      "fileName": "page-095.png",
+      "width": 756,
+      "height": 1188,
+      "size": 120353,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-095.png"
+    },
+    {
+      "page": 96,
+      "fileName": "page-096.png",
+      "width": 756,
+      "height": 1188,
+      "size": 107934,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-096.png"
+    },
+    {
+      "page": 97,
+      "fileName": "page-097.png",
+      "width": 756,
+      "height": 1188,
+      "size": 123397,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-097.png"
+    },
+    {
+      "page": 98,
+      "fileName": "page-098.png",
+      "width": 756,
+      "height": 1188,
+      "size": 118499,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-098.png"
+    },
+    {
+      "page": 99,
+      "fileName": "page-099.png",
+      "width": 756,
+      "height": 1188,
+      "size": 123900,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-099.png"
+    },
+    {
+      "page": 100,
+      "fileName": "page-100.png",
+      "width": 756,
+      "height": 1188,
+      "size": 107733,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-100.png"
+    },
+    {
+      "page": 101,
+      "fileName": "page-101.png",
+      "width": 756,
+      "height": 1188,
+      "size": 106810,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-101.png"
+    },
+    {
+      "page": 102,
+      "fileName": "page-102.png",
+      "width": 756,
+      "height": 1188,
+      "size": 132872,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-102.png"
+    },
+    {
+      "page": 103,
+      "fileName": "page-103.png",
+      "width": 756,
+      "height": 1188,
+      "size": 108734,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-103.png"
+    },
+    {
+      "page": 104,
+      "fileName": "page-104.png",
+      "width": 756,
+      "height": 1188,
+      "size": 125523,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-104.png"
+    },
+    {
+      "page": 105,
+      "fileName": "page-105.png",
+      "width": 756,
+      "height": 1188,
+      "size": 133458,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-105.png"
+    },
+    {
+      "page": 106,
+      "fileName": "page-106.png",
+      "width": 756,
+      "height": 1188,
+      "size": 135269,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-106.png"
+    },
+    {
+      "page": 107,
+      "fileName": "page-107.png",
+      "width": 756,
+      "height": 1188,
+      "size": 129719,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-107.png"
+    },
+    {
+      "page": 108,
+      "fileName": "page-108.png",
+      "width": 756,
+      "height": 1188,
+      "size": 144005,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-108.png"
+    },
+    {
+      "page": 109,
+      "fileName": "page-109.png",
+      "width": 756,
+      "height": 1188,
+      "size": 119866,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-109.png"
+    },
+    {
+      "page": 110,
+      "fileName": "page-110.png",
+      "width": 756,
+      "height": 1188,
+      "size": 118417,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-110.png"
+    },
+    {
+      "page": 111,
+      "fileName": "page-111.png",
+      "width": 756,
+      "height": 1188,
+      "size": 126121,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-111.png"
+    },
+    {
+      "page": 112,
+      "fileName": "page-112.png",
+      "width": 756,
+      "height": 1188,
+      "size": 120038,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-112.png"
+    },
+    {
+      "page": 113,
+      "fileName": "page-113.png",
+      "width": 756,
+      "height": 1188,
+      "size": 139775,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-113.png"
+    },
+    {
+      "page": 114,
+      "fileName": "page-114.png",
+      "width": 756,
+      "height": 1188,
+      "size": 106831,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-114.png"
+    },
+    {
+      "page": 115,
+      "fileName": "page-115.png",
+      "width": 756,
+      "height": 1188,
+      "size": 141720,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-115.png"
+    },
+    {
+      "page": 116,
+      "fileName": "page-116.png",
+      "width": 756,
+      "height": 1188,
+      "size": 114127,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-116.png"
+    },
+    {
+      "page": 117,
+      "fileName": "page-117.png",
+      "width": 756,
+      "height": 1188,
+      "size": 114589,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-117.png"
+    },
+    {
+      "page": 118,
+      "fileName": "page-118.png",
+      "width": 756,
+      "height": 1188,
+      "size": 118005,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-118.png"
+    },
+    {
+      "page": 119,
+      "fileName": "page-119.png",
+      "width": 756,
+      "height": 1188,
+      "size": 125676,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-119.png"
+    },
+    {
+      "page": 120,
+      "fileName": "page-120.png",
+      "width": 756,
+      "height": 1188,
+      "size": 112859,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-120.png"
+    },
+    {
+      "page": 121,
+      "fileName": "page-121.png",
+      "width": 756,
+      "height": 1188,
+      "size": 128736,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-121.png"
+    },
+    {
+      "page": 122,
+      "fileName": "page-122.png",
+      "width": 756,
+      "height": 1188,
+      "size": 116871,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-122.png"
+    },
+    {
+      "page": 123,
+      "fileName": "page-123.png",
+      "width": 756,
+      "height": 1188,
+      "size": 116544,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-123.png"
+    },
+    {
+      "page": 124,
+      "fileName": "page-124.png",
+      "width": 756,
+      "height": 1188,
+      "size": 105176,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-124.png"
+    },
+    {
+      "page": 125,
+      "fileName": "page-125.png",
+      "width": 756,
+      "height": 1188,
+      "size": 130364,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-125.png"
+    },
+    {
+      "page": 126,
+      "fileName": "page-126.png",
+      "width": 756,
+      "height": 1188,
+      "size": 121909,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-126.png"
+    },
+    {
+      "page": 127,
+      "fileName": "page-127.png",
+      "width": 756,
+      "height": 1188,
+      "size": 142373,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-127.png"
+    },
+    {
+      "page": 128,
+      "fileName": "page-128.png",
+      "width": 756,
+      "height": 1188,
+      "size": 124009,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-128.png"
+    },
+    {
+      "page": 129,
+      "fileName": "page-129.png",
+      "width": 756,
+      "height": 1188,
+      "size": 123019,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-129.png"
+    },
+    {
+      "page": 130,
+      "fileName": "page-130.png",
+      "width": 756,
+      "height": 1188,
+      "size": 137032,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-130.png"
+    },
+    {
+      "page": 131,
+      "fileName": "page-131.png",
+      "width": 756,
+      "height": 1188,
+      "size": 111412,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-131.png"
+    },
+    {
+      "page": 132,
+      "fileName": "page-132.png",
+      "width": 756,
+      "height": 1188,
+      "size": 139652,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-132.png"
+    },
+    {
+      "page": 133,
+      "fileName": "page-133.png",
+      "width": 756,
+      "height": 1188,
+      "size": 142555,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-133.png"
+    },
+    {
+      "page": 134,
+      "fileName": "page-134.png",
+      "width": 756,
+      "height": 1188,
+      "size": 146731,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-134.png"
+    },
+    {
+      "page": 135,
+      "fileName": "page-135.png",
+      "width": 756,
+      "height": 1188,
+      "size": 136336,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-135.png"
+    },
+    {
+      "page": 136,
+      "fileName": "page-136.png",
+      "width": 756,
+      "height": 1188,
+      "size": 154303,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-136.png"
+    },
+    {
+      "page": 137,
+      "fileName": "page-137.png",
+      "width": 756,
+      "height": 1188,
+      "size": 148578,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-137.png"
+    },
+    {
+      "page": 138,
+      "fileName": "page-138.png",
+      "width": 756,
+      "height": 1188,
+      "size": 121699,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-138.png"
+    },
+    {
+      "page": 139,
+      "fileName": "page-139.png",
+      "width": 756,
+      "height": 1188,
+      "size": 145411,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-139.png"
+    },
+    {
+      "page": 140,
+      "fileName": "page-140.png",
+      "width": 756,
+      "height": 1188,
+      "size": 132503,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-140.png"
+    },
+    {
+      "page": 141,
+      "fileName": "page-141.png",
+      "width": 756,
+      "height": 1188,
+      "size": 114910,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-141.png"
+    },
+    {
+      "page": 142,
+      "fileName": "page-142.png",
+      "width": 756,
+      "height": 1188,
+      "size": 84589,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-142.png"
+    },
+    {
+      "page": 143,
+      "fileName": "page-143.png",
+      "width": 756,
+      "height": 1188,
+      "size": 554820,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/page-143.png"
+    }
+  ]
+}
