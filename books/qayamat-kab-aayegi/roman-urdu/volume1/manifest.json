@@ -2,7 +2,7 @@
   "bookId": "qayamat-kab-aayegi",
   "languageId": "roman-urdu",
   "volumeId": "volume1",
-  "version": "2026-05-28-103427",
+  "version": "2026-05-28-10436",
   "totalPages": 111,
   "baseUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/qayamat-kab-aayegi/roman-urdu/volume1",
   "filePattern": "page-{page}.png",
