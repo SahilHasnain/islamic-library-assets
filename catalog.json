@@ -1,6 +1,6 @@
 {
-  "version": "2026-05-28-103344",
-  "generatedAt": "2026-05-28T05:03:47.066Z",
+  "version": "2026-05-28-103424",
+  "generatedAt": "2026-05-28T05:04:24.969Z",
   "books": [
     {
       "id": "addawatul-makkiyyah",
@@ -9,6 +9,14 @@
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/addawatul-makkiyyah/metadata.json"
+    },
+    {
+      "id": "ahle-sunaat-ki-pehchan",
+      "title": "Ahle Sunaat Ki Pehchan",
+      "category": "Seerah",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ahle-sunaat-ki-pehchan/cover.png",
+      "status": "published",
+      "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/ahle-sunaat-ki-pehchan/metadata.json"
     },
     {
       "id": "ikhteyarat-e-mustafa",
