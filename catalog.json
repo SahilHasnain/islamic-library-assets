@@ -1,7 +1,16 @@
 {
-  "version": "2026-05-28-91655",
-  "generatedAt": "2026-05-28T03:46:56.692Z",
+  "version": "2026-05-28-92010",
+  "generatedAt": "2026-05-28T03:50:11.985Z",
   "books": [
+    {
+      "id": "kanzul-iman",
+      "title": "Kanzul Iman",
+      "subtitle": "Quran Tarjama by Alahazrat",
+      "category": "Seerah",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/kanzul-iman/cover.png",
+      "status": "published",
+      "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/kanzul-iman/metadata.json"
+    },
     {
       "id": "seerat-e-mustafa",
       "title": "Seerat e Mustafa",
