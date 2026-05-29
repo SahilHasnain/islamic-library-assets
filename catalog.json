@@ -1,6 +1,6 @@
 {
-  "version": "2026-05-28-104331",
-  "generatedAt": "2026-05-28T05:13:32.626Z",
+  "version": "2026-05-29-163330",
+  "generatedAt": "2026-05-29T11:03:31.403Z",
   "books": [
     {
       "id": "addawatul-makkiyyah",
@@ -17,6 +17,15 @@
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ahle-sunaat-ki-pehchan/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/ahle-sunaat-ki-pehchan/metadata.json"
+    },
+    {
+      "id": "al-amna-wal-ula",
+      "title": "Al Amna wal Ula",
+      "author": "Alahazrat Imam Ahmed Raza",
+      "category": "Seerah",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/al-amna-wal-ula/cover.png",
+      "status": "published",
+      "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/al-amna-wal-ula/metadata.json"
     },
     {
       "id": "anwaar-e-shariat",
