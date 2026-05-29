@@ -2,17 +2,18 @@
   "id": "seerat-e-mustafa",
   "title": "Seerat e Mustafa",
   "subtitle": "A gentle seerah reading journey",
+  "author": "Allama Abdul Mustafa Al Aazmi",
   "category": "Seerah",
   "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/seerat-e-mustafa/cover.png",
   "languages": [
     {
-      "id": "Roman Urdu",
-      "title": "Roman Urdu",
+      "id": "Hindi",
+      "title": "Hindi",
       "volumes": [
         {
           "id": "volume1",
           "title": "volume1",
-          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/seerat-e-mustafa/Roman Urdu/volume1/manifest.json"
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/seerat-e-mustafa/Hindi/volume1/manifest.json"
         }
       ]
     }

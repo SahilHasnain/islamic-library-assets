@@ -1,6 +1,6 @@
 {
-  "version": "2026-05-29-163330",
-  "generatedAt": "2026-05-29T11:03:31.403Z",
+  "version": "2026-05-29-173010",
+  "generatedAt": "2026-05-29T12:00:11.244Z",
   "books": [
     {
       "id": "addawatul-makkiyyah",
@@ -88,6 +88,7 @@
       "id": "seerat-e-mustafa",
       "title": "Seerat e Mustafa",
       "subtitle": "A gentle seerah reading journey",
+      "author": "Allama Abdul Mustafa Al Aazmi",
       "category": "Seerah",
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/seerat-e-mustafa/cover.png",
       "status": "published",
