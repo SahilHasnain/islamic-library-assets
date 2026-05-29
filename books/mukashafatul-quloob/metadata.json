@@ -21,6 +21,17 @@
           "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/roman-urdu/volume2/manifest.json"
         }
       ]
+    },
+    {
+      "id": "Hindi",
+      "title": "Hindi",
+      "volumes": [
+        {
+          "id": "volume1",
+          "title": "volume1",
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/manifest.json"
+        }
+      ]
     }
   ]
 }

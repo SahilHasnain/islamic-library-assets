@@ -1,0 +1,5597 @@
+{
+  "bookId": "mukashafatul-quloob",
+  "languageId": "Hindi",
+  "volumeId": "volume1",
+  "version": "2026-05-29-231135",
+  "totalPages": 698,
+  "baseUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1",
+  "filePattern": "page-{page}.png",
+  "extension": "png",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/cover.png",
+  "pages": [
+    {
+      "page": 1,
+      "fileName": "page-001.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 1790909,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-001.png"
+    },
+    {
+      "page": 2,
+      "fileName": "page-002.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 225814,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-002.png"
+    },
+    {
+      "page": 3,
+      "fileName": "page-003.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 219220,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-003.png"
+    },
+    {
+      "page": 4,
+      "fileName": "page-004.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 58199,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-004.png"
+    },
+    {
+      "page": 5,
+      "fileName": "page-005.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 197768,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-005.png"
+    },
+    {
+      "page": 6,
+      "fileName": "page-006.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 240709,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-006.png"
+    },
+    {
+      "page": 7,
+      "fileName": "page-007.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 195981,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-007.png"
+    },
+    {
+      "page": 8,
+      "fileName": "page-008.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 203814,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-008.png"
+    },
+    {
+      "page": 9,
+      "fileName": "page-009.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 217900,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-009.png"
+    },
+    {
+      "page": 10,
+      "fileName": "page-010.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 215550,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-010.png"
+    },
+    {
+      "page": 11,
+      "fileName": "page-011.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 230909,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-011.png"
+    },
+    {
+      "page": 12,
+      "fileName": "page-012.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 247614,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-012.png"
+    },
+    {
+      "page": 13,
+      "fileName": "page-013.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 239864,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-013.png"
+    },
+    {
+      "page": 14,
+      "fileName": "page-014.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 241311,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-014.png"
+    },
+    {
+      "page": 15,
+      "fileName": "page-015.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 236940,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-015.png"
+    },
+    {
+      "page": 16,
+      "fileName": "page-016.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 202575,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-016.png"
+    },
+    {
+      "page": 17,
+      "fileName": "page-017.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 191872,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-017.png"
+    },
+    {
+      "page": 18,
+      "fileName": "page-018.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 205492,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-018.png"
+    },
+    {
+      "page": 19,
+      "fileName": "page-019.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 219502,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-019.png"
+    },
+    {
+      "page": 20,
+      "fileName": "page-020.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 305440,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-020.png"
+    },
+    {
+      "page": 21,
+      "fileName": "page-021.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 270914,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-021.png"
+    },
+    {
+      "page": 22,
+      "fileName": "page-022.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 282700,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-022.png"
+    },
+    {
+      "page": 23,
+      "fileName": "page-023.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 283525,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-023.png"
+    },
+    {
+      "page": 24,
+      "fileName": "page-024.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 272317,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-024.png"
+    },
+    {
+      "page": 25,
+      "fileName": "page-025.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 225269,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-025.png"
+    },
+    {
+      "page": 26,
+      "fileName": "page-026.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 226865,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-026.png"
+    },
+    {
+      "page": 27,
+      "fileName": "page-027.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 265587,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-027.png"
+    },
+    {
+      "page": 28,
+      "fileName": "page-028.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 269184,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-028.png"
+    },
+    {
+      "page": 29,
+      "fileName": "page-029.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 255464,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-029.png"
+    },
+    {
+      "page": 30,
+      "fileName": "page-030.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 232190,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-030.png"
+    },
+    {
+      "page": 31,
+      "fileName": "page-031.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 273085,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-031.png"
+    },
+    {
+      "page": 32,
+      "fileName": "page-032.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 261463,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-032.png"
+    },
+    {
+      "page": 33,
+      "fileName": "page-033.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 274861,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-033.png"
+    },
+    {
+      "page": 34,
+      "fileName": "page-034.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 264066,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-034.png"
+    },
+    {
+      "page": 35,
+      "fileName": "page-035.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 301670,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-035.png"
+    },
+    {
+      "page": 36,
+      "fileName": "page-036.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 246294,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-036.png"
+    },
+    {
+      "page": 37,
+      "fileName": "page-037.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 187407,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-037.png"
+    },
+    {
+      "page": 38,
+      "fileName": "page-038.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 246207,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-038.png"
+    },
+    {
+      "page": 39,
+      "fileName": "page-039.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 268304,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-039.png"
+    },
+    {
+      "page": 40,
+      "fileName": "page-040.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 264183,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-040.png"
+    },
+    {
+      "page": 41,
+      "fileName": "page-041.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 256636,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-041.png"
+    },
+    {
+      "page": 42,
+      "fileName": "page-042.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 255760,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-042.png"
+    },
+    {
+      "page": 43,
+      "fileName": "page-043.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 265417,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-043.png"
+    },
+    {
+      "page": 44,
+      "fileName": "page-044.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 245959,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-044.png"
+    },
+    {
+      "page": 45,
+      "fileName": "page-045.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 256847,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-045.png"
+    },
+    {
+      "page": 46,
+      "fileName": "page-046.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 222506,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-046.png"
+    },
+    {
+      "page": 47,
+      "fileName": "page-047.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 225442,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-047.png"
+    },
+    {
+      "page": 48,
+      "fileName": "page-048.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 263530,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-048.png"
+    },
+    {
+      "page": 49,
+      "fileName": "page-049.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 257539,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-049.png"
+    },
+    {
+      "page": 50,
+      "fileName": "page-050.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 289593,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-050.png"
+    },
+    {
+      "page": 51,
+      "fileName": "page-051.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 264238,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-051.png"
+    },
+    {
+      "page": 52,
+      "fileName": "page-052.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 269661,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-052.png"
+    },
+    {
+      "page": 53,
+      "fileName": "page-053.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 273885,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-053.png"
+    },
+    {
+      "page": 54,
+      "fileName": "page-054.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 292139,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-054.png"
+    },
+    {
+      "page": 55,
+      "fileName": "page-055.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 267682,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-055.png"
+    },
+    {
+      "page": 56,
+      "fileName": "page-056.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 233480,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-056.png"
+    },
+    {
+      "page": 57,
+      "fileName": "page-057.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 250974,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-057.png"
+    },
+    {
+      "page": 58,
+      "fileName": "page-058.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 212765,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-058.png"
+    },
+    {
+      "page": 59,
+      "fileName": "page-059.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 235455,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-059.png"
+    },
+    {
+      "page": 60,
+      "fileName": "page-060.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 221717,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-060.png"
+    },
+    {
+      "page": 61,
+      "fileName": "page-061.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 246937,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-061.png"
+    },
+    {
+      "page": 62,
+      "fileName": "page-062.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 240179,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-062.png"
+    },
+    {
+      "page": 63,
+      "fileName": "page-063.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 263864,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-063.png"
+    },
+    {
+      "page": 64,
+      "fileName": "page-064.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 251812,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-064.png"
+    },
+    {
+      "page": 65,
+      "fileName": "page-065.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 255668,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-065.png"
+    },
+    {
+      "page": 66,
+      "fileName": "page-066.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 290904,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-066.png"
+    },
+    {
+      "page": 67,
+      "fileName": "page-067.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 245596,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-067.png"
+    },
+    {
+      "page": 68,
+      "fileName": "page-068.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 253437,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-068.png"
+    },
+    {
+      "page": 69,
+      "fileName": "page-069.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 224171,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-069.png"
+    },
+    {
+      "page": 70,
+      "fileName": "page-070.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 243508,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-070.png"
+    },
+    {
+      "page": 71,
+      "fileName": "page-071.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 259847,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-071.png"
+    },
+    {
+      "page": 72,
+      "fileName": "page-072.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 279390,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-072.png"
+    },
+    {
+      "page": 73,
+      "fileName": "page-073.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 277639,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-073.png"
+    },
+    {
+      "page": 74,
+      "fileName": "page-074.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 280738,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-074.png"
+    },
+    {
+      "page": 75,
+      "fileName": "page-075.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 266578,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-075.png"
+    },
+    {
+      "page": 76,
+      "fileName": "page-076.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 251854,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-076.png"
+    },
+    {
+      "page": 77,
+      "fileName": "page-077.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 260835,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-077.png"
+    },
+    {
+      "page": 78,
+      "fileName": "page-078.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 256994,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-078.png"
+    },
+    {
+      "page": 79,
+      "fileName": "page-079.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 289273,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-079.png"
+    },
+    {
+      "page": 80,
+      "fileName": "page-080.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 234744,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-080.png"
+    },
+    {
+      "page": 81,
+      "fileName": "page-081.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 230020,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-081.png"
+    },
+    {
+      "page": 82,
+      "fileName": "page-082.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 257980,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-082.png"
+    },
+    {
+      "page": 83,
+      "fileName": "page-083.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 220065,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-083.png"
+    },
+    {
+      "page": 84,
+      "fileName": "page-084.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 255433,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-084.png"
+    },
+    {
+      "page": 85,
+      "fileName": "page-085.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 221089,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-085.png"
+    },
+    {
+      "page": 86,
+      "fileName": "page-086.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 250069,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-086.png"
+    },
+    {
+      "page": 87,
+      "fileName": "page-087.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 253324,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-087.png"
+    },
+    {
+      "page": 88,
+      "fileName": "page-088.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 249430,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-088.png"
+    },
+    {
+      "page": 89,
+      "fileName": "page-089.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 258475,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-089.png"
+    },
+    {
+      "page": 90,
+      "fileName": "page-090.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 265030,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-090.png"
+    },
+    {
+      "page": 91,
+      "fileName": "page-091.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 244694,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-091.png"
+    },
+    {
+      "page": 92,
+      "fileName": "page-092.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 215494,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-092.png"
+    },
+    {
+      "page": 93,
+      "fileName": "page-093.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 211926,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-093.png"
+    },
+    {
+      "page": 94,
+      "fileName": "page-094.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 231645,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-094.png"
+    },
+    {
+      "page": 95,
+      "fileName": "page-095.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 244997,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-095.png"
+    },
+    {
+      "page": 96,
+      "fileName": "page-096.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 265310,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-096.png"
+    },
+    {
+      "page": 97,
+      "fileName": "page-097.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 252417,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-097.png"
+    },
+    {
+      "page": 98,
+      "fileName": "page-098.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 235961,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-098.png"
+    },
+    {
+      "page": 99,
+      "fileName": "page-099.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 235076,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-099.png"
+    },
+    {
+      "page": 100,
+      "fileName": "page-100.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 273603,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-100.png"
+    },
+    {
+      "page": 101,
+      "fileName": "page-101.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 228154,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-101.png"
+    },
+    {
+      "page": 102,
+      "fileName": "page-102.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 269216,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-102.png"
+    },
+    {
+      "page": 103,
+      "fileName": "page-103.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 230670,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-103.png"
+    },
+    {
+      "page": 104,
+      "fileName": "page-104.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 250525,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-104.png"
+    },
+    {
+      "page": 105,
+      "fileName": "page-105.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 275630,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-105.png"
+    },
+    {
+      "page": 106,
+      "fileName": "page-106.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 268758,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-106.png"
+    },
+    {
+      "page": 107,
+      "fileName": "page-107.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 211481,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-107.png"
+    },
+    {
+      "page": 108,
+      "fileName": "page-108.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 207397,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-108.png"
+    },
+    {
+      "page": 109,
+      "fileName": "page-109.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 215260,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-109.png"
+    },
+    {
+      "page": 110,
+      "fileName": "page-110.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 257133,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-110.png"
+    },
+    {
+      "page": 111,
+      "fileName": "page-111.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 265750,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-111.png"
+    },
+    {
+      "page": 112,
+      "fileName": "page-112.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 277059,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-112.png"
+    },
+    {
+      "page": 113,
+      "fileName": "page-113.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 259305,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-113.png"
+    },
+    {
+      "page": 114,
+      "fileName": "page-114.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 261521,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-114.png"
+    },
+    {
+      "page": 115,
+      "fileName": "page-115.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 228020,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-115.png"
+    },
+    {
+      "page": 116,
+      "fileName": "page-116.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 234778,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-116.png"
+    },
+    {
+      "page": 117,
+      "fileName": "page-117.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 272527,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-117.png"
+    },
+    {
+      "page": 118,
+      "fileName": "page-118.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 248401,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-118.png"
+    },
+    {
+      "page": 119,
+      "fileName": "page-119.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 250161,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-119.png"
+    },
+    {
+      "page": 120,
+      "fileName": "page-120.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 280001,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-120.png"
+    },
+    {
+      "page": 121,
+      "fileName": "page-121.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 252738,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-121.png"
+    },
+    {
+      "page": 122,
+      "fileName": "page-122.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 279832,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-122.png"
+    },
+    {
+      "page": 123,
+      "fileName": "page-123.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 285156,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-123.png"
+    },
+    {
+      "page": 124,
+      "fileName": "page-124.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 286787,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-124.png"
+    },
+    {
+      "page": 125,
+      "fileName": "page-125.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 288996,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-125.png"
+    },
+    {
+      "page": 126,
+      "fileName": "page-126.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 284049,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-126.png"
+    },
+    {
+      "page": 127,
+      "fileName": "page-127.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 270663,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-127.png"
+    },
+    {
+      "page": 128,
+      "fileName": "page-128.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 284184,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-128.png"
+    },
+    {
+      "page": 129,
+      "fileName": "page-129.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 300861,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-129.png"
+    },
+    {
+      "page": 130,
+      "fileName": "page-130.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 298155,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-130.png"
+    },
+    {
+      "page": 131,
+      "fileName": "page-131.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 236902,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-131.png"
+    },
+    {
+      "page": 132,
+      "fileName": "page-132.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 242634,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-132.png"
+    },
+    {
+      "page": 133,
+      "fileName": "page-133.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 261112,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-133.png"
+    },
+    {
+      "page": 134,
+      "fileName": "page-134.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 261245,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-134.png"
+    },
+    {
+      "page": 135,
+      "fileName": "page-135.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 277200,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-135.png"
+    },
+    {
+      "page": 136,
+      "fileName": "page-136.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 273946,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-136.png"
+    },
+    {
+      "page": 137,
+      "fileName": "page-137.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 286353,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-137.png"
+    },
+    {
+      "page": 138,
+      "fileName": "page-138.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 242457,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-138.png"
+    },
+    {
+      "page": 139,
+      "fileName": "page-139.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 274307,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-139.png"
+    },
+    {
+      "page": 140,
+      "fileName": "page-140.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 268618,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-140.png"
+    },
+    {
+      "page": 141,
+      "fileName": "page-141.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 217199,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-141.png"
+    },
+    {
+      "page": 142,
+      "fileName": "page-142.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 257263,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-142.png"
+    },
+    {
+      "page": 143,
+      "fileName": "page-143.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 248333,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-143.png"
+    },
+    {
+      "page": 144,
+      "fileName": "page-144.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 250489,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-144.png"
+    },
+    {
+      "page": 145,
+      "fileName": "page-145.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 267040,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-145.png"
+    },
+    {
+      "page": 146,
+      "fileName": "page-146.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 254626,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-146.png"
+    },
+    {
+      "page": 147,
+      "fileName": "page-147.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 233752,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-147.png"
+    },
+    {
+      "page": 148,
+      "fileName": "page-148.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 246279,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-148.png"
+    },
+    {
+      "page": 149,
+      "fileName": "page-149.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 266291,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-149.png"
+    },
+    {
+      "page": 150,
+      "fileName": "page-150.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 230171,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-150.png"
+    },
+    {
+      "page": 151,
+      "fileName": "page-151.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 248496,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-151.png"
+    },
+    {
+      "page": 152,
+      "fileName": "page-152.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 228830,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-152.png"
+    },
+    {
+      "page": 153,
+      "fileName": "page-153.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 216621,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-153.png"
+    },
+    {
+      "page": 154,
+      "fileName": "page-154.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 229896,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-154.png"
+    },
+    {
+      "page": 155,
+      "fileName": "page-155.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 247877,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-155.png"
+    },
+    {
+      "page": 156,
+      "fileName": "page-156.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 244019,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-156.png"
+    },
+    {
+      "page": 157,
+      "fileName": "page-157.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 231247,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-157.png"
+    },
+    {
+      "page": 158,
+      "fileName": "page-158.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 209409,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-158.png"
+    },
+    {
+      "page": 159,
+      "fileName": "page-159.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 260614,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-159.png"
+    },
+    {
+      "page": 160,
+      "fileName": "page-160.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 245162,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-160.png"
+    },
+    {
+      "page": 161,
+      "fileName": "page-161.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 264463,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-161.png"
+    },
+    {
+      "page": 162,
+      "fileName": "page-162.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 210233,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-162.png"
+    },
+    {
+      "page": 163,
+      "fileName": "page-163.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 229075,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-163.png"
+    },
+    {
+      "page": 164,
+      "fileName": "page-164.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 248707,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-164.png"
+    },
+    {
+      "page": 165,
+      "fileName": "page-165.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 252319,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-165.png"
+    },
+    {
+      "page": 166,
+      "fileName": "page-166.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 243633,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-166.png"
+    },
+    {
+      "page": 167,
+      "fileName": "page-167.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 292582,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-167.png"
+    },
+    {
+      "page": 168,
+      "fileName": "page-168.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 250318,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-168.png"
+    },
+    {
+      "page": 169,
+      "fileName": "page-169.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 253021,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-169.png"
+    },
+    {
+      "page": 170,
+      "fileName": "page-170.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 266700,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-170.png"
+    },
+    {
+      "page": 171,
+      "fileName": "page-171.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 248312,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-171.png"
+    },
+    {
+      "page": 172,
+      "fileName": "page-172.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 282286,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-172.png"
+    },
+    {
+      "page": 173,
+      "fileName": "page-173.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 269592,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-173.png"
+    },
+    {
+      "page": 174,
+      "fileName": "page-174.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 268614,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-174.png"
+    },
+    {
+      "page": 175,
+      "fileName": "page-175.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 213848,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-175.png"
+    },
+    {
+      "page": 176,
+      "fileName": "page-176.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 251541,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-176.png"
+    },
+    {
+      "page": 177,
+      "fileName": "page-177.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 235002,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-177.png"
+    },
+    {
+      "page": 178,
+      "fileName": "page-178.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 273157,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-178.png"
+    },
+    {
+      "page": 179,
+      "fileName": "page-179.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 253317,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-179.png"
+    },
+    {
+      "page": 180,
+      "fileName": "page-180.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 265772,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-180.png"
+    },
+    {
+      "page": 181,
+      "fileName": "page-181.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 237408,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-181.png"
+    },
+    {
+      "page": 182,
+      "fileName": "page-182.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 244030,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-182.png"
+    },
+    {
+      "page": 183,
+      "fileName": "page-183.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 245951,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-183.png"
+    },
+    {
+      "page": 184,
+      "fileName": "page-184.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 222856,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-184.png"
+    },
+    {
+      "page": 185,
+      "fileName": "page-185.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 260538,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-185.png"
+    },
+    {
+      "page": 186,
+      "fileName": "page-186.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 218074,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-186.png"
+    },
+    {
+      "page": 187,
+      "fileName": "page-187.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 242393,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-187.png"
+    },
+    {
+      "page": 188,
+      "fileName": "page-188.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 238765,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-188.png"
+    },
+    {
+      "page": 189,
+      "fileName": "page-189.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 270733,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-189.png"
+    },
+    {
+      "page": 190,
+      "fileName": "page-190.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 257745,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-190.png"
+    },
+    {
+      "page": 191,
+      "fileName": "page-191.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 245750,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-191.png"
+    },
+    {
+      "page": 192,
+      "fileName": "page-192.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 244150,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-192.png"
+    },
+    {
+      "page": 193,
+      "fileName": "page-193.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 268585,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-193.png"
+    },
+    {
+      "page": 194,
+      "fileName": "page-194.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 234012,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-194.png"
+    },
+    {
+      "page": 195,
+      "fileName": "page-195.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 232733,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-195.png"
+    },
+    {
+      "page": 196,
+      "fileName": "page-196.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 230131,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-196.png"
+    },
+    {
+      "page": 197,
+      "fileName": "page-197.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 244064,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-197.png"
+    },
+    {
+      "page": 198,
+      "fileName": "page-198.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 209067,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-198.png"
+    },
+    {
+      "page": 199,
+      "fileName": "page-199.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 194157,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-199.png"
+    },
+    {
+      "page": 200,
+      "fileName": "page-200.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 237307,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-200.png"
+    },
+    {
+      "page": 201,
+      "fileName": "page-201.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 242675,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-201.png"
+    },
+    {
+      "page": 202,
+      "fileName": "page-202.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 232250,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-202.png"
+    },
+    {
+      "page": 203,
+      "fileName": "page-203.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 247307,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-203.png"
+    },
+    {
+      "page": 204,
+      "fileName": "page-204.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 220888,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-204.png"
+    },
+    {
+      "page": 205,
+      "fileName": "page-205.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 214509,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-205.png"
+    },
+    {
+      "page": 206,
+      "fileName": "page-206.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 223028,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-206.png"
+    },
+    {
+      "page": 207,
+      "fileName": "page-207.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 197811,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-207.png"
+    },
+    {
+      "page": 208,
+      "fileName": "page-208.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 215815,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-208.png"
+    },
+    {
+      "page": 209,
+      "fileName": "page-209.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 207493,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-209.png"
+    },
+    {
+      "page": 210,
+      "fileName": "page-210.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 189720,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-210.png"
+    },
+    {
+      "page": 211,
+      "fileName": "page-211.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 236563,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-211.png"
+    },
+    {
+      "page": 212,
+      "fileName": "page-212.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 227191,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-212.png"
+    },
+    {
+      "page": 213,
+      "fileName": "page-213.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 240013,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-213.png"
+    },
+    {
+      "page": 214,
+      "fileName": "page-214.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 241131,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-214.png"
+    },
+    {
+      "page": 215,
+      "fileName": "page-215.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 268935,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-215.png"
+    },
+    {
+      "page": 216,
+      "fileName": "page-216.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 240329,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-216.png"
+    },
+    {
+      "page": 217,
+      "fileName": "page-217.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 246380,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-217.png"
+    },
+    {
+      "page": 218,
+      "fileName": "page-218.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 245900,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-218.png"
+    },
+    {
+      "page": 219,
+      "fileName": "page-219.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 269446,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-219.png"
+    },
+    {
+      "page": 220,
+      "fileName": "page-220.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 257039,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-220.png"
+    },
+    {
+      "page": 221,
+      "fileName": "page-221.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 242895,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-221.png"
+    },
+    {
+      "page": 222,
+      "fileName": "page-222.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 256246,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-222.png"
+    },
+    {
+      "page": 223,
+      "fileName": "page-223.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 250730,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-223.png"
+    },
+    {
+      "page": 224,
+      "fileName": "page-224.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 247244,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-224.png"
+    },
+    {
+      "page": 225,
+      "fileName": "page-225.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 248861,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-225.png"
+    },
+    {
+      "page": 226,
+      "fileName": "page-226.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 251691,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-226.png"
+    },
+    {
+      "page": 227,
+      "fileName": "page-227.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 229875,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-227.png"
+    },
+    {
+      "page": 228,
+      "fileName": "page-228.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 231686,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-228.png"
+    },
+    {
+      "page": 229,
+      "fileName": "page-229.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 255623,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-229.png"
+    },
+    {
+      "page": 230,
+      "fileName": "page-230.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 225014,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-230.png"
+    },
+    {
+      "page": 231,
+      "fileName": "page-231.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 242846,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-231.png"
+    },
+    {
+      "page": 232,
+      "fileName": "page-232.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 248316,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-232.png"
+    },
+    {
+      "page": 233,
+      "fileName": "page-233.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 251813,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-233.png"
+    },
+    {
+      "page": 234,
+      "fileName": "page-234.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 277981,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-234.png"
+    },
+    {
+      "page": 235,
+      "fileName": "page-235.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 245026,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-235.png"
+    },
+    {
+      "page": 236,
+      "fileName": "page-236.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 242042,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-236.png"
+    },
+    {
+      "page": 237,
+      "fileName": "page-237.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 264110,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-237.png"
+    },
+    {
+      "page": 238,
+      "fileName": "page-238.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 230801,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-238.png"
+    },
+    {
+      "page": 239,
+      "fileName": "page-239.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 226667,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-239.png"
+    },
+    {
+      "page": 240,
+      "fileName": "page-240.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 246072,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-240.png"
+    },
+    {
+      "page": 241,
+      "fileName": "page-241.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 254079,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-241.png"
+    },
+    {
+      "page": 242,
+      "fileName": "page-242.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 272127,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-242.png"
+    },
+    {
+      "page": 243,
+      "fileName": "page-243.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 281377,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-243.png"
+    },
+    {
+      "page": 244,
+      "fileName": "page-244.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 274488,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-244.png"
+    },
+    {
+      "page": 245,
+      "fileName": "page-245.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 265190,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-245.png"
+    },
+    {
+      "page": 246,
+      "fileName": "page-246.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 287874,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-246.png"
+    },
+    {
+      "page": 247,
+      "fileName": "page-247.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 245264,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-247.png"
+    },
+    {
+      "page": 248,
+      "fileName": "page-248.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 243920,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-248.png"
+    },
+    {
+      "page": 249,
+      "fileName": "page-249.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 272756,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-249.png"
+    },
+    {
+      "page": 250,
+      "fileName": "page-250.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 231916,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-250.png"
+    },
+    {
+      "page": 251,
+      "fileName": "page-251.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 242029,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-251.png"
+    },
+    {
+      "page": 252,
+      "fileName": "page-252.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 231832,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-252.png"
+    },
+    {
+      "page": 253,
+      "fileName": "page-253.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 240033,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-253.png"
+    },
+    {
+      "page": 254,
+      "fileName": "page-254.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 236876,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-254.png"
+    },
+    {
+      "page": 255,
+      "fileName": "page-255.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 226743,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-255.png"
+    },
+    {
+      "page": 256,
+      "fileName": "page-256.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 270284,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-256.png"
+    },
+    {
+      "page": 257,
+      "fileName": "page-257.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 251475,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-257.png"
+    },
+    {
+      "page": 258,
+      "fileName": "page-258.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 259437,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-258.png"
+    },
+    {
+      "page": 259,
+      "fileName": "page-259.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 302415,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-259.png"
+    },
+    {
+      "page": 260,
+      "fileName": "page-260.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 235335,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-260.png"
+    },
+    {
+      "page": 261,
+      "fileName": "page-261.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 270347,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-261.png"
+    },
+    {
+      "page": 262,
+      "fileName": "page-262.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 281192,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-262.png"
+    },
+    {
+      "page": 263,
+      "fileName": "page-263.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 257754,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-263.png"
+    },
+    {
+      "page": 264,
+      "fileName": "page-264.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 243660,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-264.png"
+    },
+    {
+      "page": 265,
+      "fileName": "page-265.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 275388,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-265.png"
+    },
+    {
+      "page": 266,
+      "fileName": "page-266.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 251233,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-266.png"
+    },
+    {
+      "page": 267,
+      "fileName": "page-267.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 241931,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-267.png"
+    },
+    {
+      "page": 268,
+      "fileName": "page-268.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 225976,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-268.png"
+    },
+    {
+      "page": 269,
+      "fileName": "page-269.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 246405,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-269.png"
+    },
+    {
+      "page": 270,
+      "fileName": "page-270.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 243443,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-270.png"
+    },
+    {
+      "page": 271,
+      "fileName": "page-271.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 272846,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-271.png"
+    },
+    {
+      "page": 272,
+      "fileName": "page-272.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 259174,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-272.png"
+    },
+    {
+      "page": 273,
+      "fileName": "page-273.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 253835,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-273.png"
+    },
+    {
+      "page": 274,
+      "fileName": "page-274.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 212608,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-274.png"
+    },
+    {
+      "page": 275,
+      "fileName": "page-275.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 264953,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-275.png"
+    },
+    {
+      "page": 276,
+      "fileName": "page-276.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 263156,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-276.png"
+    },
+    {
+      "page": 277,
+      "fileName": "page-277.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 237046,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-277.png"
+    },
+    {
+      "page": 278,
+      "fileName": "page-278.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 249096,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-278.png"
+    },
+    {
+      "page": 279,
+      "fileName": "page-279.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 218422,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-279.png"
+    },
+    {
+      "page": 280,
+      "fileName": "page-280.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 232164,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-280.png"
+    },
+    {
+      "page": 281,
+      "fileName": "page-281.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 279902,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-281.png"
+    },
+    {
+      "page": 282,
+      "fileName": "page-282.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 293606,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-282.png"
+    },
+    {
+      "page": 283,
+      "fileName": "page-283.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 284096,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-283.png"
+    },
+    {
+      "page": 284,
+      "fileName": "page-284.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 272096,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-284.png"
+    },
+    {
+      "page": 285,
+      "fileName": "page-285.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 247449,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-285.png"
+    },
+    {
+      "page": 286,
+      "fileName": "page-286.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 222261,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-286.png"
+    },
+    {
+      "page": 287,
+      "fileName": "page-287.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 232153,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-287.png"
+    },
+    {
+      "page": 288,
+      "fileName": "page-288.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 249171,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-288.png"
+    },
+    {
+      "page": 289,
+      "fileName": "page-289.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 229241,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-289.png"
+    },
+    {
+      "page": 290,
+      "fileName": "page-290.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 231208,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-290.png"
+    },
+    {
+      "page": 291,
+      "fileName": "page-291.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 255304,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-291.png"
+    },
+    {
+      "page": 292,
+      "fileName": "page-292.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 245074,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-292.png"
+    },
+    {
+      "page": 293,
+      "fileName": "page-293.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 245969,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-293.png"
+    },
+    {
+      "page": 294,
+      "fileName": "page-294.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 251850,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-294.png"
+    },
+    {
+      "page": 295,
+      "fileName": "page-295.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 240575,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-295.png"
+    },
+    {
+      "page": 296,
+      "fileName": "page-296.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 250580,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-296.png"
+    },
+    {
+      "page": 297,
+      "fileName": "page-297.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 229583,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-297.png"
+    },
+    {
+      "page": 298,
+      "fileName": "page-298.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 221669,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-298.png"
+    },
+    {
+      "page": 299,
+      "fileName": "page-299.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 266494,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-299.png"
+    },
+    {
+      "page": 300,
+      "fileName": "page-300.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 260274,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-300.png"
+    },
+    {
+      "page": 301,
+      "fileName": "page-301.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 265913,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-301.png"
+    },
+    {
+      "page": 302,
+      "fileName": "page-302.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 251758,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-302.png"
+    },
+    {
+      "page": 303,
+      "fileName": "page-303.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 264117,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-303.png"
+    },
+    {
+      "page": 304,
+      "fileName": "page-304.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 242204,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-304.png"
+    },
+    {
+      "page": 305,
+      "fileName": "page-305.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 227734,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-305.png"
+    },
+    {
+      "page": 306,
+      "fileName": "page-306.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 231783,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-306.png"
+    },
+    {
+      "page": 307,
+      "fileName": "page-307.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 242652,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-307.png"
+    },
+    {
+      "page": 308,
+      "fileName": "page-308.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 252466,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-308.png"
+    },
+    {
+      "page": 309,
+      "fileName": "page-309.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 253861,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-309.png"
+    },
+    {
+      "page": 310,
+      "fileName": "page-310.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 263585,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-310.png"
+    },
+    {
+      "page": 311,
+      "fileName": "page-311.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 232298,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-311.png"
+    },
+    {
+      "page": 312,
+      "fileName": "page-312.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 247969,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-312.png"
+    },
+    {
+      "page": 313,
+      "fileName": "page-313.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 246107,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-313.png"
+    },
+    {
+      "page": 314,
+      "fileName": "page-314.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 232782,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-314.png"
+    },
+    {
+      "page": 315,
+      "fileName": "page-315.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 233132,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-315.png"
+    },
+    {
+      "page": 316,
+      "fileName": "page-316.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 268537,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-316.png"
+    },
+    {
+      "page": 317,
+      "fileName": "page-317.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 304240,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-317.png"
+    },
+    {
+      "page": 318,
+      "fileName": "page-318.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 241086,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-318.png"
+    },
+    {
+      "page": 319,
+      "fileName": "page-319.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 271722,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-319.png"
+    },
+    {
+      "page": 320,
+      "fileName": "page-320.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 286147,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-320.png"
+    },
+    {
+      "page": 321,
+      "fileName": "page-321.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 256800,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-321.png"
+    },
+    {
+      "page": 322,
+      "fileName": "page-322.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 257399,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-322.png"
+    },
+    {
+      "page": 323,
+      "fileName": "page-323.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 221469,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-323.png"
+    },
+    {
+      "page": 324,
+      "fileName": "page-324.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 242939,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-324.png"
+    },
+    {
+      "page": 325,
+      "fileName": "page-325.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 252766,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-325.png"
+    },
+    {
+      "page": 326,
+      "fileName": "page-326.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 257500,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-326.png"
+    },
+    {
+      "page": 327,
+      "fileName": "page-327.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 254364,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-327.png"
+    },
+    {
+      "page": 328,
+      "fileName": "page-328.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 237221,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-328.png"
+    },
+    {
+      "page": 329,
+      "fileName": "page-329.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 236996,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-329.png"
+    },
+    {
+      "page": 330,
+      "fileName": "page-330.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 208573,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-330.png"
+    },
+    {
+      "page": 331,
+      "fileName": "page-331.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 227876,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-331.png"
+    },
+    {
+      "page": 332,
+      "fileName": "page-332.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 267535,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-332.png"
+    },
+    {
+      "page": 333,
+      "fileName": "page-333.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 286294,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-333.png"
+    },
+    {
+      "page": 334,
+      "fileName": "page-334.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 249839,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-334.png"
+    },
+    {
+      "page": 335,
+      "fileName": "page-335.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 233102,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-335.png"
+    },
+    {
+      "page": 336,
+      "fileName": "page-336.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 235827,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-336.png"
+    },
+    {
+      "page": 337,
+      "fileName": "page-337.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 196571,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-337.png"
+    },
+    {
+      "page": 338,
+      "fileName": "page-338.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 228283,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-338.png"
+    },
+    {
+      "page": 339,
+      "fileName": "page-339.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 245058,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-339.png"
+    },
+    {
+      "page": 340,
+      "fileName": "page-340.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 259265,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-340.png"
+    },
+    {
+      "page": 341,
+      "fileName": "page-341.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 238852,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-341.png"
+    },
+    {
+      "page": 342,
+      "fileName": "page-342.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 252961,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-342.png"
+    },
+    {
+      "page": 343,
+      "fileName": "page-343.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 236572,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-343.png"
+    },
+    {
+      "page": 344,
+      "fileName": "page-344.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 237725,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-344.png"
+    },
+    {
+      "page": 345,
+      "fileName": "page-345.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 245244,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-345.png"
+    },
+    {
+      "page": 346,
+      "fileName": "page-346.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 233615,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-346.png"
+    },
+    {
+      "page": 347,
+      "fileName": "page-347.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 262127,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-347.png"
+    },
+    {
+      "page": 348,
+      "fileName": "page-348.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 257003,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-348.png"
+    },
+    {
+      "page": 349,
+      "fileName": "page-349.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 245930,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-349.png"
+    },
+    {
+      "page": 350,
+      "fileName": "page-350.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 245597,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-350.png"
+    },
+    {
+      "page": 351,
+      "fileName": "page-351.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 228513,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-351.png"
+    },
+    {
+      "page": 352,
+      "fileName": "page-352.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 259447,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-352.png"
+    },
+    {
+      "page": 353,
+      "fileName": "page-353.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 241714,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-353.png"
+    },
+    {
+      "page": 354,
+      "fileName": "page-354.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 271112,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-354.png"
+    },
+    {
+      "page": 355,
+      "fileName": "page-355.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 231877,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-355.png"
+    },
+    {
+      "page": 356,
+      "fileName": "page-356.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 239420,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-356.png"
+    },
+    {
+      "page": 357,
+      "fileName": "page-357.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 242693,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-357.png"
+    },
+    {
+      "page": 358,
+      "fileName": "page-358.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 277966,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-358.png"
+    },
+    {
+      "page": 359,
+      "fileName": "page-359.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 261678,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-359.png"
+    },
+    {
+      "page": 360,
+      "fileName": "page-360.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 278864,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-360.png"
+    },
+    {
+      "page": 361,
+      "fileName": "page-361.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 277661,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-361.png"
+    },
+    {
+      "page": 362,
+      "fileName": "page-362.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 239721,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-362.png"
+    },
+    {
+      "page": 363,
+      "fileName": "page-363.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 271473,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-363.png"
+    },
+    {
+      "page": 364,
+      "fileName": "page-364.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 272199,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-364.png"
+    },
+    {
+      "page": 365,
+      "fileName": "page-365.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 269167,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-365.png"
+    },
+    {
+      "page": 366,
+      "fileName": "page-366.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 255339,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-366.png"
+    },
+    {
+      "page": 367,
+      "fileName": "page-367.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 206493,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-367.png"
+    },
+    {
+      "page": 368,
+      "fileName": "page-368.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 242011,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-368.png"
+    },
+    {
+      "page": 369,
+      "fileName": "page-369.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 241043,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-369.png"
+    },
+    {
+      "page": 370,
+      "fileName": "page-370.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 263295,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-370.png"
+    },
+    {
+      "page": 371,
+      "fileName": "page-371.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 241327,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-371.png"
+    },
+    {
+      "page": 372,
+      "fileName": "page-372.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 264444,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-372.png"
+    },
+    {
+      "page": 373,
+      "fileName": "page-373.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 247520,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-373.png"
+    },
+    {
+      "page": 374,
+      "fileName": "page-374.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 269267,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-374.png"
+    },
+    {
+      "page": 375,
+      "fileName": "page-375.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 248279,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-375.png"
+    },
+    {
+      "page": 376,
+      "fileName": "page-376.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 222703,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-376.png"
+    },
+    {
+      "page": 377,
+      "fileName": "page-377.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 258784,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-377.png"
+    },
+    {
+      "page": 378,
+      "fileName": "page-378.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 264503,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-378.png"
+    },
+    {
+      "page": 379,
+      "fileName": "page-379.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 256176,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-379.png"
+    },
+    {
+      "page": 380,
+      "fileName": "page-380.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 239126,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-380.png"
+    },
+    {
+      "page": 381,
+      "fileName": "page-381.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 267045,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-381.png"
+    },
+    {
+      "page": 382,
+      "fileName": "page-382.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 264255,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-382.png"
+    },
+    {
+      "page": 383,
+      "fileName": "page-383.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 225565,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-383.png"
+    },
+    {
+      "page": 384,
+      "fileName": "page-384.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 196760,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-384.png"
+    },
+    {
+      "page": 385,
+      "fileName": "page-385.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 231071,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-385.png"
+    },
+    {
+      "page": 386,
+      "fileName": "page-386.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 248947,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-386.png"
+    },
+    {
+      "page": 387,
+      "fileName": "page-387.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 222856,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-387.png"
+    },
+    {
+      "page": 388,
+      "fileName": "page-388.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 269147,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-388.png"
+    },
+    {
+      "page": 389,
+      "fileName": "page-389.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 271652,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-389.png"
+    },
+    {
+      "page": 390,
+      "fileName": "page-390.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 252500,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-390.png"
+    },
+    {
+      "page": 391,
+      "fileName": "page-391.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 229474,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-391.png"
+    },
+    {
+      "page": 392,
+      "fileName": "page-392.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 262235,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-392.png"
+    },
+    {
+      "page": 393,
+      "fileName": "page-393.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 235509,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-393.png"
+    },
+    {
+      "page": 394,
+      "fileName": "page-394.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 261313,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-394.png"
+    },
+    {
+      "page": 395,
+      "fileName": "page-395.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 241996,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-395.png"
+    },
+    {
+      "page": 396,
+      "fileName": "page-396.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 237166,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-396.png"
+    },
+    {
+      "page": 397,
+      "fileName": "page-397.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 263817,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-397.png"
+    },
+    {
+      "page": 398,
+      "fileName": "page-398.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 236840,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-398.png"
+    },
+    {
+      "page": 399,
+      "fileName": "page-399.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 249409,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-399.png"
+    },
+    {
+      "page": 400,
+      "fileName": "page-400.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 276761,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-400.png"
+    },
+    {
+      "page": 401,
+      "fileName": "page-401.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 262591,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-401.png"
+    },
+    {
+      "page": 402,
+      "fileName": "page-402.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 261747,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-402.png"
+    },
+    {
+      "page": 403,
+      "fileName": "page-403.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 259590,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-403.png"
+    },
+    {
+      "page": 404,
+      "fileName": "page-404.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 245963,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-404.png"
+    },
+    {
+      "page": 405,
+      "fileName": "page-405.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 233469,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-405.png"
+    },
+    {
+      "page": 406,
+      "fileName": "page-406.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 292453,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-406.png"
+    },
+    {
+      "page": 407,
+      "fileName": "page-407.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 265070,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-407.png"
+    },
+    {
+      "page": 408,
+      "fileName": "page-408.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 262919,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-408.png"
+    },
+    {
+      "page": 409,
+      "fileName": "page-409.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 283425,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-409.png"
+    },
+    {
+      "page": 410,
+      "fileName": "page-410.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 245349,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-410.png"
+    },
+    {
+      "page": 411,
+      "fileName": "page-411.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 283649,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-411.png"
+    },
+    {
+      "page": 412,
+      "fileName": "page-412.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 267862,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-412.png"
+    },
+    {
+      "page": 413,
+      "fileName": "page-413.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 241141,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-413.png"
+    },
+    {
+      "page": 414,
+      "fileName": "page-414.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 246333,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-414.png"
+    },
+    {
+      "page": 415,
+      "fileName": "page-415.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 230377,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-415.png"
+    },
+    {
+      "page": 416,
+      "fileName": "page-416.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 286871,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-416.png"
+    },
+    {
+      "page": 417,
+      "fileName": "page-417.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 278121,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-417.png"
+    },
+    {
+      "page": 418,
+      "fileName": "page-418.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 275463,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-418.png"
+    },
+    {
+      "page": 419,
+      "fileName": "page-419.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 245808,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-419.png"
+    },
+    {
+      "page": 420,
+      "fileName": "page-420.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 260919,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-420.png"
+    },
+    {
+      "page": 421,
+      "fileName": "page-421.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 260014,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-421.png"
+    },
+    {
+      "page": 422,
+      "fileName": "page-422.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 235421,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-422.png"
+    },
+    {
+      "page": 423,
+      "fileName": "page-423.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 244701,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-423.png"
+    },
+    {
+      "page": 424,
+      "fileName": "page-424.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 262904,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-424.png"
+    },
+    {
+      "page": 425,
+      "fileName": "page-425.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 291618,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-425.png"
+    },
+    {
+      "page": 426,
+      "fileName": "page-426.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 275265,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-426.png"
+    },
+    {
+      "page": 427,
+      "fileName": "page-427.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 267417,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-427.png"
+    },
+    {
+      "page": 428,
+      "fileName": "page-428.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 244041,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-428.png"
+    },
+    {
+      "page": 429,
+      "fileName": "page-429.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 234169,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-429.png"
+    },
+    {
+      "page": 430,
+      "fileName": "page-430.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 215756,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-430.png"
+    },
+    {
+      "page": 431,
+      "fileName": "page-431.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 223694,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-431.png"
+    },
+    {
+      "page": 432,
+      "fileName": "page-432.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 212421,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-432.png"
+    },
+    {
+      "page": 433,
+      "fileName": "page-433.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 216695,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-433.png"
+    },
+    {
+      "page": 434,
+      "fileName": "page-434.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 232142,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-434.png"
+    },
+    {
+      "page": 435,
+      "fileName": "page-435.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 214319,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-435.png"
+    },
+    {
+      "page": 436,
+      "fileName": "page-436.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 228384,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-436.png"
+    },
+    {
+      "page": 437,
+      "fileName": "page-437.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 220316,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-437.png"
+    },
+    {
+      "page": 438,
+      "fileName": "page-438.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 246541,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-438.png"
+    },
+    {
+      "page": 439,
+      "fileName": "page-439.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 280179,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-439.png"
+    },
+    {
+      "page": 440,
+      "fileName": "page-440.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 322504,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-440.png"
+    },
+    {
+      "page": 441,
+      "fileName": "page-441.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 246054,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-441.png"
+    },
+    {
+      "page": 442,
+      "fileName": "page-442.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 244937,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-442.png"
+    },
+    {
+      "page": 443,
+      "fileName": "page-443.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 268281,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-443.png"
+    },
+    {
+      "page": 444,
+      "fileName": "page-444.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 244928,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-444.png"
+    },
+    {
+      "page": 445,
+      "fileName": "page-445.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 250198,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-445.png"
+    },
+    {
+      "page": 446,
+      "fileName": "page-446.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 257363,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-446.png"
+    },
+    {
+      "page": 447,
+      "fileName": "page-447.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 255599,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-447.png"
+    },
+    {
+      "page": 448,
+      "fileName": "page-448.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 265990,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-448.png"
+    },
+    {
+      "page": 449,
+      "fileName": "page-449.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 236903,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-449.png"
+    },
+    {
+      "page": 450,
+      "fileName": "page-450.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 247579,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-450.png"
+    },
+    {
+      "page": 451,
+      "fileName": "page-451.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 256074,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-451.png"
+    },
+    {
+      "page": 452,
+      "fileName": "page-452.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 269595,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-452.png"
+    },
+    {
+      "page": 453,
+      "fileName": "page-453.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 251216,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-453.png"
+    },
+    {
+      "page": 454,
+      "fileName": "page-454.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 214199,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-454.png"
+    },
+    {
+      "page": 455,
+      "fileName": "page-455.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 249465,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-455.png"
+    },
+    {
+      "page": 456,
+      "fileName": "page-456.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 207555,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-456.png"
+    },
+    {
+      "page": 457,
+      "fileName": "page-457.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 261595,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-457.png"
+    },
+    {
+      "page": 458,
+      "fileName": "page-458.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 218479,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-458.png"
+    },
+    {
+      "page": 459,
+      "fileName": "page-459.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 241249,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-459.png"
+    },
+    {
+      "page": 460,
+      "fileName": "page-460.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 271835,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-460.png"
+    },
+    {
+      "page": 461,
+      "fileName": "page-461.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 240238,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-461.png"
+    },
+    {
+      "page": 462,
+      "fileName": "page-462.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 239808,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-462.png"
+    },
+    {
+      "page": 463,
+      "fileName": "page-463.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 227013,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-463.png"
+    },
+    {
+      "page": 464,
+      "fileName": "page-464.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 251210,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-464.png"
+    },
+    {
+      "page": 465,
+      "fileName": "page-465.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 266475,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-465.png"
+    },
+    {
+      "page": 466,
+      "fileName": "page-466.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 235707,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-466.png"
+    },
+    {
+      "page": 467,
+      "fileName": "page-467.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 239126,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-467.png"
+    },
+    {
+      "page": 468,
+      "fileName": "page-468.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 241752,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-468.png"
+    },
+    {
+      "page": 469,
+      "fileName": "page-469.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 241684,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-469.png"
+    },
+    {
+      "page": 470,
+      "fileName": "page-470.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 244442,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-470.png"
+    },
+    {
+      "page": 471,
+      "fileName": "page-471.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 241168,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-471.png"
+    },
+    {
+      "page": 472,
+      "fileName": "page-472.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 244614,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-472.png"
+    },
+    {
+      "page": 473,
+      "fileName": "page-473.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 217663,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-473.png"
+    },
+    {
+      "page": 474,
+      "fileName": "page-474.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 199289,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-474.png"
+    },
+    {
+      "page": 475,
+      "fileName": "page-475.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 242196,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-475.png"
+    },
+    {
+      "page": 476,
+      "fileName": "page-476.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 261566,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-476.png"
+    },
+    {
+      "page": 477,
+      "fileName": "page-477.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 264173,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-477.png"
+    },
+    {
+      "page": 478,
+      "fileName": "page-478.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 286158,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-478.png"
+    },
+    {
+      "page": 479,
+      "fileName": "page-479.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 217538,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-479.png"
+    },
+    {
+      "page": 480,
+      "fileName": "page-480.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 257096,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-480.png"
+    },
+    {
+      "page": 481,
+      "fileName": "page-481.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 227025,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-481.png"
+    },
+    {
+      "page": 482,
+      "fileName": "page-482.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 229891,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-482.png"
+    },
+    {
+      "page": 483,
+      "fileName": "page-483.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 252259,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-483.png"
+    },
+    {
+      "page": 484,
+      "fileName": "page-484.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 240865,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-484.png"
+    },
+    {
+      "page": 485,
+      "fileName": "page-485.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 226606,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-485.png"
+    },
+    {
+      "page": 486,
+      "fileName": "page-486.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 247759,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-486.png"
+    },
+    {
+      "page": 487,
+      "fileName": "page-487.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 272193,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-487.png"
+    },
+    {
+      "page": 488,
+      "fileName": "page-488.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 257579,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-488.png"
+    },
+    {
+      "page": 489,
+      "fileName": "page-489.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 234490,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-489.png"
+    },
+    {
+      "page": 490,
+      "fileName": "page-490.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 237740,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-490.png"
+    },
+    {
+      "page": 491,
+      "fileName": "page-491.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 246637,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-491.png"
+    },
+    {
+      "page": 492,
+      "fileName": "page-492.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 228738,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-492.png"
+    },
+    {
+      "page": 493,
+      "fileName": "page-493.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 241022,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-493.png"
+    },
+    {
+      "page": 494,
+      "fileName": "page-494.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 241245,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-494.png"
+    },
+    {
+      "page": 495,
+      "fileName": "page-495.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 244617,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-495.png"
+    },
+    {
+      "page": 496,
+      "fileName": "page-496.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 253590,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-496.png"
+    },
+    {
+      "page": 497,
+      "fileName": "page-497.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 250855,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-497.png"
+    },
+    {
+      "page": 498,
+      "fileName": "page-498.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 255170,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-498.png"
+    },
+    {
+      "page": 499,
+      "fileName": "page-499.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 220875,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-499.png"
+    },
+    {
+      "page": 500,
+      "fileName": "page-500.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 240533,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-500.png"
+    },
+    {
+      "page": 501,
+      "fileName": "page-501.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 255451,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-501.png"
+    },
+    {
+      "page": 502,
+      "fileName": "page-502.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 239341,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-502.png"
+    },
+    {
+      "page": 503,
+      "fileName": "page-503.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 214854,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-503.png"
+    },
+    {
+      "page": 504,
+      "fileName": "page-504.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 234972,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-504.png"
+    },
+    {
+      "page": 505,
+      "fileName": "page-505.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 278954,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-505.png"
+    },
+    {
+      "page": 506,
+      "fileName": "page-506.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 276462,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-506.png"
+    },
+    {
+      "page": 507,
+      "fileName": "page-507.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 264644,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-507.png"
+    },
+    {
+      "page": 508,
+      "fileName": "page-508.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 280529,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-508.png"
+    },
+    {
+      "page": 509,
+      "fileName": "page-509.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 253418,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-509.png"
+    },
+    {
+      "page": 510,
+      "fileName": "page-510.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 254975,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-510.png"
+    },
+    {
+      "page": 511,
+      "fileName": "page-511.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 241461,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-511.png"
+    },
+    {
+      "page": 512,
+      "fileName": "page-512.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 245352,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-512.png"
+    },
+    {
+      "page": 513,
+      "fileName": "page-513.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 256315,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-513.png"
+    },
+    {
+      "page": 514,
+      "fileName": "page-514.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 246714,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-514.png"
+    },
+    {
+      "page": 515,
+      "fileName": "page-515.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 261314,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-515.png"
+    },
+    {
+      "page": 516,
+      "fileName": "page-516.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 235870,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-516.png"
+    },
+    {
+      "page": 517,
+      "fileName": "page-517.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 212490,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-517.png"
+    },
+    {
+      "page": 518,
+      "fileName": "page-518.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 278938,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-518.png"
+    },
+    {
+      "page": 519,
+      "fileName": "page-519.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 248119,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-519.png"
+    },
+    {
+      "page": 520,
+      "fileName": "page-520.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 260162,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-520.png"
+    },
+    {
+      "page": 521,
+      "fileName": "page-521.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 235751,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-521.png"
+    },
+    {
+      "page": 522,
+      "fileName": "page-522.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 228012,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-522.png"
+    },
+    {
+      "page": 523,
+      "fileName": "page-523.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 221835,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-523.png"
+    },
+    {
+      "page": 524,
+      "fileName": "page-524.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 258150,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-524.png"
+    },
+    {
+      "page": 525,
+      "fileName": "page-525.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 257668,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-525.png"
+    },
+    {
+      "page": 526,
+      "fileName": "page-526.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 260561,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-526.png"
+    },
+    {
+      "page": 527,
+      "fileName": "page-527.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 279474,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-527.png"
+    },
+    {
+      "page": 528,
+      "fileName": "page-528.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 260039,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-528.png"
+    },
+    {
+      "page": 529,
+      "fileName": "page-529.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 274731,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-529.png"
+    },
+    {
+      "page": 530,
+      "fileName": "page-530.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 282066,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-530.png"
+    },
+    {
+      "page": 531,
+      "fileName": "page-531.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 259542,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-531.png"
+    },
+    {
+      "page": 532,
+      "fileName": "page-532.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 255320,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-532.png"
+    },
+    {
+      "page": 533,
+      "fileName": "page-533.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 242578,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-533.png"
+    },
+    {
+      "page": 534,
+      "fileName": "page-534.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 269922,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-534.png"
+    },
+    {
+      "page": 535,
+      "fileName": "page-535.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 238785,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-535.png"
+    },
+    {
+      "page": 536,
+      "fileName": "page-536.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 230136,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-536.png"
+    },
+    {
+      "page": 537,
+      "fileName": "page-537.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 277318,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-537.png"
+    },
+    {
+      "page": 538,
+      "fileName": "page-538.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 254589,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-538.png"
+    },
+    {
+      "page": 539,
+      "fileName": "page-539.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 246856,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-539.png"
+    },
+    {
+      "page": 540,
+      "fileName": "page-540.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 257788,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-540.png"
+    },
+    {
+      "page": 541,
+      "fileName": "page-541.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 280975,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-541.png"
+    },
+    {
+      "page": 542,
+      "fileName": "page-542.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 259660,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-542.png"
+    },
+    {
+      "page": 543,
+      "fileName": "page-543.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 255321,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-543.png"
+    },
+    {
+      "page": 544,
+      "fileName": "page-544.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 280590,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-544.png"
+    },
+    {
+      "page": 545,
+      "fileName": "page-545.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 293626,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-545.png"
+    },
+    {
+      "page": 546,
+      "fileName": "page-546.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 251835,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-546.png"
+    },
+    {
+      "page": 547,
+      "fileName": "page-547.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 231424,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-547.png"
+    },
+    {
+      "page": 548,
+      "fileName": "page-548.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 232549,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-548.png"
+    },
+    {
+      "page": 549,
+      "fileName": "page-549.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 252475,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-549.png"
+    },
+    {
+      "page": 550,
+      "fileName": "page-550.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 241310,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-550.png"
+    },
+    {
+      "page": 551,
+      "fileName": "page-551.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 225843,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-551.png"
+    },
+    {
+      "page": 552,
+      "fileName": "page-552.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 227583,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-552.png"
+    },
+    {
+      "page": 553,
+      "fileName": "page-553.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 241524,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-553.png"
+    },
+    {
+      "page": 554,
+      "fileName": "page-554.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 255115,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-554.png"
+    },
+    {
+      "page": 555,
+      "fileName": "page-555.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 245889,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-555.png"
+    },
+    {
+      "page": 556,
+      "fileName": "page-556.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 223711,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-556.png"
+    },
+    {
+      "page": 557,
+      "fileName": "page-557.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 238466,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-557.png"
+    },
+    {
+      "page": 558,
+      "fileName": "page-558.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 228538,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-558.png"
+    },
+    {
+      "page": 559,
+      "fileName": "page-559.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 242028,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-559.png"
+    },
+    {
+      "page": 560,
+      "fileName": "page-560.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 248271,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-560.png"
+    },
+    {
+      "page": 561,
+      "fileName": "page-561.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 277610,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-561.png"
+    },
+    {
+      "page": 562,
+      "fileName": "page-562.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 284157,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-562.png"
+    },
+    {
+      "page": 563,
+      "fileName": "page-563.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 254392,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-563.png"
+    },
+    {
+      "page": 564,
+      "fileName": "page-564.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 231311,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-564.png"
+    },
+    {
+      "page": 565,
+      "fileName": "page-565.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 209487,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-565.png"
+    },
+    {
+      "page": 566,
+      "fileName": "page-566.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 235171,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-566.png"
+    },
+    {
+      "page": 567,
+      "fileName": "page-567.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 214253,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-567.png"
+    },
+    {
+      "page": 568,
+      "fileName": "page-568.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 263361,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-568.png"
+    },
+    {
+      "page": 569,
+      "fileName": "page-569.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 208480,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-569.png"
+    },
+    {
+      "page": 570,
+      "fileName": "page-570.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 248545,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-570.png"
+    },
+    {
+      "page": 571,
+      "fileName": "page-571.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 261497,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-571.png"
+    },
+    {
+      "page": 572,
+      "fileName": "page-572.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 250540,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-572.png"
+    },
+    {
+      "page": 573,
+      "fileName": "page-573.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 229739,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-573.png"
+    },
+    {
+      "page": 574,
+      "fileName": "page-574.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 219073,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-574.png"
+    },
+    {
+      "page": 575,
+      "fileName": "page-575.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 239568,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-575.png"
+    },
+    {
+      "page": 576,
+      "fileName": "page-576.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 250155,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-576.png"
+    },
+    {
+      "page": 577,
+      "fileName": "page-577.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 249519,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-577.png"
+    },
+    {
+      "page": 578,
+      "fileName": "page-578.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 275262,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-578.png"
+    },
+    {
+      "page": 579,
+      "fileName": "page-579.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 248194,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-579.png"
+    },
+    {
+      "page": 580,
+      "fileName": "page-580.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 232958,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-580.png"
+    },
+    {
+      "page": 581,
+      "fileName": "page-581.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 266665,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-581.png"
+    },
+    {
+      "page": 582,
+      "fileName": "page-582.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 243794,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-582.png"
+    },
+    {
+      "page": 583,
+      "fileName": "page-583.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 268275,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-583.png"
+    },
+    {
+      "page": 584,
+      "fileName": "page-584.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 260359,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-584.png"
+    },
+    {
+      "page": 585,
+      "fileName": "page-585.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 229623,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-585.png"
+    },
+    {
+      "page": 586,
+      "fileName": "page-586.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 263211,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-586.png"
+    },
+    {
+      "page": 587,
+      "fileName": "page-587.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 234449,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-587.png"
+    },
+    {
+      "page": 588,
+      "fileName": "page-588.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 273821,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-588.png"
+    },
+    {
+      "page": 589,
+      "fileName": "page-589.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 273098,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-589.png"
+    },
+    {
+      "page": 590,
+      "fileName": "page-590.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 221629,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-590.png"
+    },
+    {
+      "page": 591,
+      "fileName": "page-591.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 240197,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-591.png"
+    },
+    {
+      "page": 592,
+      "fileName": "page-592.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 268692,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-592.png"
+    },
+    {
+      "page": 593,
+      "fileName": "page-593.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 244626,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-593.png"
+    },
+    {
+      "page": 594,
+      "fileName": "page-594.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 268847,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-594.png"
+    },
+    {
+      "page": 595,
+      "fileName": "page-595.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 269925,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-595.png"
+    },
+    {
+      "page": 596,
+      "fileName": "page-596.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 237808,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-596.png"
+    },
+    {
+      "page": 597,
+      "fileName": "page-597.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 228274,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-597.png"
+    },
+    {
+      "page": 598,
+      "fileName": "page-598.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 249133,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-598.png"
+    },
+    {
+      "page": 599,
+      "fileName": "page-599.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 290782,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-599.png"
+    },
+    {
+      "page": 600,
+      "fileName": "page-600.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 249052,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-600.png"
+    },
+    {
+      "page": 601,
+      "fileName": "page-601.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 247781,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-601.png"
+    },
+    {
+      "page": 602,
+      "fileName": "page-602.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 245016,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-602.png"
+    },
+    {
+      "page": 603,
+      "fileName": "page-603.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 219866,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-603.png"
+    },
+    {
+      "page": 604,
+      "fileName": "page-604.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 248848,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-604.png"
+    },
+    {
+      "page": 605,
+      "fileName": "page-605.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 258648,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-605.png"
+    },
+    {
+      "page": 606,
+      "fileName": "page-606.png",
+      "width": 1019,
+      "height": 1340,
+      "size": 244761,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-606.png"
+    },
+    {
+      "page": 607,
+      "fileName": "page-607.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 256158,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-607.png"
+    },
+    {
+      "page": 608,
+      "fileName": "page-608.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 263201,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-608.png"
+    },
+    {
+      "page": 609,
+      "fileName": "page-609.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 259635,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-609.png"
+    },
+    {
+      "page": 610,
+      "fileName": "page-610.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 236589,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-610.png"
+    },
+    {
+      "page": 611,
+      "fileName": "page-611.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 242051,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-611.png"
+    },
+    {
+      "page": 612,
+      "fileName": "page-612.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 239736,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-612.png"
+    },
+    {
+      "page": 613,
+      "fileName": "page-613.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 225765,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-613.png"
+    },
+    {
+      "page": 614,
+      "fileName": "page-614.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 248415,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-614.png"
+    },
+    {
+      "page": 615,
+      "fileName": "page-615.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 251736,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-615.png"
+    },
+    {
+      "page": 616,
+      "fileName": "page-616.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 226891,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-616.png"
+    },
+    {
+      "page": 617,
+      "fileName": "page-617.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 262073,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-617.png"
+    },
+    {
+      "page": 618,
+      "fileName": "page-618.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 269356,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-618.png"
+    },
+    {
+      "page": 619,
+      "fileName": "page-619.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 305065,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-619.png"
+    },
+    {
+      "page": 620,
+      "fileName": "page-620.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 297236,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-620.png"
+    },
+    {
+      "page": 621,
+      "fileName": "page-621.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 245763,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-621.png"
+    },
+    {
+      "page": 622,
+      "fileName": "page-622.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 223701,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-622.png"
+    },
+    {
+      "page": 623,
+      "fileName": "page-623.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 272040,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-623.png"
+    },
+    {
+      "page": 624,
+      "fileName": "page-624.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 253895,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-624.png"
+    },
+    {
+      "page": 625,
+      "fileName": "page-625.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 224517,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-625.png"
+    },
+    {
+      "page": 626,
+      "fileName": "page-626.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 260043,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-626.png"
+    },
+    {
+      "page": 627,
+      "fileName": "page-627.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 252396,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-627.png"
+    },
+    {
+      "page": 628,
+      "fileName": "page-628.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 238572,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-628.png"
+    },
+    {
+      "page": 629,
+      "fileName": "page-629.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 219947,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-629.png"
+    },
+    {
+      "page": 630,
+      "fileName": "page-630.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 226935,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-630.png"
+    },
+    {
+      "page": 631,
+      "fileName": "page-631.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 259681,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-631.png"
+    },
+    {
+      "page": 632,
+      "fileName": "page-632.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 253591,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-632.png"
+    },
+    {
+      "page": 633,
+      "fileName": "page-633.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 264147,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-633.png"
+    },
+    {
+      "page": 634,
+      "fileName": "page-634.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 202232,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-634.png"
+    },
+    {
+      "page": 635,
+      "fileName": "page-635.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 239928,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-635.png"
+    },
+    {
+      "page": 636,
+      "fileName": "page-636.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 223753,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-636.png"
+    },
+    {
+      "page": 637,
+      "fileName": "page-637.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 214728,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-637.png"
+    },
+    {
+      "page": 638,
+      "fileName": "page-638.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 254730,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-638.png"
+    },
+    {
+      "page": 639,
+      "fileName": "page-639.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 249433,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-639.png"
+    },
+    {
+      "page": 640,
+      "fileName": "page-640.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 242519,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-640.png"
+    },
+    {
+      "page": 641,
+      "fileName": "page-641.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 216536,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-641.png"
+    },
+    {
+      "page": 642,
+      "fileName": "page-642.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 244101,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-642.png"
+    },
+    {
+      "page": 643,
+      "fileName": "page-643.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 243668,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-643.png"
+    },
+    {
+      "page": 644,
+      "fileName": "page-644.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 229774,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-644.png"
+    },
+    {
+      "page": 645,
+      "fileName": "page-645.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 257050,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-645.png"
+    },
+    {
+      "page": 646,
+      "fileName": "page-646.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 253086,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-646.png"
+    },
+    {
+      "page": 647,
+      "fileName": "page-647.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 230538,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-647.png"
+    },
+    {
+      "page": 648,
+      "fileName": "page-648.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 246402,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-648.png"
+    },
+    {
+      "page": 649,
+      "fileName": "page-649.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 224632,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-649.png"
+    },
+    {
+      "page": 650,
+      "fileName": "page-650.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 226136,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-650.png"
+    },
+    {
+      "page": 651,
+      "fileName": "page-651.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 271275,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-651.png"
+    },
+    {
+      "page": 652,
+      "fileName": "page-652.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 267359,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-652.png"
+    },
+    {
+      "page": 653,
+      "fileName": "page-653.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 284319,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-653.png"
+    },
+    {
+      "page": 654,
+      "fileName": "page-654.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 219589,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-654.png"
+    },
+    {
+      "page": 655,
+      "fileName": "page-655.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 226836,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-655.png"
+    },
+    {
+      "page": 656,
+      "fileName": "page-656.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 223905,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-656.png"
+    },
+    {
+      "page": 657,
+      "fileName": "page-657.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 234197,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-657.png"
+    },
+    {
+      "page": 658,
+      "fileName": "page-658.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 219944,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-658.png"
+    },
+    {
+      "page": 659,
+      "fileName": "page-659.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 237567,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-659.png"
+    },
+    {
+      "page": 660,
+      "fileName": "page-660.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 210993,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-660.png"
+    },
+    {
+      "page": 661,
+      "fileName": "page-661.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 213337,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-661.png"
+    },
+    {
+      "page": 662,
+      "fileName": "page-662.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 226161,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-662.png"
+    },
+    {
+      "page": 663,
+      "fileName": "page-663.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 222050,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-663.png"
+    },
+    {
+      "page": 664,
+      "fileName": "page-664.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 220403,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-664.png"
+    },
+    {
+      "page": 665,
+      "fileName": "page-665.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 221531,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-665.png"
+    },
+    {
+      "page": 666,
+      "fileName": "page-666.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 250082,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-666.png"
+    },
+    {
+      "page": 667,
+      "fileName": "page-667.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 254674,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-667.png"
+    },
+    {
+      "page": 668,
+      "fileName": "page-668.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 252476,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-668.png"
+    },
+    {
+      "page": 669,
+      "fileName": "page-669.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 221284,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-669.png"
+    },
+    {
+      "page": 670,
+      "fileName": "page-670.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 239605,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-670.png"
+    },
+    {
+      "page": 671,
+      "fileName": "page-671.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 259042,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-671.png"
+    },
+    {
+      "page": 672,
+      "fileName": "page-672.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 256157,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-672.png"
+    },
+    {
+      "page": 673,
+      "fileName": "page-673.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 246829,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-673.png"
+    },
+    {
+      "page": 674,
+      "fileName": "page-674.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 268660,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-674.png"
+    },
+    {
+      "page": 675,
+      "fileName": "page-675.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 268964,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-675.png"
+    },
+    {
+      "page": 676,
+      "fileName": "page-676.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 253180,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-676.png"
+    },
+    {
+      "page": 677,
+      "fileName": "page-677.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 271824,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-677.png"
+    },
+    {
+      "page": 678,
+      "fileName": "page-678.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 259518,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-678.png"
+    },
+    {
+      "page": 679,
+      "fileName": "page-679.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 275294,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-679.png"
+    },
+    {
+      "page": 680,
+      "fileName": "page-680.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 252447,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-680.png"
+    },
+    {
+      "page": 681,
+      "fileName": "page-681.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 280963,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-681.png"
+    },
+    {
+      "page": 682,
+      "fileName": "page-682.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 290197,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-682.png"
+    },
+    {
+      "page": 683,
+      "fileName": "page-683.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 268795,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-683.png"
+    },
+    {
+      "page": 684,
+      "fileName": "page-684.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 237299,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-684.png"
+    },
+    {
+      "page": 685,
+      "fileName": "page-685.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 234515,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-685.png"
+    },
+    {
+      "page": 686,
+      "fileName": "page-686.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 253327,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-686.png"
+    },
+    {
+      "page": 687,
+      "fileName": "page-687.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 250955,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-687.png"
+    },
+    {
+      "page": 688,
+      "fileName": "page-688.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 243124,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-688.png"
+    },
+    {
+      "page": 689,
+      "fileName": "page-689.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 241262,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-689.png"
+    },
+    {
+      "page": 690,
+      "fileName": "page-690.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 243768,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-690.png"
+    },
+    {
+      "page": 691,
+      "fileName": "page-691.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 241146,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-691.png"
+    },
+    {
+      "page": 692,
+      "fileName": "page-692.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 316375,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-692.png"
+    },
+    {
+      "page": 693,
+      "fileName": "page-693.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 267580,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-693.png"
+    },
+    {
+      "page": 694,
+      "fileName": "page-694.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 265117,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-694.png"
+    },
+    {
+      "page": 695,
+      "fileName": "page-695.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 259029,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-695.png"
+    },
+    {
+      "page": 696,
+      "fileName": "page-696.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 260008,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-696.png"
+    },
+    {
+      "page": 697,
+      "fileName": "page-697.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 71819,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-697.png"
+    },
+    {
+      "page": 698,
+      "fileName": "page-698.png",
+      "width": 1018,
+      "height": 1340,
+      "size": 975617,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/page-698.png"
+    }
+  ]
+}
