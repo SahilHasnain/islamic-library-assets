@@ -7,7 +7,7 @@
   "baseUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/seerat-e-mustafa/Hindi/volume1",
   "filePattern": "page-{page}.png",
   "extension": "png",
-  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/seerat-e-mustafa/cover.png",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/seerat-e-mustafa/Hindi/volume1/cover.png",
   "pages": [
     {
       "page": 1,
