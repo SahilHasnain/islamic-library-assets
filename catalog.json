@@ -1,6 +1,6 @@
 {
-  "version": "2026-05-31-17422",
-  "generatedAt": "2026-05-31T11:34:22.422Z",
+  "version": "2026-05-31-203229",
+  "generatedAt": "2026-05-31T15:02:29.119Z",
   "books": [
     {
       "id": "addawatul-makkiyyah",
@@ -12,7 +12,8 @@
     },
     {
       "id": "ahle-sunaat-ki-pehchan",
-      "title": "Ahle Sunaat Ki Pehchan",
+      "title": "Ahle Sunnat Ki Pehchan",
+      "author": "Allama Ghulam Rasool Qasmi",
       "category": "Seerah",
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ahle-sunaat-ki-pehchan/cover.png",
       "status": "published",

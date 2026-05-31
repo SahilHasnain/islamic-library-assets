@@ -1,6 +1,6 @@
 {
   "id": "ahle-sunaat-ki-pehchan",
-  "title": "Ahle Sunaat Ki Pehchan",
+  "title": "Ahle Sunnat Ki Pehchan",
   "category": "Seerah",
   "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ahle-sunaat-ki-pehchan/cover.png",
   "languages": [
@@ -14,10 +14,102 @@
           "title": "volume1",
           "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ahle-sunaat-ki-pehchan/roman-urdu/volume1/manifest.json",
           "order": 1,
-          "printedPageStartPage": 7
+          "printedPageStartPage": 7,
+          "sections": [
+            {
+              "id": "about-us",
+              "title": "About Us",
+              "kind": "introduction",
+              "startPage": 2,
+              "endPage": 4,
+              "estimatedMinutes": 3
+            },
+            {
+              "id": "dalail-ki-adalat",
+              "title": "Dala'il Ki Adalat Mein",
+              "kind": "chapter",
+              "startPage": 5,
+              "endPage": 6,
+              "estimatedMinutes": 5
+            },
+            {
+              "id": "pairwi-lazim",
+              "title": "Hum Par Kis Kis Ki Pairwi Lazim Hai",
+              "kind": "chapter",
+              "startPage": 6,
+              "endPage": 11,
+              "estimatedMinutes": 10
+            },
+            {
+              "id": "bidat",
+              "title": "Bid'at Se Kya Murad Hai?",
+              "kind": "chapter",
+              "startPage": 8,
+              "endPage": 16,
+              "estimatedMinutes": 12
+            },
+            {
+              "id": "jannat-ke-sardar",
+              "title": "Jannat Ke Sardar Kaun Kaun Hain?",
+              "kind": "chapter",
+              "startPage": 12,
+              "endPage": 17,
+              "estimatedMinutes": 8
+            },
+            {
+              "id": "main-us-se-hoon",
+              "title": "Main Us Se Hoon Aur Woh Mujh Se Hai",
+              "kind": "chapter",
+              "startPage": 13,
+              "endPage": 20,
+              "estimatedMinutes": 10
+            },
+            {
+              "id": "iman-munafiqat",
+              "title": "Iman Ki Nishani Aur Munafiqat Ki Nishani",
+              "kind": "chapter",
+              "startPage": 15,
+              "endPage": 24,
+              "estimatedMinutes": 15
+            },
+            {
+              "id": "pyaron-ka-difaa",
+              "title": "Pyaron Ka Ek Jaisa Difaa",
+              "kind": "chapter",
+              "startPage": 21,
+              "endPage": 26,
+              "estimatedMinutes": 12
+            },
+            {
+              "id": "ahle-sunnat-pehchan",
+              "title": "Ahle Sunnat Ki Alamat Aur Pehchan",
+              "kind": "chapter",
+              "startPage": 28,
+              "endPage": 30,
+              "estimatedMinutes": 8
+            },
+            {
+              "id": "ahle-bait",
+              "title": "Ahle Bait Mein Kon Kon Shamil Hain?",
+              "kind": "chapter",
+              "startPage": 31,
+              "endPage": 33,
+              "estimatedMinutes": 10
+            },
+            {
+              "id": "ahle-qarabat",
+              "title": "Ahle Qarabat Kaun Kaun Hain Aur Al Muwaddat Fil Qurba Se Kya Murad Hai?",
+              "kind": "chapter",
+              "startPage": 34,
+              "endPage": 36,
+              "estimatedMinutes": 8
+            }
+          ]
         }
       ]
     }
   ],
-  "defaultLanguageId": "roman-urdu"
+  "defaultLanguageId": "roman-urdu",
+  "author": "Allama Ghulam Rasool Qasmi",
+  "description": "A book discussing the beliefs and practices of Ahle Sunnat, covering topics such as the importance of following the Quran and Sunnah, the status of companions, the concept of bid'ah, and the characteristics of true believers versus hypocrites. It presents various hadiths and arguments to establish the Sunni creed and refute sectarian divisions."
 }
