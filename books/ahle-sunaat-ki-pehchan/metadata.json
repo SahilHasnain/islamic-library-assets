@@ -13,7 +13,8 @@
           "id": "volume1",
           "title": "volume1",
           "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ahle-sunaat-ki-pehchan/roman-urdu/volume1/manifest.json",
-          "order": 1
+          "order": 1,
+          "printedPageStartPage": 7
         }
       ]
     }
