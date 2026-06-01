@@ -7,13 +7,16 @@
     {
       "id": "roman-urdu",
       "title": "roman-urdu",
+      "order": 1,
       "volumes": [
         {
           "id": "volume1",
           "title": "volume1",
-          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ikhteyarat-e-mustafa/roman-urdu/volume1/manifest.json"
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ikhteyarat-e-mustafa/roman-urdu/volume1/manifest.json",
+          "order": 1
         }
       ]
     }
-  ]
+  ],
+  "defaultLanguageId": "roman-urdu"
 }
