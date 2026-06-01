@@ -1,6 +1,6 @@
 {
-  "version": "2026-06-01-171650",
-  "generatedAt": "2026-06-01T11:46:50.415Z",
+  "version": "2026-06-01-191218",
+  "generatedAt": "2026-06-01T13:42:18.335Z",
   "books": [
     {
       "id": "addawatul-makkiyyah",
@@ -22,9 +22,9 @@
     },
     {
       "id": "al-amna-wal-ula",
-      "title": "Al Amna wal Ula",
-      "author": "Alahazrat Imam Ahmed Raza",
-      "category": "Seerah",
+      "title": "Al Amnu wal Ula",
+      "author": "Imam Ahmad Raza Khan",
+      "category": "Seerat",
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/al-amna-wal-ula/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/al-amna-wal-ula/metadata.json"

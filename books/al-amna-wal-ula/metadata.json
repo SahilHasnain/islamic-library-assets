@@ -1,20 +1,366 @@
 {
   "id": "al-amna-wal-ula",
-  "title": "Al Amna wal Ula",
-  "author": "Alahazrat Imam Ahmed Raza",
-  "category": "Seerah",
+  "title": "Al Amnu wal Ula",
+  "author": "Imam Ahmad Raza Khan",
+  "category": "Seerat",
   "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/al-amna-wal-ula/cover.png",
   "languages": [
     {
-      "id": "Roman Urdu",
+      "id": "roman-urdu",
       "title": "Roman Urdu",
+      "order": 1,
       "volumes": [
         {
           "id": "volume1",
           "title": "volume1",
-          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/al-amna-wal-ula/Roman Urdu/volume1/manifest.json"
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/al-amna-wal-ula/Roman Urdu/volume1/manifest.json",
+          "order": 1,
+          "printedPageStartPage": 4,
+          "sections": [
+            {
+              "id": "istefta",
+              "title": "Istefta",
+              "kind": "chapter",
+              "startPage": 26,
+              "endPage": 29,
+              "estimatedMinutes": 5,
+              "entryPage": 26,
+              "order": 1
+            },
+            {
+              "id": "al-jawab",
+              "title": "Al Jawab",
+              "kind": "chapter",
+              "startPage": 30,
+              "endPage": 30,
+              "estimatedMinutes": 5,
+              "entryPage": 30,
+              "order": 2
+            },
+            {
+              "id": "nabi-alaihissalam-ki-janab-mein-ulama-wa-aimma-e-deen-ka-aqeeda",
+              "title": "Nabi alaihissalam ki janab mein Ulama wa Aimma‑e‑deen ka aqeeda",
+              "kind": "chapter",
+              "startPage": 31,
+              "endPage": 31,
+              "estimatedMinutes": 7,
+              "entryPage": 31,
+              "order": 3
+            },
+            {
+              "id": "wahabiyo-ka-peshwa-600-baras-se-sab-aalimo-ko-kafir-kehta-tha",
+              "title": "Wahabiyo ka peshwa 600 baras se sab aalimo ko kafir kehta tha",
+              "kind": "chapter",
+              "startPage": 32,
+              "endPage": 32,
+              "estimatedMinutes": 7,
+              "entryPage": 32,
+              "order": 4
+            },
+            {
+              "id": "wahabi-ke-nazdeek-huzoor-ki-tareef-mein-kami-chahiye",
+              "title": "Wahabi ke nazdeek Huzoor ki tareef mein kami chahiye",
+              "kind": "chapter",
+              "startPage": 33,
+              "endPage": 33,
+              "estimatedMinutes": 6,
+              "entryPage": 33,
+              "order": 5
+            },
+            {
+              "id": "zara-tasawwure-shaykh-ka-hukm-mulahiza-ho",
+              "title": "Zara \"Tasawwure Shaykh\" ka hukm mulahiza ho!",
+              "kind": "chapter",
+              "startPage": 33,
+              "endPage": 33,
+              "estimatedMinutes": 6,
+              "entryPage": 33,
+              "order": 6
+            },
+            {
+              "id": "wazaif-ke-iltezam-ka-hukm",
+              "title": "Wazaif ke iltezam ka hukm",
+              "kind": "chapter",
+              "startPage": 33,
+              "endPage": 33,
+              "estimatedMinutes": 5,
+              "entryPage": 33,
+              "order": 7
+            },
+            {
+              "id": "muqaddima",
+              "title": "Muqaddima",
+              "kind": "chapter",
+              "startPage": 34,
+              "endPage": 34,
+              "estimatedMinutes": 5,
+              "entryPage": 34,
+              "order": 8
+            },
+            {
+              "id": "wahabiye-ke-nazdeek-shah-abdul-azeez-aur-shah-waliullah-dehelvi-bidd-ati-the",
+              "title": "Wahabiye ke nazdeek Shah Abdul Azeez aur Shah Waliullah Dehelvi bidd'ati the!",
+              "kind": "chapter",
+              "startPage": 34,
+              "endPage": 34,
+              "estimatedMinutes": 8,
+              "entryPage": 34,
+              "order": 9
+            },
+            {
+              "id": "imamat-taifa-ka-khud-bidd-ati-banna",
+              "title": "Imamat Taifa ka khud bidd'ati banna",
+              "kind": "chapter",
+              "startPage": 34,
+              "endPage": 38,
+              "estimatedMinutes": 7,
+              "entryPage": 34,
+              "order": 10
+            },
+            {
+              "id": "karobaare-aalam-maula-ali-ke-daman-se-wabasta-hai-aur-maula-ali-ke-naam-ki-manna",
+              "title": "Karobaare aalam Maula Ali ke daman se wabasta hai aur Maula Ali ke naam ki mannat",
+              "kind": "chapter",
+              "startPage": 39,
+              "endPage": 39,
+              "estimatedMinutes": 9,
+              "entryPage": 39,
+              "order": 11
+            },
+            {
+              "id": "shah-waliullah-saheb-ka-phir-bidd-ati-banna",
+              "title": "Shah Waliullah saheb ka phir bidd'ati banna",
+              "kind": "chapter",
+              "startPage": 40,
+              "endPage": 40,
+              "estimatedMinutes": 8,
+              "entryPage": 40,
+              "order": 12
+            },
+            {
+              "id": "shah-saheb-ka-bada-bhaari-shirk-naade-ali",
+              "title": "Shah saheb ka bada bhaari shirk 'Naade Ali'",
+              "kind": "chapter",
+              "startPage": 41,
+              "endPage": 41,
+              "estimatedMinutes": 8,
+              "entryPage": 41,
+              "order": 13
+            },
+            {
+              "id": "faaida-zaahira",
+              "title": "Faaida Zaahira",
+              "kind": "chapter",
+              "startPage": 42,
+              "endPage": 43,
+              "estimatedMinutes": 5,
+              "entryPage": 42,
+              "order": 14
+            },
+            {
+              "id": "farqe-zaati-wa-ataai",
+              "title": "Farqe zaati wa ataai",
+              "kind": "chapter",
+              "startPage": 44,
+              "endPage": 45,
+              "estimatedMinutes": 7,
+              "entryPage": 44,
+              "order": 15
+            },
+            {
+              "id": "wahabiya-ka-zulm",
+              "title": "Wahabiya ka zulm",
+              "kind": "chapter",
+              "startPage": 46,
+              "endPage": 49,
+              "estimatedMinutes": 6,
+              "entryPage": 46,
+              "order": 16
+            },
+            {
+              "id": "baabe-awwal",
+              "title": "Baabe Awwal",
+              "kind": "chapter",
+              "startPage": 50,
+              "endPage": 50,
+              "estimatedMinutes": 6,
+              "entryPage": 50,
+              "order": 17
+            },
+            {
+              "id": "pehli-fasl-aayate-kareema-mein",
+              "title": "Pehli Fasl: Aayate kareema mein",
+              "kind": "chapter",
+              "startPage": 50,
+              "endPage": 52,
+              "estimatedMinutes": 12,
+              "entryPage": 50,
+              "order": 18
+            },
+            {
+              "id": "dusri-fasl-ahadeese-azeema-mein",
+              "title": "Dusri Fasl: Ahadeese azeema mein",
+              "kind": "chapter",
+              "startPage": 53,
+              "endPage": 68,
+              "estimatedMinutes": 15,
+              "entryPage": 53,
+              "order": 19
+            },
+            {
+              "id": "dusra-baab",
+              "title": "Dusra Baab",
+              "kind": "chapter",
+              "startPage": 69,
+              "endPage": 69,
+              "estimatedMinutes": 14,
+              "entryPage": 69,
+              "order": 20
+            },
+            {
+              "id": "pehli-fasl-aayaate-shareef-mein",
+              "title": "Pehli Fasl: Aayaate shareef mein",
+              "kind": "chapter",
+              "startPage": 69,
+              "endPage": 84,
+              "estimatedMinutes": 13,
+              "entryPage": 69,
+              "order": 21
+            },
+            {
+              "id": "hadees-61-65",
+              "title": "Hadees 61‑65",
+              "kind": "chapter",
+              "startPage": 95,
+              "endPage": 96,
+              "estimatedMinutes": 6,
+              "entryPage": 95,
+              "order": 22
+            },
+            {
+              "id": "hadees-66-80",
+              "title": "Hadees 66‑80",
+              "kind": "chapter",
+              "startPage": 97,
+              "endPage": 102,
+              "estimatedMinutes": 9,
+              "entryPage": 97,
+              "order": 23
+            },
+            {
+              "id": "dusri-fasl-ahadeese-muneefa-mein",
+              "title": "Dusri Fasl: Ahadeese muneefa mein",
+              "kind": "chapter",
+              "startPage": 103,
+              "endPage": 106,
+              "estimatedMinutes": 20,
+              "entryPage": 103,
+              "order": 24
+            },
+            {
+              "id": "hadees-81-100",
+              "title": "Hadees 81‑100",
+              "kind": "chapter",
+              "startPage": 107,
+              "endPage": 131,
+              "estimatedMinutes": 12,
+              "entryPage": 107,
+              "order": 25
+            },
+            {
+              "id": "hadees-101-120",
+              "title": "Hadees 101‑120",
+              "kind": "chapter",
+              "startPage": 132,
+              "endPage": 145,
+              "estimatedMinutes": 12,
+              "entryPage": 132,
+              "order": 26
+            },
+            {
+              "id": "hadees-121-140",
+              "title": "Hadees 121‑140",
+              "kind": "chapter",
+              "startPage": 146,
+              "endPage": 179,
+              "estimatedMinutes": 15,
+              "entryPage": 146,
+              "order": 27
+            },
+            {
+              "id": "hadees-141-160",
+              "title": "Hadees 141‑160",
+              "kind": "chapter",
+              "startPage": 180,
+              "endPage": 186,
+              "estimatedMinutes": 12,
+              "entryPage": 180,
+              "order": 28
+            },
+            {
+              "id": "takmeel",
+              "title": "Takmeel",
+              "kind": "conclusion",
+              "startPage": 187,
+              "endPage": 199,
+              "estimatedMinutes": 10,
+              "entryPage": 187,
+              "order": 29
+            },
+            {
+              "id": "hadees-161-180",
+              "title": "Hadees 161‑180",
+              "kind": "chapter",
+              "startPage": 200,
+              "endPage": 212,
+              "estimatedMinutes": 12,
+              "entryPage": 200,
+              "order": 30
+            },
+            {
+              "id": "hadees-181-200",
+              "title": "Hadees 181‑200",
+              "kind": "chapter",
+              "startPage": 213,
+              "endPage": 227,
+              "estimatedMinutes": 12,
+              "entryPage": 213,
+              "order": 31
+            },
+            {
+              "id": "hadees-201-220",
+              "title": "Hadees 201‑220",
+              "kind": "chapter",
+              "startPage": 228,
+              "endPage": 237,
+              "estimatedMinutes": 14,
+              "entryPage": 228,
+              "order": 32
+            },
+            {
+              "id": "hadees-221-240",
+              "title": "Hadees 221‑240",
+              "kind": "chapter",
+              "startPage": 238,
+              "endPage": 288,
+              "estimatedMinutes": 18,
+              "entryPage": 238,
+              "order": 33
+            },
+            {
+              "id": "hadees-241-260",
+              "title": "Hadees 241‑260",
+              "kind": "chapter",
+              "startPage": 289,
+              "endPage": 312,
+              "estimatedMinutes": 15,
+              "entryPage": 289,
+              "order": 34
+            }
+          ]
         }
       ]
     }
-  ]
+  ],
+  "defaultLanguageId": "Roman Urdu"
 }
