@@ -1,6 +1,6 @@
 {
-  "version": "2026-06-01-191218",
-  "generatedAt": "2026-06-01T13:42:18.335Z",
+  "version": "2026-06-16-22120",
+  "generatedAt": "2026-06-16T16:31:20.116Z",
   "books": [
     {
       "id": "addawatul-makkiyyah",
@@ -101,10 +101,11 @@
       "title": "Shifa Shareef",
       "subtitle": "Roman Urdu",
       "author": "Islamic Library",
-      "category": "Durood",
+      "category": "Seerat",
+      "recommendations": [],
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/cover.png",
       "status": "published",
-      "metadataUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/metadata.json"
+      "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/shifa-shareef-roman-urdu/metadata.json"
     },
     {
       "id": "shifa-shareef",
