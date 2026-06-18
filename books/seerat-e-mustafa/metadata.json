@@ -7,24 +7,24 @@
   "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/seerat-e-mustafa/cover.png",
   "languages": [
     {
-      "id": "Hindi",
+      "id": "hindi",
       "title": "Hindi",
       "volumes": [
         {
           "id": "volume1",
           "title": "volume1",
-          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/seerat-e-mustafa/Hindi/volume1/manifest.json"
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/seerat-e-mustafa/hindi/volume1/manifest.json"
         }
       ]
     },
     {
-      "id": "Roman Urdu",
+      "id": "roman-urdu",
       "title": "Roman Urdu",
       "volumes": [
         {
           "id": "volume1",
           "title": "Volume 1",
-          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/seerat-e-mustafa/Roman Urdu/volume1/manifest.json"
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/seerat-e-mustafa/roman-urdu/volume1/manifest.json"
         }
       ]
     }

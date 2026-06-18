@@ -13,7 +13,7 @@
         {
           "id": "volume1",
           "title": "volume1",
-          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/al-amna-wal-ula/Roman Urdu/volume1/manifest.json",
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/al-amna-wal-ula/roman-urdu/volume1/manifest.json",
           "order": 1,
           "printedPageStartPage": 4,
           "sections": [
@@ -362,5 +362,5 @@
       ]
     }
   ],
-  "defaultLanguageId": "Roman Urdu"
+  "defaultLanguageId": "roman-urdu"
 }

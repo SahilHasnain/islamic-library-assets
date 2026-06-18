@@ -6,7 +6,7 @@
   "languages": [
     {
       "id": "roman-urdu",
-      "title": "roman-urdu",
+      "title": "Roman Urdu",
       "volumes": [
         {
           "id": "volume1",
@@ -23,13 +23,13 @@
       ]
     },
     {
-      "id": "Hindi",
+      "id": "hindi",
       "title": "Hindi",
       "volumes": [
         {
           "id": "volume1",
           "title": "volume1",
-          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/Hindi/volume1/manifest.json"
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/hindi/volume1/manifest.json"
         }
       ]
     }

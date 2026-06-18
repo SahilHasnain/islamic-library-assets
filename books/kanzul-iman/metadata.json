@@ -6,13 +6,13 @@
   "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/kanzul-iman/cover.png",
   "languages": [
     {
-      "id": "Roman Urdu",
+      "id": "roman-urdu",
       "title": "Roman Urdu",
       "volumes": [
         {
           "id": "volume1",
           "title": "volume1",
-          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/kanzul-iman/Roman Urdu/volume1/manifest.json"
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/kanzul-iman/roman-urdu/volume1/manifest.json"
         }
       ]
     }
