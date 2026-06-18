@@ -15,6 +15,98 @@
           "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ahle-sunaat-ki-pehchan/roman-urdu/volume1/manifest.json",
           "order": 1,
           "printedPageStartPage": 7,
+          "tocEntries": [
+            {
+              "title": "About Us",
+              "printedPage": 2,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Dala'il Ki Adalat Mein",
+              "printedPage": 5,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Tamam Dala'il Par Bayak Waqt Nazar Rakhna Zaroori Hai",
+              "printedPage": 6,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "(1) Hum Par Kis Kis Ki Pairwi Lazim Hai",
+              "printedPage": 6,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "(2) Bid'at Se Kya Murad Hai?",
+              "printedPage": 8,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "(3) Jannat Ke Sardar Kaun Kaun Hain?",
+              "printedPage": 12,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "(4) Main Us Se Hoon Aur Woh Mujh Se Hai",
+              "printedPage": 13,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "(5) Iman Ki Nishani Aur Munafiqat Ki Nishani",
+              "printedPage": 15,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Munafiqin Ki Chaar Qismein Hain",
+              "printedPage": 19,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "(6) Pyaron Ka Ek Jaisa Difaa",
+              "printedPage": 21,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "(7) Ahle Sunnat Ki Alamat Aur Pehchan",
+              "printedPage": 28,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "(8) Ahle Bait Mein Kon Kon Shamil Hain?",
+              "printedPage": 31,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "(9) Ahle Qarabat Kaun Kaun Hain Aur Al Muwaddat Fil Qurba Se Kya Murad Hai?",
+              "printedPage": 34,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "(10) Aal Se Murad Kya Hai?",
+              "printedPage": 39,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "(11) Barah Khulafa Ke Bare Mein Mukammal Surate Haal",
+              "printedPage": 41,
+              "renderedPage": null,
+              "level": 1
+            }
+          ],
           "sections": [
             {
               "id": "about-us",

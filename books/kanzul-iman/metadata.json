@@ -15,7 +15,873 @@
         {
           "id": "volume1",
           "title": "volume1",
-          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/kanzul-iman/roman-urdu/volume1/manifest.json"
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/kanzul-iman/roman-urdu/volume1/manifest.json",
+          "tocEntries": [
+            {
+              "title": "Pehla Paarah",
+              "printedPage": 9,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Suratul Fatiha",
+              "printedPage": 9,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Suratul Baqarah",
+              "printedPage": 10,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Dusra Paarah",
+              "printedPage": 46,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Teesra Paarah",
+              "printedPage": 81,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Aale Imran",
+              "printedPage": 94,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Chautha Paarah",
+              "printedPage": 116,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Suratun Nisa",
+              "printedPage": 143,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Paanchwa Paarah",
+              "printedPage": 152,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Chhata Paarah",
+              "printedPage": 186,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Suratul Maaidah",
+              "printedPage": 194,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Saatwa Paarah",
+              "printedPage": 220,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Suratul Anaam",
+              "printedPage": 231,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Aathwa Paarah",
+              "printedPage": 258,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Suratul Aaraaf",
+              "printedPage": 273,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Nawaa Paarah",
+              "printedPage": 294,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Suratul Anfaal",
+              "printedPage": 321,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Duswa Paarah",
+              "printedPage": 330,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Tauba",
+              "printedPage": 339,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Gyarahwa Paarah",
+              "printedPage": 364,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Yunus",
+              "printedPage": 374,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Hood",
+              "printedPage": 399,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Baarahwa Paarah",
+              "printedPage": 401,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Kanzul Imaan 2 Surah Yusuf",
+              "printedPage": 427,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Terahwa Paarah",
+              "printedPage": 439,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Raad",
+              "printedPage": 452,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Ibrahim",
+              "printedPage": 463,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Hijr",
+              "printedPage": 476,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Chaudhwa Paara",
+              "printedPage": 476,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Nahl",
+              "printedPage": 488,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Pandrahwa Paarah",
+              "printedPage": 514,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Bani Israyeel (Al Asra)",
+              "printedPage": 514,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Kahaf",
+              "printedPage": 537,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Solahwa Paarah",
+              "printedPage": 554,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Maryam",
+              "printedPage": 560,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Taha",
+              "printedPage": 575,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Satrahwa Paarah",
+              "printedPage": 597,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Ambiya",
+              "printedPage": 597,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Hajj",
+              "printedPage": 615,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Attharahwa Paarah",
+              "printedPage": 633,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Mominoon",
+              "printedPage": 633,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Noor",
+              "printedPage": 650,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Furqan",
+              "printedPage": 668,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Unniswa Paarah",
+              "printedPage": 672,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Shuara",
+              "printedPage": 682,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Naml",
+              "printedPage": 708,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Beeswa Paarah",
+              "printedPage": 719,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Qasas",
+              "printedPage": 725,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Ankaboot",
+              "printedPage": 745,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Ikkiswa Paarah",
+              "printedPage": 755,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Kanzul Imaan 3 Surah Room",
+              "printedPage": 760,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Luqman",
+              "printedPage": 772,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Sajda",
+              "printedPage": 779,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Ahzaab",
+              "printedPage": 785,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Baaiswa Paarah",
+              "printedPage": 793,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Saba",
+              "printedPage": 804,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Fatir",
+              "printedPage": 816,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Yaseen",
+              "printedPage": 827,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Teiswa Paarah",
+              "printedPage": 830,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Saffaat",
+              "printedPage": 839,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Saad",
+              "printedPage": 859,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Zumar",
+              "printedPage": 871,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Chaubiswa Paarah",
+              "printedPage": 879,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Momin (Al Ghafir)",
+              "printedPage": 888,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Haa Meem Sajda (Fussilat)",
+              "printedPage": 905,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Pachchiswa Paarah",
+              "printedPage": 915,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Shoora",
+              "printedPage": 917,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Zukhruf",
+              "printedPage": 929,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Dukhaan",
+              "printedPage": 942,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Jaasiya",
+              "printedPage": 949,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Chhabiswa Paarah",
+              "printedPage": 957,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Ahqaaf",
+              "printedPage": 957,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Muhammad",
+              "printedPage": 965,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Fateh",
+              "printedPage": 974,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Hujuraat",
+              "printedPage": 982,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Qaaf",
+              "printedPage": 987,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Zariyaat",
+              "printedPage": 993,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Kanzul Imaan 4 Sattaiswa Paarah",
+              "printedPage": 997,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Toor",
+              "printedPage": 1001,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Najm",
+              "printedPage": 1007,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Qamar",
+              "printedPage": 1014,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Rahman",
+              "printedPage": 1021,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Waqiya",
+              "printedPage": 1029,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Hadeed",
+              "printedPage": 1038,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Atthaiswa Paarah",
+              "printedPage": 1047,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Mujadila",
+              "printedPage": 1047,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Hashr",
+              "printedPage": 1053,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Mumtahina",
+              "printedPage": 1059,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Saff",
+              "printedPage": 1064,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Jumuah",
+              "printedPage": 1067,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Munafiqoon",
+              "printedPage": 1070,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Taghabun",
+              "printedPage": 1073,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Talaq",
+              "printedPage": 1077,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Tehreem",
+              "printedPage": 1081,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Untiswa Paarah",
+              "printedPage": 1084,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Mulk",
+              "printedPage": 1084,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Qalam",
+              "printedPage": 1090,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Haaqah",
+              "printedPage": 1096,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Ma'aarij",
+              "printedPage": 1102,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Nooh",
+              "printedPage": 1107,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Jinn",
+              "printedPage": 1111,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Muzammil",
+              "printedPage": 1115,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Muddassir",
+              "printedPage": 1119,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Qiyamah",
+              "printedPage": 1125,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Kanzul Imaan 5 Surah Dahr (Al Insan)",
+              "printedPage": 1129,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Mursalaat",
+              "printedPage": 1133,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Teeswa Paarah",
+              "printedPage": 1138,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah An Naba",
+              "printedPage": 1138,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Naziaat",
+              "printedPage": 1143,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Abas",
+              "printedPage": 1147,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Takweer",
+              "printedPage": 1151,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Infitar",
+              "printedPage": 1154,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Mutaffifeen",
+              "printedPage": 1156,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Inshiqaq",
+              "printedPage": 1160,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Burooj",
+              "printedPage": 1163,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Tariq",
+              "printedPage": 1165,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Aala",
+              "printedPage": 1167,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Ghashiyah",
+              "printedPage": 1169,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Fajr",
+              "printedPage": 1172,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Balad",
+              "printedPage": 1175,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Shams",
+              "printedPage": 1177,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Lail",
+              "printedPage": 1179,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Ad Duha",
+              "printedPage": 1181,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Alam Nashrah",
+              "printedPage": 1182,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Teen",
+              "printedPage": 1183,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Alaq",
+              "printedPage": 1184,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Al Qadr",
+              "printedPage": 1186,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Bayyinah",
+              "printedPage": 1187,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Zilzaal",
+              "printedPage": 1189,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Aadiyaat",
+              "printedPage": 1190,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Qaariah",
+              "printedPage": 1191,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Kanzul Imaan 6 Surah Takasur",
+              "printedPage": 1192,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Asr",
+              "printedPage": 1193,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Humaza",
+              "printedPage": 1194,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Feel",
+              "printedPage": 1195,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Quresh",
+              "printedPage": 1195,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Maaoon",
+              "printedPage": 1196,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Kausar",
+              "printedPage": 1197,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Kafiroon",
+              "printedPage": 1197,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Nasr",
+              "printedPage": 1198,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Lahab",
+              "printedPage": 1199,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Ikhlaas",
+              "printedPage": 1199,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Falaq",
+              "printedPage": 1200,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Surah Naas",
+              "printedPage": 1201,
+              "renderedPage": null,
+              "level": 1
+            }
+          ]
         }
       ]
     }

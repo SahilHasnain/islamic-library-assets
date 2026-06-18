@@ -14,7 +14,99 @@
           "id": "volume1",
           "title": "volume1",
           "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ikhteyarat-e-mustafa/roman-urdu/volume1/manifest.json",
-          "order": 1
+          "order": 1,
+          "tocEntries": [
+            {
+              "title": "Ahkame ilahi ki do qismein hain:",
+              "printedPage": 6,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Aqeeda Dayabana Wahabiya",
+              "printedPage": 8,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Qiyamat ka din aur ikhteyaraate Mustafa",
+              "printedPage": 25,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Roze ka kaffara maaf kar diya",
+              "printedPage": 29,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Huzoor ی صَلَّ ی ہللاُیتَعَالٰ ی یہ ی ی ی عَلَی ی مَ ی وَاٰ ل ہٖیوَسَ لَّ ne Jannat ata farmadi",
+              "printedPage": 31,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Ek ki gawahi do ke qaim maqam",
+              "printedPage": 34,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Hazrat Ali ko haalate janabat mein masjid mein aane ki ijazat",
+              "printedPage": 37,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Qurbani mein takhfeef",
+              "printedPage": 38,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Teen Namazein hi muaaf farma di",
+              "printedPage": 40,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Hazrate Suraqa ko sone ke kangan pehnaye",
+              "printedPage": 41,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Noha karne ki ijazat ata farma di",
+              "printedPage": 44,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Hajj ki farziyat aur ikhteyaraate Mustafa",
+              "printedPage": 47,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Madine ko haram bana diya",
+              "printedPage": 48,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Baadalo par hukumat",
+              "printedPage": 50,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Murdo ko zinda karna aur ikhteyaraate Mustafa",
+              "printedPage": 52,
+              "renderedPage": null,
+              "level": 1
+            }
+          ]
         }
       ]
     }

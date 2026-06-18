@@ -14,7 +14,519 @@
         {
           "id": "volume1",
           "title": "volume1",
-          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/manifest.json"
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/manifest.json",
+          "tocEntries": [
+            {
+              "title": "ABDE MUSTAFA ORGANISATION KE BAARE MEIN",
+              "printedPage": 4,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "PEHLI NAZAR",
+              "printedPage": 6,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "ALLAH TA'ALA KI ZAATO SIFAAT KE BAARE MEIN",
+              "printedPage": 7,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "FIRISHTE",
+              "printedPage": 8,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "KHUDA E TA'ALA KI KITABEIN",
+              "printedPage": 9,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "RASOOL AUR NABI",
+              "printedPage": 10,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "HUMARE NABI ی صَلَّ ی ہللاُیتَعَالٰ ی یہ ی ی ی عَلَی ی مَ ی وَاٰ ل ہٖیوَسَ لَّ",
+              "printedPage": 11,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "QIYAMAT KA BAYAN",
+              "printedPage": 13,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "TAQDEER KA BAYAN",
+              "printedPage": 14,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "MARNE KE BAAD ZINDA HONA",
+              "printedPage": 14,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "SHIRK WA KUFR KA BAYAN",
+              "printedPage": 15,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "BID'AT KA BAYAN",
+              "printedPage": 18,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "KITABUL AAMAAL",
+              "printedPage": 22,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "WUZU KA BAYAN",
+              "printedPage": 22,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "GHUSL KA BAYAN",
+              "printedPage": 25,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "TAYAMMUM KA BAYAN",
+              "printedPage": 27,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "ISTINJA KA BAYAN",
+              "printedPage": 30,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "PAANI AUR JANWARON KE JHOOTE KA BAYAN",
+              "printedPage": 31,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "KUNWEIN KA BAYAN",
+              "printedPage": 33,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAJASAT KA BAYAN",
+              "printedPage": 35,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "HAIZ, NJFAAS AUR JANABAT KA BAYAN",
+              "printedPage": 38,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAMAZ KE WAQTON KA BAYAN",
+              "printedPage": 40,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "MAKROOH WAQTON KA BAYAN",
+              "printedPage": 42,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "AZAAN WA IQAAMAT KA BAYAN",
+              "printedPage": 43,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "TAMBEEH :",
+              "printedPage": 46,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "TADAAD E RAK'AAT AUR NIYYAT KA BAYAN",
+              "printedPage": 47,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAMAZ PADHNE KA TAREEQA",
+              "printedPage": 53,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Anwaare Shariat 2 NAMAZ KE BAAD KI DUA",
+              "printedPage": 56,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "AURATON KE LIYE NAMAZ KE MAKHSOOS MASAIL",
+              "printedPage": 56,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAMAZ KI SHARTEIN",
+              "printedPage": 57,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "ISTILAAHATE SHARA KA BAYAN",
+              "printedPage": 58,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAMAZ KE FARAIZ",
+              "printedPage": 59,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAMAZ KE WAJIBAAT",
+              "printedPage": 62,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAMAZ KI SUNNATEIN",
+              "printedPage": 63,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "QIRA'AT KA BAYAN",
+              "printedPage": 65,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "JAMA'AT AUR IMAMAT KA BAYAN",
+              "printedPage": 67,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAMAZ FAASID KARNE WALI CHEEZEIN",
+              "printedPage": 69,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAMAZ KE MAKROOHAAT",
+              "printedPage": 71,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "WITR KA BAYAN",
+              "printedPage": 72,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "DUA E QUNOOT",
+              "printedPage": 73,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "SUNNAT AUR NAFL KA BAYAN",
+              "printedPage": 74,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "TAHYATUL WUZU",
+              "printedPage": 76,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAMAZE ISHRAQ",
+              "printedPage": 76,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAMAZE CHASHT",
+              "printedPage": 76,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAMAZE TAHAJJUD",
+              "printedPage": 77,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "SALATUTTASBEEH",
+              "printedPage": 77,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAMAZE HAAJAT",
+              "printedPage": 78,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "TARAWEEH KA BAYAN",
+              "printedPage": 79,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "QAZA NAMAZ KA BAYAN",
+              "printedPage": 81,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "SAJDA E SAHW KA BAYAN",
+              "printedPage": 84,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "BEEMAR KI NAMAZ KA BAYAN",
+              "printedPage": 89,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "SAJDA E TILAWAT KA BAYAN",
+              "printedPage": 91,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "MUSAFIR KI NAMAZ KA BAYAN",
+              "printedPage": 94,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "JUMU'AH KA BAYAN",
+              "printedPage": 97,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "EID WA BAQARA EID KA BAYAN",
+              "printedPage": 103,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "QURBANI KA BAYAN",
+              "printedPage": 106,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Anwaare Shariat 3 AQEEQA KA BAYAN",
+              "printedPage": 107,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAMAZE JANAZA KA BAYAN",
+              "printedPage": 110,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "ZAKAAT KA BAYAN",
+              "printedPage": 112,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "USHR KA BAYAN",
+              "printedPage": 115,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "ZAKAAT KA MAAL KIN LOGON PAR KHARCH KIYA JAYE",
+              "printedPage": 116,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "SADQA E FITR KA BAYAN",
+              "printedPage": 119,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "ROZA KA BAYAN",
+              "printedPage": 120,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "ROZA TODNE AUR NA TODNE WALI CHEEZON KA BAYAN",
+              "printedPage": 123,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "ROZA KE MAKROOHAAT",
+              "printedPage": 124,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NIKAH KA BAYAN",
+              "printedPage": 125,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NIKAH PADHNE KA TAREEQA",
+              "printedPage": 127,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "TALAAQ KA BAYAN",
+              "printedPage": 127,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "IDDAT KA BAYAN",
+              "printedPage": 128,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "KHANE KA BAYAN",
+              "printedPage": 129,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "PEENE KA BAYAN",
+              "printedPage": 130,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "LIBAAS (PAHNAWE) KA BAYAN",
+              "printedPage": 131,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "ZEENAT (SINGHAAR) KA BAYAN",
+              "printedPage": 131,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "SONE (SLEEPING) KA BAYAN",
+              "printedPage": 132,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "FATIHA KA TARIQA",
+              "printedPage": 133,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "ISLAMI KALIME",
+              "printedPage": 134,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "AWWAL KALIMA: TAYYIB",
+              "printedPage": 134,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "DOOSRA KALIMA: SHAHADAT",
+              "printedPage": 134,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "TEESRA KALIMA: TAMJEED",
+              "printedPage": 134,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "CHAUTHA KALIMA: TAUHEED",
+              "printedPage": 134,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "PANCHWA KALIMA: ASTAGHFAR",
+              "printedPage": 135,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "CHHATHA KALIMA: RADDE KUFR",
+              "printedPage": 135,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "IMAANE MUJMAL",
+              "printedPage": 136,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "IMAANE MUFASSAL",
+              "printedPage": 136,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "DUROOD SHAREEF AUR MUFEED DUAYEIN",
+              "printedPage": 137,
+              "renderedPage": null,
+              "level": 1
+            }
+          ]
         }
       ]
     }

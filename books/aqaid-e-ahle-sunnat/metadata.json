@@ -14,7 +14,219 @@
         {
           "id": "volume1",
           "title": "volume1",
-          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/aqaid-e-ahle-sunnat/roman-urdu/volume1/manifest.json"
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/aqaid-e-ahle-sunnat/roman-urdu/volume1/manifest.json",
+          "tocEntries": [
+            {
+              "title": "About Us",
+              "printedPage": 3,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Arze Mutarjim",
+              "printedPage": 6,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Muqaddama e Musannif",
+              "printedPage": 7,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Nabi Aur Rasool Ka Bayaan",
+              "printedPage": 12,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Allah Ta'la Ki Zaat Wa Sifaat Ka Bayaan",
+              "printedPage": 14,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Humare Rasool ﷺ",
+              "printedPage": 15,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Firishto Ka Bayaan",
+              "printedPage": 16,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Allah Ta'ala Ki Kitaabe",
+              "printedPage": 17,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Imamat Wa Khilafat Ka Bayaan",
+              "printedPage": 18,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Jinn Ka Bayaan",
+              "printedPage": 19,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Khulafae Rashideen",
+              "printedPage": 19,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Sahaba e Kiraam",
+              "printedPage": 20,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Ahle Baite Izaam",
+              "printedPage": 20,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Wilayat Ka Bayaan",
+              "printedPage": 21,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Be'at Ka Bayaan",
+              "printedPage": 22,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Munkar Nakeer Ka Bayaan",
+              "printedPage": 23,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Aalame Barzakh",
+              "printedPage": 25,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Rooh Aur Maut Ka Bayaan",
+              "printedPage": 26,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Taqleed Ka Bayaan",
+              "printedPage": 28,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Aqaide Ahle Sunnat 2 Dajjaal Ka Bayaan",
+              "printedPage": 29,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Hazrat Esa Alaihissalam Ka Zameen Par Aana",
+              "printedPage": 30,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Hazrat Imam Mahdi Radiallaho Anho Ka Zahir Hona",
+              "printedPage": 31,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Qiyamat Ka Bayaan",
+              "printedPage": 32,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Qiyamat Kin Logo Par Aaye Gi?",
+              "printedPage": 33,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Qiyamat Kab Aaye Gi?",
+              "printedPage": 34,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Yajooj Wa Majooj Ka Nikalna",
+              "printedPage": 36,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Daabbatul Ard Ka Nikalna",
+              "printedPage": 37,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Jannat Ka Bayaan",
+              "printedPage": 38,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Jahannam Ka Bayaan",
+              "printedPage": 39,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Maut Ki Maut",
+              "printedPage": 41,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Shafa'at Ka Bayaan",
+              "printedPage": 42,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Hauz e Kusar",
+              "printedPage": 43,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Maqam e Mahmood",
+              "printedPage": 44,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Liwaul Hamd",
+              "printedPage": 44,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "Imaan Wa Kufr Ka Bayaan",
+              "printedPage": 45,
+              "renderedPage": null,
+              "level": 1
+            }
+          ]
         }
       ]
     }

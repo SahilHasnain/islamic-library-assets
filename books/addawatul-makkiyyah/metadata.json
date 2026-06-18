@@ -14,7 +14,369 @@
           "title": "Volume 1",
           "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/roman-urdu/volume1/manifest.json",
           "order": 1,
-          "printedPageStartPage": 2
+          "printedPageStartPage": 2,
+          "tocEntries": [
+            {
+              "title": "ABDE MUSTAFA ORGANISATION KE BAARE MEIN",
+              "printedPage": 4,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "ARZE NASHIR",
+              "printedPage": 6,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAZRE AWWAL",
+              "printedPage": 12,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "DEEN KA DAROMADAR",
+              "printedPage": 12,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "ILME GHAIB QURANI AAYAAT KI RAUSHNI MEIN",
+              "printedPage": 14,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "ILM KI TAQSEEM",
+              "printedPage": 15,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "HAZRATE KHIZR WA MOOSA ALAIHISSALAM KE ULOOM",
+              "printedPage": 20,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "GHAIB PAR IMAAN LAANA",
+              "printedPage": 21,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAZRE DUWUM",
+              "printedPage": 25,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "ZAATI AUR ATAAI ILM MEIN FARQ",
+              "printedPage": 25,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAZRE SIWUM",
+              "printedPage": 27,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "EK KUJ MAGHZ HINDI",
+              "printedPage": 28,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "DUNYA MERI HATHELI PAR RAUSHAN HAI",
+              "printedPage": 29,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "BADSHAH KA EK NASHUKR GUZAR GADAGAR",
+              "printedPage": 31,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAZRE CHAHARUM",
+              "printedPage": 34,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "WAHABIYA KI GHALAT BAYANIYO KA TAAQUB",
+              "printedPage": 34,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "AB MERI GUZARISH SUNIYE",
+              "printedPage": 38,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "LAUHO QALAM KA ILM",
+              "printedPage": 39,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAZRE PANJUM",
+              "printedPage": 41,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "QURANO HADEES AUR AQWALE SAHABA MEIN HUZOOR KE ULOOM",
+              "printedPage": 41,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "ZAMEENO AASMAN KA ILM",
+              "printedPage": 43,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "ZAMEEN WA AASMANO KE KULLI ULOOM",
+              "printedPage": 44,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "AHWAALE UMMAT PAR NIGAH",
+              "printedPage": 46,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "AWWAL WA AAKHIR, ZAHIR WA BATIN KA ILM",
+              "printedPage": 47,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "MAQAMAATE ULOOME MUSTAFA",
+              "printedPage": 49,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "QATAIYYATE KALAMI AUR QATAIYYATE USOOLI",
+              "printedPage": 50,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "BARAHINE QATIA AUR TAQDEESUL WAKEEL",
+              "printedPage": 55,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "ULAMA -E- DEOBAND",
+              "printedPage": 57,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "ULAMA -E- MAKKA MUKARRAMA DEOBANDIYO KI NAZAR MEIN",
+              "printedPage": 57,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NAZRE SHASHUM",
+              "printedPage": 59,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "PAANCH CHEEZO KA ILM",
+              "printedPage": 59,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "PAANCH CHEEZO SE IKHTESAS KI HIKMAT",
+              "printedPage": 62,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "MERI GUZARISH",
+              "printedPage": 67,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "MAUT WA HAYAAT KA ILM",
+              "printedPage": 71,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "AAKHIRI GUZARISH",
+              "printedPage": 72,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "HUZOOR KE UMMATIYO PAR GHUYOOB KE INAMAAT",
+              "printedPage": 73,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "HAZRATE UMMUL FAZL KE PET MEIN KYA HAI",
+              "printedPage": 75,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "HAZRATE SIDDIQ NE PAIDAISH SE PEHLE LADKI KI BISHARAT DI",
+              "printedPage": 76,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "KHAIBAR KA JHANDA",
+              "printedPage": 78,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "MAQAME WISAAL KI KHABAR",
+              "printedPage": 78,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "MUAAZ BIN JABAL KO HUZOOR NE APNI RIHLAT KI ITTELA DI",
+              "printedPage": 78,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "BAHJATUL ASRAAR AUR ISKE MUSANNIF",
+              "printedPage": 80,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "HAZRATE GHAUSE AAZAM AUR GHAIB KI BAATEIN",
+              "printedPage": 81,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "KIS ZAMEEN PAR INTEQAL HOGA",
+              "printedPage": 85,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "HAZRATE YUSUF ALAIHISSALAM KA MISRIYO KO GHAIB KI KHABREIN DENA",
+              "printedPage": 86,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "LAUH MUBEEN HAI",
+              "printedPage": 87,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "MERI NAZAR LAUHE MAHFOOZ PAR",
+              "printedPage": 91,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "DUSRA HISSA",
+              "printedPage": 95,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "EK SAWAL EK JAWAB",
+              "printedPage": 96,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "DUSRA JAWAB",
+              "printedPage": 99,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "NEMATE ILAHIYYA HAIN",
+              "printedPage": 100,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "KE ASMA E MUBARAKA",
+              "printedPage": 101,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "AUR MAHMOOD AZZAWAJALL",
+              "printedPage": 103,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "JAWABE CHAHARUM",
+              "printedPage": 104,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "JAWABE PANJUM",
+              "printedPage": 107,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "KI ILMI RIFAT",
+              "printedPage": 109,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "MAZEED TASHREEH",
+              "printedPage": 109,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "AAYATE KURSI HUZOOR KI NAAT HAI",
+              "printedPage": 110,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "MERE TASSURAAT",
+              "printedPage": 111,
+              "renderedPage": null,
+              "level": 1
+            },
+            {
+              "title": "SAARE JAHAANO KE ULOOM PAR HAAWI",
+              "printedPage": 112,
+              "renderedPage": null,
+              "level": 1
+            }
+          ]
         }
       ]
     }
