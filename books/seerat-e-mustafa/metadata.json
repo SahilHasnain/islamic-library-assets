@@ -3,7 +3,9 @@
   "title": "Seerat e Mustafa",
   "subtitle": "A gentle seerah reading journey",
   "author": "Allama Abdul Mustafa Al Aazmi",
-  "category": "Seerah",
+  "category": "Seerat",
+  "description": "A gentle and accessible biography of Prophet Muhammad (PBUH) by Allama Abdul Mustafa Al Aazmi, published by Dawat-e-Islami. It takes the reader through a soul-nurturing journey of the Prophet's blessed life, his noble character, his teachings, and the timeless lessons from his seerah for daily living.",
+  "defaultLanguageId": "roman-urdu",
   "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/seerat-e-mustafa/cover.png",
   "languages": [
     {
@@ -27,6 +29,27 @@
           "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/seerat-e-mustafa/roman-urdu/volume1/manifest.json"
         }
       ]
+    }
+  ],
+  "nextRecommendedBookId": "ikhteyarat-e-mustafa",
+  "recommendations": [
+    {
+      "bookId": "ikhteyarat-e-mustafa",
+      "reason": "Explore the special choices of the Prophet",
+      "type": "same-category",
+      "score": 90
+    },
+    {
+      "bookId": "shifa-shareef-roman-urdu",
+      "reason": "A comprehensive work on the Prophet's virtues",
+      "type": "same-category",
+      "score": 85
+    },
+    {
+      "bookId": "qayamat-kab-aayegi",
+      "reason": "Another book by the same author",
+      "type": "same-author",
+      "score": 80
     }
   ]
 }

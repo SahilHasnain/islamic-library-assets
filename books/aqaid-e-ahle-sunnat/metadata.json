@@ -1,7 +1,10 @@
 {
   "id": "aqaid-e-ahle-sunnat",
   "title": "Aqaid e Ahle Sunnat",
-  "category": "Seerah",
+  "category": "Aqaid",
+  "description": "An exposition of the core beliefs of Ahlus Sunnah Wal Jama'ah by Allama Tariq Anwar Misbahi. The book systematically covers the Islamic creed including beliefs about Allah, His prophets, angels, divine scriptures, the Day of Judgment, and destiny, presenting the authentic Sunni position on each topic with reference to Quran and Hadith.",
+  "author": "Allama Tariq Anwar Misbahi",
+  "defaultLanguageId": "roman-urdu",
   "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/aqaid-e-ahle-sunnat/cover.png",
   "languages": [
     {
@@ -14,6 +17,21 @@
           "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/aqaid-e-ahle-sunnat/roman-urdu/volume1/manifest.json"
         }
       ]
+    }
+  ],
+  "nextRecommendedBookId": "ahle-sunaat-ki-pehchan",
+  "recommendations": [
+    {
+      "bookId": "ahle-sunaat-ki-pehchan",
+      "reason": "Further reading on identifying Ahle Sunnat",
+      "type": "same-category",
+      "score": 90
+    },
+    {
+      "bookId": "anwaar-e-shariat",
+      "reason": "Now study the rulings of Shariah",
+      "type": "next-reading",
+      "score": 80
     }
   ]
 }

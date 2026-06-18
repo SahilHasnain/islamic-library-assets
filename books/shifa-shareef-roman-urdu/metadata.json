@@ -2,8 +2,8 @@
   "id": "shifa-shareef-roman-urdu",
   "title": "Shifa Shareef",
   "subtitle": "Roman Urdu",
-  "author": "Islamic Library",
-  "description": "Estimated reading time based on 10 minutes per page.",
+  "author": "Qadi Iyad",
+  "description": "The Roman Urdu rendering of the classical work Ash-Shifa by Qadi Iyad, a celebrated text on the status and virtues of Prophet Muhammad (PBUH). It comprehensively covers the Prophet's excellences as attested in the Quran, his miracles, his noble character, the rights of the Prophet upon his ummah, and the legal rulings concerning reverence for him.",
   "category": "Seerat",
   "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/cover.png",
   "languages": [
@@ -1238,6 +1238,26 @@
       ]
     }
   ],
-  "recommendations": [],
+  "nextRecommendedBookId": "seerat-e-mustafa",
+  "recommendations": [
+    {
+      "bookId": "seerat-e-mustafa",
+      "reason": "A gentle seerah journey after studying the Prophet's virtues",
+      "type": "same-category",
+      "score": 90
+    },
+    {
+      "bookId": "ikhteyarat-e-mustafa",
+      "reason": "The special choices granted to the Prophet",
+      "type": "same-category",
+      "score": 80
+    },
+    {
+      "bookId": "shifa-shareef",
+      "reason": "Read the same masterpiece in the original Urdu",
+      "type": "same-topic",
+      "score": 70
+    }
+  ],
   "defaultLanguageId": "roman-urdu"
 }

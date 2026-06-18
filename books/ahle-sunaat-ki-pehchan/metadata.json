@@ -1,7 +1,7 @@
 {
   "id": "ahle-sunaat-ki-pehchan",
   "title": "Ahle Sunnat Ki Pehchan",
-  "category": "Seerah",
+  "category": "Aqaid",
   "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ahle-sunaat-ki-pehchan/cover.png",
   "languages": [
     {
@@ -111,5 +111,20 @@
   ],
   "defaultLanguageId": "roman-urdu",
   "author": "Allama Ghulam Rasool Qasmi",
-  "description": "A book discussing the beliefs and practices of Ahle Sunnat, covering topics such as the importance of following the Quran and Sunnah, the status of companions, the concept of bid'ah, and the characteristics of true believers versus hypocrites. It presents various hadiths and arguments to establish the Sunni creed and refute sectarian divisions."
+  "description": "A book discussing the beliefs and practices of Ahle Sunnat, covering topics such as the importance of following the Quran and Sunnah, the status of companions, the concept of bid'ah, and the characteristics of true believers versus hypocrites. It presents various hadiths and arguments to establish the Sunni creed and refute sectarian divisions.",
+  "nextRecommendedBookId": "aqaid-e-ahle-sunnat",
+  "recommendations": [
+    {
+      "bookId": "aqaid-e-ahle-sunnat",
+      "reason": "Deepen your understanding of Sunni creed",
+      "type": "same-category",
+      "score": 90
+    },
+    {
+      "bookId": "anwaar-e-shariat",
+      "reason": "Learn Islamic rulings after mastering beliefs",
+      "type": "next-reading",
+      "score": 75
+    }
+  ]
 }

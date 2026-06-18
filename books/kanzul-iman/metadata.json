@@ -2,7 +2,10 @@
   "id": "kanzul-iman",
   "title": "Kanzul Iman",
   "subtitle": "Quran Tarjama by Alahazrat",
-  "category": "Seerah",
+  "description": "The celebrated Urdu translation of the Holy Quran by Imam Ahmad Raza Khan (A'la Hazrat), presented in Roman Urdu transliteration. Regarded as one of the most eloquent and spiritually profound Urdu translations, it combines linguistic precision with deep devotional reverence, making the divine message accessible to readers worldwide.",
+  "category": "Knowledge",
+  "author": "Imam Ahmad Raza Khan",
+  "defaultLanguageId": "roman-urdu",
   "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/kanzul-iman/cover.png",
   "languages": [
     {
@@ -15,6 +18,27 @@
           "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/kanzul-iman/roman-urdu/volume1/manifest.json"
         }
       ]
+    }
+  ],
+  "nextRecommendedBookId": "addawatul-makkiyyah",
+  "recommendations": [
+    {
+      "bookId": "addawatul-makkiyyah",
+      "reason": "A scholarly work by the same translator",
+      "type": "same-author",
+      "score": 90
+    },
+    {
+      "bookId": "al-amna-wal-ula",
+      "reason": "Another masterpiece by Imam Ahmad Raza Khan",
+      "type": "same-author",
+      "score": 85
+    },
+    {
+      "bookId": "aqaid-e-ahle-sunnat",
+      "reason": "Understand the beliefs behind the translation",
+      "type": "foundational",
+      "score": 70
     }
   ]
 }

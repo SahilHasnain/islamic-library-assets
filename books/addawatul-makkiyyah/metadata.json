@@ -20,5 +20,27 @@
     }
   ],
   "author": "Imam Ahmad Raza Khan",
-  "defaultLanguageId": "roman-urdu"
+  "description": "A scholarly treatise by Imam Ahmad Raza Khan establishing the beliefs of Ahle Sunnat regarding the Prophet's knowledge of the unseen (ilm-e-ghaib) and other extraordinary virtues granted by Allah. It presents Quranic verses, hadiths, and rational arguments to refute objections and affirm the comprehensive knowledge bestowed upon the Prophet Muhammad (PBUH).",
+  "defaultLanguageId": "roman-urdu",
+  "nextRecommendedBookId": "al-amna-wal-ula",
+  "recommendations": [
+    {
+      "bookId": "al-amna-wal-ula",
+      "reason": "Same author and category — a deeper refutation work",
+      "type": "same-author",
+      "score": 95
+    },
+    {
+      "bookId": "kanzul-iman",
+      "reason": "Another classic by Imam Ahmad Raza Khan",
+      "type": "same-author",
+      "score": 85
+    },
+    {
+      "bookId": "aqaid-e-ahle-sunnat",
+      "reason": "Foundational beliefs of Ahle Sunnat",
+      "type": "foundational",
+      "score": 70
+    }
+  ]
 }

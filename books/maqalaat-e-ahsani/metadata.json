@@ -1,7 +1,10 @@
 {
   "id": "maqalaat-e-ahsani",
   "title": "Maqalaat e Ahsani",
-  "category": "Other",
+  "category": "Bahaare Tehreer",
+  "description": "A collection of scholarly articles by Muhammad Qasim Qadri addressing a wide range of Islamic topics. The articles cover refutations of deviant ideologies, Islamic history, principles of jurisprudence, contemporary issues, and spiritual guidance, offering insightful perspectives rooted in the teachings of Quran and Sunnah.",
+  "author": "Muhammad Qasim Qadri",
+  "defaultLanguageId": "hindi",
   "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/maqalaat-e-ahsani/cover.png",
   "languages": [
     {
@@ -14,6 +17,21 @@
           "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/maqalaat-e-ahsani/hindi/volume1/manifest.json"
         }
       ]
+    }
+  ],
+  "nextRecommendedBookId": "aqaid-e-ahle-sunnat",
+  "recommendations": [
+    {
+      "bookId": "aqaid-e-ahle-sunnat",
+      "reason": "Build a strong foundation in Sunni beliefs",
+      "type": "foundational",
+      "score": 80
+    },
+    {
+      "bookId": "ahle-sunaat-ki-pehchan",
+      "reason": "Further reading on identifying true Sunni creed",
+      "type": "same-topic",
+      "score": 75
     }
   ]
 }

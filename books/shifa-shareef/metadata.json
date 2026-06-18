@@ -1,7 +1,10 @@
 {
   "id": "shifa-shareef",
   "title": "Shifa Shareef - Vol 1",
-  "category": "Seerah",
+  "category": "Seerat",
+  "author": "Qadi Iyad",
+  "description": "The Urdu translation of the classical masterpiece Ash-Shifa by Qadi Iyad, one of the most authoritative works on the dignity, rights, and virtues of Prophet Muhammad (PBUH). It covers the Prophet's excellences as attested in the Quran, his miracles, the obligation to love and honor him, and the legal rulings regarding respect for the Prophet.",
+  "defaultLanguageId": "urdu",
   "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/cover.png",
   "languages": [
     {
@@ -14,6 +17,27 @@
           "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/urdu/volume1/manifest.json"
         }
       ]
+    }
+  ],
+  "nextRecommendedBookId": "seerat-e-mustafa",
+  "recommendations": [
+    {
+      "bookId": "seerat-e-mustafa",
+      "reason": "A gentle journey through the Prophet's blessed life",
+      "type": "same-category",
+      "score": 90
+    },
+    {
+      "bookId": "ikhteyarat-e-mustafa",
+      "reason": "The special honors bestowed upon the Prophet",
+      "type": "same-category",
+      "score": 80
+    },
+    {
+      "bookId": "shifa-shareef-roman-urdu",
+      "reason": "The same work in Roman Urdu transliteration",
+      "type": "same-topic",
+      "score": 70
     }
   ],
   "subtitle": "Urdu"

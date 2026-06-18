@@ -1,7 +1,8 @@
 {
   "id": "ikhteyarat-e-mustafa",
   "title": "Ikhteyarat e Mustafa",
-  "category": "Seerah",
+  "category": "Seerat",
+  "description": "A unique work exploring the special prerogatives and choices granted exclusively to Prophet Muhammad (PBUH) by Allah. It discusses matters where the Prophet was given authority to make exceptions to general rulings, including intercession on the Day of Judgment, forgiveness of sins, exemption from certain prohibitions, and other distinctive honors bestowed upon him.",
   "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ikhteyarat-e-mustafa/cover.png",
   "languages": [
     {
@@ -18,5 +19,20 @@
       ]
     }
   ],
-  "defaultLanguageId": "roman-urdu"
+  "defaultLanguageId": "roman-urdu",
+  "nextRecommendedBookId": "seerat-e-mustafa",
+  "recommendations": [
+    {
+      "bookId": "seerat-e-mustafa",
+      "reason": "A gentle journey through the Prophet's life",
+      "type": "same-category",
+      "score": 90
+    },
+    {
+      "bookId": "shifa-shareef-roman-urdu",
+      "reason": "Deep dive into the Prophet's virtues and rights",
+      "type": "same-category",
+      "score": 80
+    }
+  ]
 }

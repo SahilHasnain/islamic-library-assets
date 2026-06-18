@@ -2,7 +2,8 @@
   "id": "al-amna-wal-ula",
   "title": "Al Amnu wal Ula",
   "author": "Imam Ahmad Raza Khan",
-  "category": "Seerat",
+  "category": "Tehqeeq",
+  "description": "A detailed refutation by Imam Ahmad Raza Khan addressing Wahhabi objections against the beliefs of Ahle Sunnat. It covers the status of the Prophet, intercession (tawassul), tasawwur-e-shaykh, visiting the Prophet's grave, seeking blessings (tabarruk), and venerating saints, defending the orthodox Sunni position with Quranic verses and hadith.",
   "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/al-amna-wal-ula/cover.png",
   "languages": [
     {
@@ -362,5 +363,26 @@
       ]
     }
   ],
-  "defaultLanguageId": "roman-urdu"
+  "defaultLanguageId": "roman-urdu",
+  "nextRecommendedBookId": "addawatul-makkiyyah",
+  "recommendations": [
+    {
+      "bookId": "addawatul-makkiyyah",
+      "reason": "Same author — another scholarly refutation",
+      "type": "same-author",
+      "score": 95
+    },
+    {
+      "bookId": "kanzul-iman",
+      "reason": "The Quran translation by the same great scholar",
+      "type": "same-author",
+      "score": 80
+    },
+    {
+      "bookId": "aqaid-e-ahle-sunnat",
+      "reason": "Foundational beliefs before advanced refutations",
+      "type": "foundational",
+      "score": 65
+    }
+  ]
 }

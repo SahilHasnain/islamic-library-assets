@@ -7,6 +7,28 @@
       "title": "Addawatul Makkiya",
       "author": "Imam Ahmad Raza Khan",
       "category": "Tehqeeq",
+      "description": "A scholarly treatise by Imam Ahmad Raza Khan establishing the beliefs of Ahle Sunnat regarding the Prophet's knowledge of the unseen (ilm-e-ghaib) and other extraordinary virtues granted by Allah. It presents Quranic verses, hadiths, and rational arguments to refute objections and affirm the comprehensive knowledge bestowed upon the Prophet Muhammad (PBUH).",
+      "nextRecommendedBookId": "al-amna-wal-ula",
+      "recommendations": [
+        {
+          "bookId": "al-amna-wal-ula",
+          "reason": "Same author and category — a deeper refutation work",
+          "type": "same-author",
+          "score": 95
+        },
+        {
+          "bookId": "kanzul-iman",
+          "reason": "Another classic by Imam Ahmad Raza Khan",
+          "type": "same-author",
+          "score": 85
+        },
+        {
+          "bookId": "aqaid-e-ahle-sunnat",
+          "reason": "Foundational beliefs of Ahle Sunnat",
+          "type": "foundational",
+          "score": 70
+        }
+      ],
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/addawatul-makkiyyah/metadata.json"
@@ -15,7 +37,23 @@
       "id": "ahle-sunaat-ki-pehchan",
       "title": "Ahle Sunnat Ki Pehchan",
       "author": "Allama Ghulam Rasool Qasmi",
-      "category": "Seerah",
+      "category": "Aqaid",
+      "description": "A book discussing the beliefs and practices of Ahle Sunnat, covering topics such as the importance of following the Quran and Sunnah, the status of companions, the concept of bid'ah, and the characteristics of true believers versus hypocrites. It presents various hadiths and arguments to establish the Sunni creed and refute sectarian divisions.",
+      "nextRecommendedBookId": "aqaid-e-ahle-sunnat",
+      "recommendations": [
+        {
+          "bookId": "aqaid-e-ahle-sunnat",
+          "reason": "Deepen your understanding of Sunni creed",
+          "type": "same-category",
+          "score": 90
+        },
+        {
+          "bookId": "anwaar-e-shariat",
+          "reason": "Learn Islamic rulings after mastering beliefs",
+          "type": "next-reading",
+          "score": 75
+        }
+      ],
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ahle-sunaat-ki-pehchan/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/ahle-sunaat-ki-pehchan/metadata.json"
@@ -24,7 +62,29 @@
       "id": "al-amna-wal-ula",
       "title": "Al Amnu wal Ula",
       "author": "Imam Ahmad Raza Khan",
-      "category": "Seerat",
+      "category": "Tehqeeq",
+      "description": "A detailed refutation by Imam Ahmad Raza Khan addressing Wahhabi objections against the beliefs of Ahle Sunnat. It covers the status of the Prophet, intercession (tawassul), tasawwur-e-shaykh, visiting the Prophet's grave, seeking blessings (tabarruk), and venerating saints, defending the orthodox Sunni position with Quranic verses and hadith.",
+      "nextRecommendedBookId": "addawatul-makkiyyah",
+      "recommendations": [
+        {
+          "bookId": "addawatul-makkiyyah",
+          "reason": "Same author — another scholarly refutation",
+          "type": "same-author",
+          "score": 95
+        },
+        {
+          "bookId": "kanzul-iman",
+          "reason": "The Quran translation by the same great scholar",
+          "type": "same-author",
+          "score": 80
+        },
+        {
+          "bookId": "aqaid-e-ahle-sunnat",
+          "reason": "Foundational beliefs before advanced refutations",
+          "type": "foundational",
+          "score": 65
+        }
+      ],
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/al-amna-wal-ula/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/al-amna-wal-ula/metadata.json"
@@ -32,7 +92,24 @@
     {
       "id": "anwaar-e-shariat",
       "title": "Anwaar e Shariat",
-      "category": "Seerah",
+      "author": "Allama Mufti Jalaluddin Ahmad Amjadi",
+      "category": "Fiqh",
+      "description": "A comprehensive guide to Islamic beliefs and Hanafi jurisprudence by Mufti Jalaluddin Ahmad Amjadi. The first part covers articles of faith including Allah's attributes, angels, divine books, prophets, and the Day of Judgment. The second part provides detailed rulings on purification, prayer, fasting, and other acts of worship according to the Hanafi school.",
+      "nextRecommendedBookId": "aqaid-e-ahle-sunnat",
+      "recommendations": [
+        {
+          "bookId": "aqaid-e-ahle-sunnat",
+          "reason": "Master beliefs before diving into fiqh details",
+          "type": "foundational",
+          "score": 85
+        },
+        {
+          "bookId": "ahle-sunaat-ki-pehchan",
+          "reason": "Understand the Sunni identity and creed",
+          "type": "foundational",
+          "score": 75
+        }
+      ],
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/anwaar-e-shariat/metadata.json"
@@ -40,7 +117,24 @@
     {
       "id": "aqaid-e-ahle-sunnat",
       "title": "Aqaid e Ahle Sunnat",
-      "category": "Seerah",
+      "author": "Allama Tariq Anwar Misbahi",
+      "category": "Aqaid",
+      "description": "An exposition of the core beliefs of Ahlus Sunnah Wal Jama'ah by Allama Tariq Anwar Misbahi. The book systematically covers the Islamic creed including beliefs about Allah, His prophets, angels, divine scriptures, the Day of Judgment, and destiny, presenting the authentic Sunni position on each topic with reference to Quran and Hadith.",
+      "nextRecommendedBookId": "ahle-sunaat-ki-pehchan",
+      "recommendations": [
+        {
+          "bookId": "ahle-sunaat-ki-pehchan",
+          "reason": "Further reading on identifying Ahle Sunnat",
+          "type": "same-category",
+          "score": 90
+        },
+        {
+          "bookId": "anwaar-e-shariat",
+          "reason": "Now study the rulings of Shariah",
+          "type": "next-reading",
+          "score": 80
+        }
+      ],
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/aqaid-e-ahle-sunnat/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/aqaid-e-ahle-sunnat/metadata.json"
@@ -48,7 +142,23 @@
     {
       "id": "ikhteyarat-e-mustafa",
       "title": "Ikhteyarat e Mustafa",
-      "category": "Seerah",
+      "category": "Seerat",
+      "description": "A unique work exploring the special prerogatives and choices granted exclusively to Prophet Muhammad (PBUH) by Allah. It discusses matters where the Prophet was given authority to make exceptions to general rulings, including intercession on the Day of Judgment, forgiveness of sins, exemption from certain prohibitions, and other distinctive honors bestowed upon him.",
+      "nextRecommendedBookId": "seerat-e-mustafa",
+      "recommendations": [
+        {
+          "bookId": "seerat-e-mustafa",
+          "reason": "A gentle journey through the Prophet's life",
+          "type": "same-category",
+          "score": 90
+        },
+        {
+          "bookId": "shifa-shareef-roman-urdu",
+          "reason": "Deep dive into the Prophet's virtues and rights",
+          "type": "same-category",
+          "score": 80
+        }
+      ],
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ikhteyarat-e-mustafa/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/ikhteyarat-e-mustafa/metadata.json"
@@ -57,7 +167,30 @@
       "id": "kanzul-iman",
       "title": "Kanzul Iman",
       "subtitle": "Quran Tarjama by Alahazrat",
-      "category": "Seerah",
+      "author": "Imam Ahmad Raza Khan",
+      "category": "Knowledge",
+      "description": "The celebrated Urdu translation of the Holy Quran by Imam Ahmad Raza Khan (A'la Hazrat), presented in Roman Urdu transliteration. Regarded as one of the most eloquent and spiritually profound Urdu translations, it combines linguistic precision with deep devotional reverence, making the divine message accessible to readers worldwide.",
+      "nextRecommendedBookId": "addawatul-makkiyyah",
+      "recommendations": [
+        {
+          "bookId": "addawatul-makkiyyah",
+          "reason": "A scholarly work by the same translator",
+          "type": "same-author",
+          "score": 90
+        },
+        {
+          "bookId": "al-amna-wal-ula",
+          "reason": "Another masterpiece by Imam Ahmad Raza Khan",
+          "type": "same-author",
+          "score": 85
+        },
+        {
+          "bookId": "aqaid-e-ahle-sunnat",
+          "reason": "Understand the beliefs behind the translation",
+          "type": "foundational",
+          "score": 70
+        }
+      ],
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/kanzul-iman/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/kanzul-iman/metadata.json"
@@ -65,7 +198,24 @@
     {
       "id": "maqalaat-e-ahsani",
       "title": "Maqalaat e Ahsani",
-      "category": "Other",
+      "author": "Muhammad Qasim Qadri",
+      "category": "Bahaare Tehreer",
+      "description": "A collection of scholarly articles by Muhammad Qasim Qadri addressing a wide range of Islamic topics. The articles cover refutations of deviant ideologies, Islamic history, principles of jurisprudence, contemporary issues, and spiritual guidance, offering insightful perspectives rooted in the teachings of Quran and Sunnah.",
+      "nextRecommendedBookId": "aqaid-e-ahle-sunnat",
+      "recommendations": [
+        {
+          "bookId": "aqaid-e-ahle-sunnat",
+          "reason": "Build a strong foundation in Sunni beliefs",
+          "type": "foundational",
+          "score": 80
+        },
+        {
+          "bookId": "ahle-sunaat-ki-pehchan",
+          "reason": "Further reading on identifying true Sunni creed",
+          "type": "same-topic",
+          "score": 75
+        }
+      ],
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/maqalaat-e-ahsani/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/maqalaat-e-ahsani/metadata.json"
@@ -73,7 +223,29 @@
     {
       "id": "mukashafatul-quloob",
       "title": "Mukashafatul Quloob",
-      "category": "Seerah",
+      "category": "Tasawwuf",
+      "description": "A spiritual work on the purification of the heart, presented by Dawat-e-Islami. It explores the reality of death, the grave, the Day of Judgment, Heaven and Hell, the importance of sincere repentance, and the means to achieve spiritual excellence and closeness to Allah through the remembrance and love of the Creator.",
+      "nextRecommendedBookId": "qayamat-kab-aayegi",
+      "recommendations": [
+        {
+          "bookId": "qayamat-kab-aayegi",
+          "reason": "Continue the journey into the afterlife",
+          "type": "same-topic",
+          "score": 90
+        },
+        {
+          "bookId": "seerat-e-mustafa",
+          "reason": "Connect your heart to the Prophet's seerah",
+          "type": "foundational",
+          "score": 75
+        },
+        {
+          "bookId": "kanzul-iman",
+          "reason": "The Quran — the ultimate source of spiritual healing",
+          "type": "foundational",
+          "score": 70
+        }
+      ],
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/mukashafatul-quloob/metadata.json"
@@ -81,7 +253,30 @@
     {
       "id": "qayamat-kab-aayegi",
       "title": "Qayamat Kab Aayegi",
-      "category": "Seerah",
+      "author": "Allama Abdul Mustafa Aazmi",
+      "category": "Topics",
+      "description": "A comprehensive collection of 50 authentic hadiths about the Day of Judgment compiled by Allama Abdul Mustafa Aazmi. It covers the major and minor signs of Qiyamah, the events of the Last Day, resurrection, reckoning, the scale of deeds, intercession (shafa'at), Paradise, and Hellfire, providing a complete Islamic perspective on eschatology based on authentic traditions.",
+      "nextRecommendedBookId": "seerat-e-mustafa",
+      "recommendations": [
+        {
+          "bookId": "seerat-e-mustafa",
+          "reason": "Another book by the same author on the Prophet's life",
+          "type": "same-author",
+          "score": 95
+        },
+        {
+          "bookId": "mukashafatul-quloob",
+          "reason": "Spiritual preparation for the Hereafter",
+          "type": "same-topic",
+          "score": 85
+        },
+        {
+          "bookId": "ikhteyarat-e-mustafa",
+          "reason": "The Prophet's intercession on the Day of Judgment",
+          "type": "same-topic",
+          "score": 75
+        }
+      ],
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/qayamat-kab-aayegi/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/qayamat-kab-aayegi/metadata.json"
@@ -91,7 +286,29 @@
       "title": "Seerat e Mustafa",
       "subtitle": "A gentle seerah reading journey",
       "author": "Allama Abdul Mustafa Al Aazmi",
-      "category": "Seerah",
+      "category": "Seerat",
+      "description": "A gentle and accessible biography of Prophet Muhammad (PBUH) by Allama Abdul Mustafa Al Aazmi, published by Dawat-e-Islami. It takes the reader through a soul-nurturing journey of the Prophet's blessed life, his noble character, his teachings, and the timeless lessons from his seerah for daily living.",
+      "nextRecommendedBookId": "ikhteyarat-e-mustafa",
+      "recommendations": [
+        {
+          "bookId": "ikhteyarat-e-mustafa",
+          "reason": "Explore the special choices of the Prophet",
+          "type": "same-category",
+          "score": 90
+        },
+        {
+          "bookId": "shifa-shareef-roman-urdu",
+          "reason": "A comprehensive work on the Prophet's virtues",
+          "type": "same-category",
+          "score": 85
+        },
+        {
+          "bookId": "qayamat-kab-aayegi",
+          "reason": "Another book by the same author",
+          "type": "same-author",
+          "score": 80
+        }
+      ],
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/seerat-e-mustafa/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/seerat-e-mustafa/metadata.json"
@@ -100,9 +317,30 @@
       "id": "shifa-shareef-roman-urdu",
       "title": "Shifa Shareef",
       "subtitle": "Roman Urdu",
-      "author": "Islamic Library",
+      "author": "Qadi Iyad",
       "category": "Seerat",
-      "recommendations": [],
+      "description": "The Roman Urdu rendering of the classical work Ash-Shifa by Qadi Iyad, a celebrated text on the status and virtues of Prophet Muhammad (PBUH). It comprehensively covers the Prophet's excellences as attested in the Quran, his miracles, his noble character, the rights of the Prophet upon his ummah, and the legal rulings concerning reverence for him.",
+      "nextRecommendedBookId": "seerat-e-mustafa",
+      "recommendations": [
+        {
+          "bookId": "seerat-e-mustafa",
+          "reason": "A gentle seerah journey after studying the Prophet's virtues",
+          "type": "same-category",
+          "score": 90
+        },
+        {
+          "bookId": "ikhteyarat-e-mustafa",
+          "reason": "The special choices granted to the Prophet",
+          "type": "same-category",
+          "score": 80
+        },
+        {
+          "bookId": "shifa-shareef",
+          "reason": "Read the same masterpiece in the original Urdu",
+          "type": "same-topic",
+          "score": 70
+        }
+      ],
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/shifa-shareef-roman-urdu/metadata.json"
@@ -111,7 +349,30 @@
       "id": "shifa-shareef",
       "title": "Shifa Shareef - Vol 1",
       "subtitle": "Urdu",
-      "category": "Seerah",
+      "author": "Qadi Iyad",
+      "category": "Seerat",
+      "description": "The Urdu translation of the classical masterpiece Ash-Shifa by Qadi Iyad, one of the most authoritative works on the dignity, rights, and virtues of Prophet Muhammad (PBUH). It covers the Prophet's excellences as attested in the Quran, his miracles, the obligation to love and honor him, and the legal rulings regarding respect for the Prophet.",
+      "nextRecommendedBookId": "seerat-e-mustafa",
+      "recommendations": [
+        {
+          "bookId": "seerat-e-mustafa",
+          "reason": "A gentle journey through the Prophet's blessed life",
+          "type": "same-category",
+          "score": 90
+        },
+        {
+          "bookId": "ikhteyarat-e-mustafa",
+          "reason": "The special honors bestowed upon the Prophet",
+          "type": "same-category",
+          "score": 80
+        },
+        {
+          "bookId": "shifa-shareef-roman-urdu",
+          "reason": "The same work in Roman Urdu transliteration",
+          "type": "same-topic",
+          "score": 70
+        }
+      ],
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/shifa-shareef/metadata.json"

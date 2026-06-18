@@ -1,7 +1,10 @@
 {
   "id": "anwaar-e-shariat",
   "title": "Anwaar e Shariat",
-  "category": "Seerah",
+  "category": "Fiqh",
+  "description": "A comprehensive guide to Islamic beliefs and Hanafi jurisprudence by Mufti Jalaluddin Ahmad Amjadi. The first part covers articles of faith including Allah's attributes, angels, divine books, prophets, and the Day of Judgment. The second part provides detailed rulings on purification, prayer, fasting, and other acts of worship according to the Hanafi school.",
+  "author": "Allama Mufti Jalaluddin Ahmad Amjadi",
+  "defaultLanguageId": "roman-urdu",
   "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/cover.png",
   "languages": [
     {
@@ -14,6 +17,21 @@
           "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/anwaar-e-shariat/roman-urdu/volume1/manifest.json"
         }
       ]
+    }
+  ],
+  "nextRecommendedBookId": "aqaid-e-ahle-sunnat",
+  "recommendations": [
+    {
+      "bookId": "aqaid-e-ahle-sunnat",
+      "reason": "Master beliefs before diving into fiqh details",
+      "type": "foundational",
+      "score": 85
+    },
+    {
+      "bookId": "ahle-sunaat-ki-pehchan",
+      "reason": "Understand the Sunni identity and creed",
+      "type": "foundational",
+      "score": 75
     }
   ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "qayamat-kab-aayegi",
   "title": "Qayamat Kab Aayegi",
-  "category": "Seerah",
+  "category": "Topics",
+  "description": "A comprehensive collection of 50 authentic hadiths about the Day of Judgment compiled by Allama Abdul Mustafa Aazmi. It covers the major and minor signs of Qiyamah, the events of the Last Day, resurrection, reckoning, the scale of deeds, intercession (shafa'at), Paradise, and Hellfire, providing a complete Islamic perspective on eschatology based on authentic traditions.",
+  "author": "Allama Abdul Mustafa Aazmi",
+  "defaultLanguageId": "roman-urdu",
   "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/qayamat-kab-aayegi/cover.png",
   "languages": [
     {
@@ -14,6 +17,27 @@
           "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/qayamat-kab-aayegi/roman-urdu/volume1/manifest.json"
         }
       ]
+    }
+  ],
+  "nextRecommendedBookId": "seerat-e-mustafa",
+  "recommendations": [
+    {
+      "bookId": "seerat-e-mustafa",
+      "reason": "Another book by the same author on the Prophet's life",
+      "type": "same-author",
+      "score": 95
+    },
+    {
+      "bookId": "mukashafatul-quloob",
+      "reason": "Spiritual preparation for the Hereafter",
+      "type": "same-topic",
+      "score": 85
+    },
+    {
+      "bookId": "ikhteyarat-e-mustafa",
+      "reason": "The Prophet's intercession on the Day of Judgment",
+      "type": "same-topic",
+      "score": 75
     }
   ]
 }

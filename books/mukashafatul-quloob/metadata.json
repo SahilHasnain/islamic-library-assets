@@ -1,7 +1,9 @@
 {
   "id": "mukashafatul-quloob",
   "title": "Mukashafatul Quloob",
-  "category": "Seerah",
+  "category": "Tasawwuf",
+  "description": "A spiritual work on the purification of the heart, presented by Dawat-e-Islami. It explores the reality of death, the grave, the Day of Judgment, Heaven and Hell, the importance of sincere repentance, and the means to achieve spiritual excellence and closeness to Allah through the remembrance and love of the Creator.",
+  "defaultLanguageId": "roman-urdu",
   "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/cover.png",
   "languages": [
     {
@@ -32,6 +34,27 @@
           "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/mukashafatul-quloob/hindi/volume1/manifest.json"
         }
       ]
+    }
+  ],
+  "nextRecommendedBookId": "qayamat-kab-aayegi",
+  "recommendations": [
+    {
+      "bookId": "qayamat-kab-aayegi",
+      "reason": "Continue the journey into the afterlife",
+      "type": "same-topic",
+      "score": 90
+    },
+    {
+      "bookId": "seerat-e-mustafa",
+      "reason": "Connect your heart to the Prophet's seerah",
+      "type": "foundational",
+      "score": 75
+    },
+    {
+      "bookId": "kanzul-iman",
+      "reason": "The Quran — the ultimate source of spiritual healing",
+      "type": "foundational",
+      "score": 70
     }
   ]
 }
