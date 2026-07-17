@@ -1,6 +1,6 @@
 {
-  "version": "2026-06-16-22120",
-  "generatedAt": "2026-06-16T16:31:20.116Z",
+  "version": "2026-07-17-122912",
+  "generatedAt": "2026-07-17T06:59:14.088Z",
   "books": [
     {
       "id": "addawatul-makkiyyah",
@@ -138,6 +138,16 @@
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/aqaid-e-ahle-sunnat/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/aqaid-e-ahle-sunnat/metadata.json"
+    },
+    {
+      "id": "shifa-shareef-english",
+      "title": "Ash-Shifa",
+      "subtitle": "English Translation",
+      "author": "Imam Qadi Iyad",
+      "category": "Seerat",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-english/cover.png",
+      "status": "published",
+      "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/shifa-shareef-english/metadata.json"
     },
     {
       "id": "ikhteyarat-e-mustafa",
