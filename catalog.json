@@ -1,6 +1,6 @@
 {
-  "version": "2026-07-17-122912",
-  "generatedAt": "2026-07-17T06:59:14.088Z",
+  "version": "2026-07-17-124545",
+  "generatedAt": "2026-07-17T07:15:46.883Z",
   "books": [
     {
       "id": "addawatul-makkiyyah",
@@ -32,6 +32,16 @@
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/addawatul-makkiyyah/metadata.json"
+    },
+    {
+      "id": "addawatul-makkiyyah-english",
+      "title": "Addawlatul Makkiyyah",
+      "subtitle": "English Translation",
+      "author": "Imam Ahmad Raza Khan Barelvi",
+      "category": "Fazail",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/cover.png",
+      "status": "published",
+      "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/addawatul-makkiyyah-english/metadata.json"
     },
     {
       "id": "ahle-sunaat-ki-pehchan",
