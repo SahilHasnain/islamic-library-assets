@@ -1,6 +1,6 @@
 {
-  "version": "2026-07-20-133837",
-  "generatedAt": "2026-07-20T08:08:38.402Z",
+  "version": "2026-07-20-13399",
+  "generatedAt": "2026-07-20T08:09:10.688Z",
   "books": [
     {
       "id": "addawatul-makkiyyah",
@@ -148,6 +148,16 @@
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/aqaid-e-ahle-sunnat/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/aqaid-e-ahle-sunnat/metadata.json"
+    },
+    {
+      "id": "difa-e-kanzul-imaan",
+      "title": "Difa e Kanzul Imaan",
+      "subtitle": "Roman Urdu",
+      "author": "Mufti Akhtar Raza Khan",
+      "category": "Tehqeeq",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/cover.png",
+      "status": "published",
+      "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/difa-e-kanzul-imaan/metadata.json"
     },
     {
       "id": "ikhteyarat-e-mustafa",

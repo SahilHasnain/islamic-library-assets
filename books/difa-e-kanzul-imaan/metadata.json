@@ -1,0 +1,23 @@
+{
+  "id": "difa-e-kanzul-imaan",
+  "title": "Difa e Kanzul Imaan",
+  "subtitle": "Roman Urdu",
+  "author": "Mufti Akhtar Raza Khan",
+  "description": "A defense of Kanzul Imaan, the Urdu translation of the Quran by Imam Ahmad Raza Khan.",
+  "category": "Tehqeeq",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/cover.png",
+  "languages": [
+    {
+      "id": "roman-urdu",
+      "title": "Roman Urdu",
+      "volumes": [
+        {
+          "id": "volume1",
+          "title": "volume1",
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/manifest.json"
+        }
+      ]
+    }
+  ],
+  "defaultLanguageId": "roman-urdu"
+}

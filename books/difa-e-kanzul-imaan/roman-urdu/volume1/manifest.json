@@ -1,0 +1,1157 @@
+{
+  "bookId": "difa-e-kanzul-imaan",
+  "languageId": "roman-urdu",
+  "volumeId": "volume1",
+  "version": "2026-07-20-13399",
+  "totalPages": 143,
+  "baseUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1",
+  "filePattern": "page-{page}.png",
+  "extension": "png",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/cover.png",
+  "pages": [
+    {
+      "page": 1,
+      "fileName": "page-001.png",
+      "width": 864,
+      "height": 1296,
+      "size": 679101,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-001.png"
+    },
+    {
+      "page": 2,
+      "fileName": "page-002.png",
+      "width": 864,
+      "height": 1296,
+      "size": 72974,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-002.png"
+    },
+    {
+      "page": 3,
+      "fileName": "page-003.png",
+      "width": 864,
+      "height": 1296,
+      "size": 133702,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-003.png"
+    },
+    {
+      "page": 4,
+      "fileName": "page-004.png",
+      "width": 864,
+      "height": 1296,
+      "size": 208811,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-004.png"
+    },
+    {
+      "page": 5,
+      "fileName": "page-005.png",
+      "width": 864,
+      "height": 1296,
+      "size": 78496,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-005.png"
+    },
+    {
+      "page": 6,
+      "fileName": "page-006.png",
+      "width": 864,
+      "height": 1296,
+      "size": 166011,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-006.png"
+    },
+    {
+      "page": 7,
+      "fileName": "page-007.png",
+      "width": 864,
+      "height": 1296,
+      "size": 206259,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-007.png"
+    },
+    {
+      "page": 8,
+      "fileName": "page-008.png",
+      "width": 864,
+      "height": 1296,
+      "size": 339711,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-008.png"
+    },
+    {
+      "page": 9,
+      "fileName": "page-009.png",
+      "width": 864,
+      "height": 1296,
+      "size": 208437,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-009.png"
+    },
+    {
+      "page": 10,
+      "fileName": "page-010.png",
+      "width": 864,
+      "height": 1296,
+      "size": 208340,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-010.png"
+    },
+    {
+      "page": 11,
+      "fileName": "page-011.png",
+      "width": 864,
+      "height": 1296,
+      "size": 217616,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-011.png"
+    },
+    {
+      "page": 12,
+      "fileName": "page-012.png",
+      "width": 864,
+      "height": 1296,
+      "size": 222563,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-012.png"
+    },
+    {
+      "page": 13,
+      "fileName": "page-013.png",
+      "width": 864,
+      "height": 1296,
+      "size": 209139,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-013.png"
+    },
+    {
+      "page": 14,
+      "fileName": "page-014.png",
+      "width": 864,
+      "height": 1296,
+      "size": 215507,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-014.png"
+    },
+    {
+      "page": 15,
+      "fileName": "page-015.png",
+      "width": 864,
+      "height": 1296,
+      "size": 193514,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-015.png"
+    },
+    {
+      "page": 16,
+      "fileName": "page-016.png",
+      "width": 864,
+      "height": 1296,
+      "size": 216016,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-016.png"
+    },
+    {
+      "page": 17,
+      "fileName": "page-017.png",
+      "width": 864,
+      "height": 1296,
+      "size": 543315,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-017.png"
+    },
+    {
+      "page": 18,
+      "fileName": "page-018.png",
+      "width": 864,
+      "height": 1296,
+      "size": 214537,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-018.png"
+    },
+    {
+      "page": 19,
+      "fileName": "page-019.png",
+      "width": 864,
+      "height": 1296,
+      "size": 187931,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-019.png"
+    },
+    {
+      "page": 20,
+      "fileName": "page-020.png",
+      "width": 864,
+      "height": 1296,
+      "size": 210210,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-020.png"
+    },
+    {
+      "page": 21,
+      "fileName": "page-021.png",
+      "width": 864,
+      "height": 1296,
+      "size": 269965,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-021.png"
+    },
+    {
+      "page": 22,
+      "fileName": "page-022.png",
+      "width": 864,
+      "height": 1296,
+      "size": 318834,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-022.png"
+    },
+    {
+      "page": 23,
+      "fileName": "page-023.png",
+      "width": 864,
+      "height": 1296,
+      "size": 215389,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-023.png"
+    },
+    {
+      "page": 24,
+      "fileName": "page-024.png",
+      "width": 864,
+      "height": 1296,
+      "size": 185830,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-024.png"
+    },
+    {
+      "page": 25,
+      "fileName": "page-025.png",
+      "width": 864,
+      "height": 1296,
+      "size": 184217,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-025.png"
+    },
+    {
+      "page": 26,
+      "fileName": "page-026.png",
+      "width": 864,
+      "height": 1296,
+      "size": 220306,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-026.png"
+    },
+    {
+      "page": 27,
+      "fileName": "page-027.png",
+      "width": 864,
+      "height": 1296,
+      "size": 181415,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-027.png"
+    },
+    {
+      "page": 28,
+      "fileName": "page-028.png",
+      "width": 864,
+      "height": 1296,
+      "size": 222882,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-028.png"
+    },
+    {
+      "page": 29,
+      "fileName": "page-029.png",
+      "width": 864,
+      "height": 1296,
+      "size": 204893,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-029.png"
+    },
+    {
+      "page": 30,
+      "fileName": "page-030.png",
+      "width": 864,
+      "height": 1296,
+      "size": 273670,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-030.png"
+    },
+    {
+      "page": 31,
+      "fileName": "page-031.png",
+      "width": 864,
+      "height": 1296,
+      "size": 354228,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-031.png"
+    },
+    {
+      "page": 32,
+      "fileName": "page-032.png",
+      "width": 864,
+      "height": 1296,
+      "size": 203710,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-032.png"
+    },
+    {
+      "page": 33,
+      "fileName": "page-033.png",
+      "width": 864,
+      "height": 1296,
+      "size": 295898,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-033.png"
+    },
+    {
+      "page": 34,
+      "fileName": "page-034.png",
+      "width": 864,
+      "height": 1296,
+      "size": 210486,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-034.png"
+    },
+    {
+      "page": 35,
+      "fileName": "page-035.png",
+      "width": 864,
+      "height": 1296,
+      "size": 196578,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-035.png"
+    },
+    {
+      "page": 36,
+      "fileName": "page-036.png",
+      "width": 864,
+      "height": 1296,
+      "size": 206054,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-036.png"
+    },
+    {
+      "page": 37,
+      "fileName": "page-037.png",
+      "width": 864,
+      "height": 1296,
+      "size": 221833,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-037.png"
+    },
+    {
+      "page": 38,
+      "fileName": "page-038.png",
+      "width": 864,
+      "height": 1296,
+      "size": 214941,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-038.png"
+    },
+    {
+      "page": 39,
+      "fileName": "page-039.png",
+      "width": 864,
+      "height": 1296,
+      "size": 206425,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-039.png"
+    },
+    {
+      "page": 40,
+      "fileName": "page-040.png",
+      "width": 864,
+      "height": 1296,
+      "size": 191229,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-040.png"
+    },
+    {
+      "page": 41,
+      "fileName": "page-041.png",
+      "width": 864,
+      "height": 1296,
+      "size": 209229,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-041.png"
+    },
+    {
+      "page": 42,
+      "fileName": "page-042.png",
+      "width": 864,
+      "height": 1296,
+      "size": 211609,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-042.png"
+    },
+    {
+      "page": 43,
+      "fileName": "page-043.png",
+      "width": 864,
+      "height": 1296,
+      "size": 203522,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-043.png"
+    },
+    {
+      "page": 44,
+      "fileName": "page-044.png",
+      "width": 864,
+      "height": 1296,
+      "size": 204571,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-044.png"
+    },
+    {
+      "page": 45,
+      "fileName": "page-045.png",
+      "width": 864,
+      "height": 1296,
+      "size": 238183,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-045.png"
+    },
+    {
+      "page": 46,
+      "fileName": "page-046.png",
+      "width": 864,
+      "height": 1296,
+      "size": 223678,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-046.png"
+    },
+    {
+      "page": 47,
+      "fileName": "page-047.png",
+      "width": 864,
+      "height": 1296,
+      "size": 224347,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-047.png"
+    },
+    {
+      "page": 48,
+      "fileName": "page-048.png",
+      "width": 864,
+      "height": 1296,
+      "size": 209255,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-048.png"
+    },
+    {
+      "page": 49,
+      "fileName": "page-049.png",
+      "width": 864,
+      "height": 1296,
+      "size": 182120,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-049.png"
+    },
+    {
+      "page": 50,
+      "fileName": "page-050.png",
+      "width": 864,
+      "height": 1296,
+      "size": 221547,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-050.png"
+    },
+    {
+      "page": 51,
+      "fileName": "page-051.png",
+      "width": 864,
+      "height": 1296,
+      "size": 191854,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-051.png"
+    },
+    {
+      "page": 52,
+      "fileName": "page-052.png",
+      "width": 864,
+      "height": 1296,
+      "size": 212457,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-052.png"
+    },
+    {
+      "page": 53,
+      "fileName": "page-053.png",
+      "width": 864,
+      "height": 1296,
+      "size": 210318,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-053.png"
+    },
+    {
+      "page": 54,
+      "fileName": "page-054.png",
+      "width": 864,
+      "height": 1296,
+      "size": 185955,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-054.png"
+    },
+    {
+      "page": 55,
+      "fileName": "page-055.png",
+      "width": 864,
+      "height": 1296,
+      "size": 215258,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-055.png"
+    },
+    {
+      "page": 56,
+      "fileName": "page-056.png",
+      "width": 864,
+      "height": 1296,
+      "size": 197650,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-056.png"
+    },
+    {
+      "page": 57,
+      "fileName": "page-057.png",
+      "width": 864,
+      "height": 1296,
+      "size": 178738,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-057.png"
+    },
+    {
+      "page": 58,
+      "fileName": "page-058.png",
+      "width": 864,
+      "height": 1296,
+      "size": 197211,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-058.png"
+    },
+    {
+      "page": 59,
+      "fileName": "page-059.png",
+      "width": 864,
+      "height": 1296,
+      "size": 186664,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-059.png"
+    },
+    {
+      "page": 60,
+      "fileName": "page-060.png",
+      "width": 864,
+      "height": 1296,
+      "size": 207135,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-060.png"
+    },
+    {
+      "page": 61,
+      "fileName": "page-061.png",
+      "width": 864,
+      "height": 1296,
+      "size": 219984,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-061.png"
+    },
+    {
+      "page": 62,
+      "fileName": "page-062.png",
+      "width": 864,
+      "height": 1296,
+      "size": 203293,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-062.png"
+    },
+    {
+      "page": 63,
+      "fileName": "page-063.png",
+      "width": 864,
+      "height": 1296,
+      "size": 215253,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-063.png"
+    },
+    {
+      "page": 64,
+      "fileName": "page-064.png",
+      "width": 864,
+      "height": 1296,
+      "size": 214108,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-064.png"
+    },
+    {
+      "page": 65,
+      "fileName": "page-065.png",
+      "width": 864,
+      "height": 1296,
+      "size": 201412,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-065.png"
+    },
+    {
+      "page": 66,
+      "fileName": "page-066.png",
+      "width": 864,
+      "height": 1296,
+      "size": 198112,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-066.png"
+    },
+    {
+      "page": 67,
+      "fileName": "page-067.png",
+      "width": 864,
+      "height": 1296,
+      "size": 202743,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-067.png"
+    },
+    {
+      "page": 68,
+      "fileName": "page-068.png",
+      "width": 864,
+      "height": 1296,
+      "size": 188345,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-068.png"
+    },
+    {
+      "page": 69,
+      "fileName": "page-069.png",
+      "width": 864,
+      "height": 1296,
+      "size": 191788,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-069.png"
+    },
+    {
+      "page": 70,
+      "fileName": "page-070.png",
+      "width": 864,
+      "height": 1296,
+      "size": 202203,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-070.png"
+    },
+    {
+      "page": 71,
+      "fileName": "page-071.png",
+      "width": 864,
+      "height": 1296,
+      "size": 184104,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-071.png"
+    },
+    {
+      "page": 72,
+      "fileName": "page-072.png",
+      "width": 864,
+      "height": 1296,
+      "size": 183380,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-072.png"
+    },
+    {
+      "page": 73,
+      "fileName": "page-073.png",
+      "width": 864,
+      "height": 1296,
+      "size": 196108,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-073.png"
+    },
+    {
+      "page": 74,
+      "fileName": "page-074.png",
+      "width": 864,
+      "height": 1296,
+      "size": 184249,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-074.png"
+    },
+    {
+      "page": 75,
+      "fileName": "page-075.png",
+      "width": 864,
+      "height": 1296,
+      "size": 203733,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-075.png"
+    },
+    {
+      "page": 76,
+      "fileName": "page-076.png",
+      "width": 864,
+      "height": 1296,
+      "size": 204130,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-076.png"
+    },
+    {
+      "page": 77,
+      "fileName": "page-077.png",
+      "width": 864,
+      "height": 1296,
+      "size": 212453,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-077.png"
+    },
+    {
+      "page": 78,
+      "fileName": "page-078.png",
+      "width": 864,
+      "height": 1296,
+      "size": 212656,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-078.png"
+    },
+    {
+      "page": 79,
+      "fileName": "page-079.png",
+      "width": 864,
+      "height": 1296,
+      "size": 200380,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-079.png"
+    },
+    {
+      "page": 80,
+      "fileName": "page-080.png",
+      "width": 864,
+      "height": 1296,
+      "size": 222135,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-080.png"
+    },
+    {
+      "page": 81,
+      "fileName": "page-081.png",
+      "width": 864,
+      "height": 1296,
+      "size": 210885,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-081.png"
+    },
+    {
+      "page": 82,
+      "fileName": "page-082.png",
+      "width": 864,
+      "height": 1296,
+      "size": 210680,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-082.png"
+    },
+    {
+      "page": 83,
+      "fileName": "page-083.png",
+      "width": 864,
+      "height": 1296,
+      "size": 203407,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-083.png"
+    },
+    {
+      "page": 84,
+      "fileName": "page-084.png",
+      "width": 864,
+      "height": 1296,
+      "size": 213594,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-084.png"
+    },
+    {
+      "page": 85,
+      "fileName": "page-085.png",
+      "width": 864,
+      "height": 1296,
+      "size": 209585,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-085.png"
+    },
+    {
+      "page": 86,
+      "fileName": "page-086.png",
+      "width": 864,
+      "height": 1296,
+      "size": 218453,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-086.png"
+    },
+    {
+      "page": 87,
+      "fileName": "page-087.png",
+      "width": 864,
+      "height": 1296,
+      "size": 200874,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-087.png"
+    },
+    {
+      "page": 88,
+      "fileName": "page-088.png",
+      "width": 864,
+      "height": 1296,
+      "size": 204682,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-088.png"
+    },
+    {
+      "page": 89,
+      "fileName": "page-089.png",
+      "width": 864,
+      "height": 1296,
+      "size": 218535,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-089.png"
+    },
+    {
+      "page": 90,
+      "fileName": "page-090.png",
+      "width": 864,
+      "height": 1296,
+      "size": 210305,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-090.png"
+    },
+    {
+      "page": 91,
+      "fileName": "page-091.png",
+      "width": 864,
+      "height": 1296,
+      "size": 210887,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-091.png"
+    },
+    {
+      "page": 92,
+      "fileName": "page-092.png",
+      "width": 864,
+      "height": 1296,
+      "size": 205538,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-092.png"
+    },
+    {
+      "page": 93,
+      "fileName": "page-093.png",
+      "width": 864,
+      "height": 1296,
+      "size": 219369,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-093.png"
+    },
+    {
+      "page": 94,
+      "fileName": "page-094.png",
+      "width": 864,
+      "height": 1296,
+      "size": 219457,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-094.png"
+    },
+    {
+      "page": 95,
+      "fileName": "page-095.png",
+      "width": 864,
+      "height": 1296,
+      "size": 214410,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-095.png"
+    },
+    {
+      "page": 96,
+      "fileName": "page-096.png",
+      "width": 864,
+      "height": 1296,
+      "size": 213449,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-096.png"
+    },
+    {
+      "page": 97,
+      "fileName": "page-097.png",
+      "width": 864,
+      "height": 1296,
+      "size": 220946,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-097.png"
+    },
+    {
+      "page": 98,
+      "fileName": "page-098.png",
+      "width": 864,
+      "height": 1296,
+      "size": 216902,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-098.png"
+    },
+    {
+      "page": 99,
+      "fileName": "page-099.png",
+      "width": 864,
+      "height": 1296,
+      "size": 203175,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-099.png"
+    },
+    {
+      "page": 100,
+      "fileName": "page-100.png",
+      "width": 864,
+      "height": 1296,
+      "size": 200664,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-100.png"
+    },
+    {
+      "page": 101,
+      "fileName": "page-101.png",
+      "width": 864,
+      "height": 1296,
+      "size": 198386,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-101.png"
+    },
+    {
+      "page": 102,
+      "fileName": "page-102.png",
+      "width": 864,
+      "height": 1296,
+      "size": 216810,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-102.png"
+    },
+    {
+      "page": 103,
+      "fileName": "page-103.png",
+      "width": 864,
+      "height": 1296,
+      "size": 190132,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-103.png"
+    },
+    {
+      "page": 104,
+      "fileName": "page-104.png",
+      "width": 864,
+      "height": 1296,
+      "size": 213861,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-104.png"
+    },
+    {
+      "page": 105,
+      "fileName": "page-105.png",
+      "width": 864,
+      "height": 1296,
+      "size": 213662,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-105.png"
+    },
+    {
+      "page": 106,
+      "fileName": "page-106.png",
+      "width": 864,
+      "height": 1296,
+      "size": 224388,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-106.png"
+    },
+    {
+      "page": 107,
+      "fileName": "page-107.png",
+      "width": 864,
+      "height": 1296,
+      "size": 208949,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-107.png"
+    },
+    {
+      "page": 108,
+      "fileName": "page-108.png",
+      "width": 864,
+      "height": 1296,
+      "size": 215291,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-108.png"
+    },
+    {
+      "page": 109,
+      "fileName": "page-109.png",
+      "width": 864,
+      "height": 1296,
+      "size": 224028,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-109.png"
+    },
+    {
+      "page": 110,
+      "fileName": "page-110.png",
+      "width": 864,
+      "height": 1296,
+      "size": 203311,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-110.png"
+    },
+    {
+      "page": 111,
+      "fileName": "page-111.png",
+      "width": 864,
+      "height": 1296,
+      "size": 216971,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-111.png"
+    },
+    {
+      "page": 112,
+      "fileName": "page-112.png",
+      "width": 864,
+      "height": 1296,
+      "size": 210524,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-112.png"
+    },
+    {
+      "page": 113,
+      "fileName": "page-113.png",
+      "width": 864,
+      "height": 1296,
+      "size": 194797,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-113.png"
+    },
+    {
+      "page": 114,
+      "fileName": "page-114.png",
+      "width": 864,
+      "height": 1296,
+      "size": 207882,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-114.png"
+    },
+    {
+      "page": 115,
+      "fileName": "page-115.png",
+      "width": 864,
+      "height": 1296,
+      "size": 221590,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-115.png"
+    },
+    {
+      "page": 116,
+      "fileName": "page-116.png",
+      "width": 864,
+      "height": 1296,
+      "size": 221089,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-116.png"
+    },
+    {
+      "page": 117,
+      "fileName": "page-117.png",
+      "width": 864,
+      "height": 1296,
+      "size": 214924,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-117.png"
+    },
+    {
+      "page": 118,
+      "fileName": "page-118.png",
+      "width": 864,
+      "height": 1296,
+      "size": 209306,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-118.png"
+    },
+    {
+      "page": 119,
+      "fileName": "page-119.png",
+      "width": 864,
+      "height": 1296,
+      "size": 217820,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-119.png"
+    },
+    {
+      "page": 120,
+      "fileName": "page-120.png",
+      "width": 864,
+      "height": 1296,
+      "size": 210005,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-120.png"
+    },
+    {
+      "page": 121,
+      "fileName": "page-121.png",
+      "width": 864,
+      "height": 1296,
+      "size": 217472,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-121.png"
+    },
+    {
+      "page": 122,
+      "fileName": "page-122.png",
+      "width": 864,
+      "height": 1296,
+      "size": 211286,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-122.png"
+    },
+    {
+      "page": 123,
+      "fileName": "page-123.png",
+      "width": 864,
+      "height": 1296,
+      "size": 223181,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-123.png"
+    },
+    {
+      "page": 124,
+      "fileName": "page-124.png",
+      "width": 864,
+      "height": 1296,
+      "size": 210089,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-124.png"
+    },
+    {
+      "page": 125,
+      "fileName": "page-125.png",
+      "width": 864,
+      "height": 1296,
+      "size": 219670,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-125.png"
+    },
+    {
+      "page": 126,
+      "fileName": "page-126.png",
+      "width": 864,
+      "height": 1296,
+      "size": 215714,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-126.png"
+    },
+    {
+      "page": 127,
+      "fileName": "page-127.png",
+      "width": 864,
+      "height": 1296,
+      "size": 212481,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-127.png"
+    },
+    {
+      "page": 128,
+      "fileName": "page-128.png",
+      "width": 864,
+      "height": 1296,
+      "size": 221048,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-128.png"
+    },
+    {
+      "page": 129,
+      "fileName": "page-129.png",
+      "width": 864,
+      "height": 1296,
+      "size": 219639,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-129.png"
+    },
+    {
+      "page": 130,
+      "fileName": "page-130.png",
+      "width": 864,
+      "height": 1296,
+      "size": 221464,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-130.png"
+    },
+    {
+      "page": 131,
+      "fileName": "page-131.png",
+      "width": 864,
+      "height": 1296,
+      "size": 221966,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-131.png"
+    },
+    {
+      "page": 132,
+      "fileName": "page-132.png",
+      "width": 864,
+      "height": 1296,
+      "size": 210586,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-132.png"
+    },
+    {
+      "page": 133,
+      "fileName": "page-133.png",
+      "width": 864,
+      "height": 1296,
+      "size": 204309,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-133.png"
+    },
+    {
+      "page": 134,
+      "fileName": "page-134.png",
+      "width": 864,
+      "height": 1296,
+      "size": 204196,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-134.png"
+    },
+    {
+      "page": 135,
+      "fileName": "page-135.png",
+      "width": 864,
+      "height": 1296,
+      "size": 217445,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-135.png"
+    },
+    {
+      "page": 136,
+      "fileName": "page-136.png",
+      "width": 864,
+      "height": 1296,
+      "size": 215895,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-136.png"
+    },
+    {
+      "page": 137,
+      "fileName": "page-137.png",
+      "width": 864,
+      "height": 1296,
+      "size": 215054,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-137.png"
+    },
+    {
+      "page": 138,
+      "fileName": "page-138.png",
+      "width": 864,
+      "height": 1296,
+      "size": 212421,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-138.png"
+    },
+    {
+      "page": 139,
+      "fileName": "page-139.png",
+      "width": 864,
+      "height": 1296,
+      "size": 186602,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-139.png"
+    },
+    {
+      "page": 140,
+      "fileName": "page-140.png",
+      "width": 864,
+      "height": 1296,
+      "size": 30511,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-140.png"
+    },
+    {
+      "page": 141,
+      "fileName": "page-141.png",
+      "width": 864,
+      "height": 1296,
+      "size": 170864,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-141.png"
+    },
+    {
+      "page": 142,
+      "fileName": "page-142.png",
+      "width": 864,
+      "height": 1296,
+      "size": 64863,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-142.png"
+    },
+    {
+      "page": 143,
+      "fileName": "page-143.png",
+      "width": 864,
+      "height": 1296,
+      "size": 514792,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/roman-urdu/volume1/page-143.png"
+    }
+  ]
+}
