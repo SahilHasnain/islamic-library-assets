@@ -1,6 +1,6 @@
 {
-  "version": "2026-07-20-133814",
-  "generatedAt": "2026-07-20T08:08:15.799Z",
+  "version": "2026-07-20-133837",
+  "generatedAt": "2026-07-20T08:08:38.402Z",
   "books": [
     {
       "id": "addawatul-makkiyyah",
@@ -32,6 +32,16 @@
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/addawatul-makkiyyah/metadata.json"
+    },
+    {
+      "id": "ahadeese-ramazan",
+      "title": "Ahadeese Ramazan",
+      "subtitle": "Urdu",
+      "author": "Maulana Arshad Attari Madani",
+      "category": "Hadees",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ahadeese-ramazan/cover.png",
+      "status": "published",
+      "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/ahadeese-ramazan/metadata.json"
     },
     {
       "id": "ahle-sunaat-ki-pehchan",

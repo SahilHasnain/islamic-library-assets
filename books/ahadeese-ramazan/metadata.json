@@ -1,0 +1,23 @@
+{
+  "id": "ahadeese-ramazan",
+  "title": "Ahadeese Ramazan",
+  "subtitle": "Urdu",
+  "author": "Maulana Arshad Attari Madani",
+  "description": "A collection of 40 ahadees related to Ramadan.",
+  "category": "Hadees",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ahadeese-ramazan/cover.png",
+  "languages": [
+    {
+      "id": "urdu",
+      "title": "Urdu",
+      "volumes": [
+        {
+          "id": "volume1",
+          "title": "volume1",
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/ahadeese-ramazan/urdu/volume1/manifest.json"
+        }
+      ]
+    }
+  ],
+  "defaultLanguageId": "urdu"
+}
