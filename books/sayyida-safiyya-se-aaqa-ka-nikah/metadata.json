@@ -1,0 +1,23 @@
+{
+  "id": "sayyida-safiyya-se-aaqa-ka-nikah",
+  "title": "Sayyida Safiyya se Aaqa ka Nikah",
+  "subtitle": "Hindi",
+  "author": "Allama Qasimul Qadiri Al-Azhari",
+  "description": "A response to objections raised regarding the Prophet's marriage to Sayyida Safiyya.",
+  "category": "Seerat",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/cover.png",
+  "languages": [
+    {
+      "id": "hindi",
+      "title": "Hindi",
+      "volumes": [
+        {
+          "id": "volume1",
+          "title": "volume1",
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/manifest.json"
+        }
+      ]
+    }
+  ],
+  "defaultLanguageId": "hindi"
+}

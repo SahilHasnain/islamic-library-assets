@@ -1,6 +1,6 @@
 {
-  "version": "2026-07-17-124545",
-  "generatedAt": "2026-07-17T07:15:46.883Z",
+  "version": "2026-07-20-133814",
+  "generatedAt": "2026-07-20T08:08:15.799Z",
   "books": [
     {
       "id": "addawatul-makkiyyah",
@@ -280,6 +280,16 @@
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/qayamat-kab-aayegi/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/qayamat-kab-aayegi/metadata.json"
+    },
+    {
+      "id": "sayyida-safiyya-se-aaqa-ka-nikah",
+      "title": "Sayyida Safiyya se Aaqa ka Nikah",
+      "subtitle": "Hindi",
+      "author": "Allama Qasimul Qadiri Al-Azhari",
+      "category": "Seerat",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/cover.png",
+      "status": "published",
+      "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/sayyida-safiyya-se-aaqa-ka-nikah/metadata.json"
     },
     {
       "id": "seerat-e-mustafa",

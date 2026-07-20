@@ -1,0 +1,573 @@
+{
+  "bookId": "sayyida-safiyya-se-aaqa-ka-nikah",
+  "languageId": "hindi",
+  "volumeId": "volume1",
+  "version": "2026-07-20-133814",
+  "totalPages": 70,
+  "baseUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1",
+  "filePattern": "page-{page}.png",
+  "extension": "png",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/cover.png",
+  "pages": [
+    {
+      "page": 1,
+      "fileName": "page-001.png",
+      "width": 792,
+      "height": 1116,
+      "size": 438210,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-001.png"
+    },
+    {
+      "page": 2,
+      "fileName": "page-002.png",
+      "width": 792,
+      "height": 1116,
+      "size": 125108,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-002.png"
+    },
+    {
+      "page": 3,
+      "fileName": "page-003.png",
+      "width": 792,
+      "height": 1116,
+      "size": 95918,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-003.png"
+    },
+    {
+      "page": 4,
+      "fileName": "page-004.png",
+      "width": 792,
+      "height": 1116,
+      "size": 29809,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-004.png"
+    },
+    {
+      "page": 5,
+      "fileName": "page-005.png",
+      "width": 792,
+      "height": 1116,
+      "size": 145587,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-005.png"
+    },
+    {
+      "page": 6,
+      "fileName": "page-006.png",
+      "width": 792,
+      "height": 1116,
+      "size": 156882,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-006.png"
+    },
+    {
+      "page": 7,
+      "fileName": "page-007.png",
+      "width": 792,
+      "height": 1116,
+      "size": 76658,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-007.png"
+    },
+    {
+      "page": 8,
+      "fileName": "page-008.png",
+      "width": 792,
+      "height": 1116,
+      "size": 79795,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-008.png"
+    },
+    {
+      "page": 9,
+      "fileName": "page-009.png",
+      "width": 792,
+      "height": 1116,
+      "size": 167424,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-009.png"
+    },
+    {
+      "page": 10,
+      "fileName": "page-010.png",
+      "width": 792,
+      "height": 1116,
+      "size": 76184,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-010.png"
+    },
+    {
+      "page": 11,
+      "fileName": "page-011.png",
+      "width": 792,
+      "height": 1116,
+      "size": 302530,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-011.png"
+    },
+    {
+      "page": 12,
+      "fileName": "page-012.png",
+      "width": 792,
+      "height": 1116,
+      "size": 157497,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-012.png"
+    },
+    {
+      "page": 13,
+      "fileName": "page-013.png",
+      "width": 792,
+      "height": 1116,
+      "size": 906638,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-013.png"
+    },
+    {
+      "page": 14,
+      "fileName": "page-014.png",
+      "width": 792,
+      "height": 1116,
+      "size": 121457,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-014.png"
+    },
+    {
+      "page": 15,
+      "fileName": "page-015.png",
+      "width": 792,
+      "height": 1116,
+      "size": 154320,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-015.png"
+    },
+    {
+      "page": 16,
+      "fileName": "page-016.png",
+      "width": 792,
+      "height": 1116,
+      "size": 616789,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-016.png"
+    },
+    {
+      "page": 17,
+      "fileName": "page-017.png",
+      "width": 792,
+      "height": 1116,
+      "size": 156126,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-017.png"
+    },
+    {
+      "page": 18,
+      "fileName": "page-018.png",
+      "width": 792,
+      "height": 1116,
+      "size": 683910,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-018.png"
+    },
+    {
+      "page": 19,
+      "fileName": "page-019.png",
+      "width": 792,
+      "height": 1116,
+      "size": 264316,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-019.png"
+    },
+    {
+      "page": 20,
+      "fileName": "page-020.png",
+      "width": 792,
+      "height": 1116,
+      "size": 137919,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-020.png"
+    },
+    {
+      "page": 21,
+      "fileName": "page-021.png",
+      "width": 792,
+      "height": 1116,
+      "size": 111896,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-021.png"
+    },
+    {
+      "page": 22,
+      "fileName": "page-022.png",
+      "width": 792,
+      "height": 1116,
+      "size": 819554,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-022.png"
+    },
+    {
+      "page": 23,
+      "fileName": "page-023.png",
+      "width": 792,
+      "height": 1116,
+      "size": 222121,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-023.png"
+    },
+    {
+      "page": 24,
+      "fileName": "page-024.png",
+      "width": 792,
+      "height": 1116,
+      "size": 146520,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-024.png"
+    },
+    {
+      "page": 25,
+      "fileName": "page-025.png",
+      "width": 792,
+      "height": 1116,
+      "size": 504362,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-025.png"
+    },
+    {
+      "page": 26,
+      "fileName": "page-026.png",
+      "width": 792,
+      "height": 1116,
+      "size": 119276,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-026.png"
+    },
+    {
+      "page": 27,
+      "fileName": "page-027.png",
+      "width": 792,
+      "height": 1116,
+      "size": 190486,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-027.png"
+    },
+    {
+      "page": 28,
+      "fileName": "page-028.png",
+      "width": 792,
+      "height": 1116,
+      "size": 202953,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-028.png"
+    },
+    {
+      "page": 29,
+      "fileName": "page-029.png",
+      "width": 792,
+      "height": 1116,
+      "size": 163933,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-029.png"
+    },
+    {
+      "page": 30,
+      "fileName": "page-030.png",
+      "width": 792,
+      "height": 1116,
+      "size": 177215,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-030.png"
+    },
+    {
+      "page": 31,
+      "fileName": "page-031.png",
+      "width": 792,
+      "height": 1116,
+      "size": 187408,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-031.png"
+    },
+    {
+      "page": 32,
+      "fileName": "page-032.png",
+      "width": 792,
+      "height": 1116,
+      "size": 181490,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-032.png"
+    },
+    {
+      "page": 33,
+      "fileName": "page-033.png",
+      "width": 792,
+      "height": 1116,
+      "size": 181887,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-033.png"
+    },
+    {
+      "page": 34,
+      "fileName": "page-034.png",
+      "width": 792,
+      "height": 1116,
+      "size": 164340,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-034.png"
+    },
+    {
+      "page": 35,
+      "fileName": "page-035.png",
+      "width": 792,
+      "height": 1116,
+      "size": 224726,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-035.png"
+    },
+    {
+      "page": 36,
+      "fileName": "page-036.png",
+      "width": 792,
+      "height": 1116,
+      "size": 48657,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-036.png"
+    },
+    {
+      "page": 37,
+      "fileName": "page-037.png",
+      "width": 792,
+      "height": 1116,
+      "size": 181311,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-037.png"
+    },
+    {
+      "page": 38,
+      "fileName": "page-038.png",
+      "width": 792,
+      "height": 1116,
+      "size": 164903,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-038.png"
+    },
+    {
+      "page": 39,
+      "fileName": "page-039.png",
+      "width": 792,
+      "height": 1116,
+      "size": 155119,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-039.png"
+    },
+    {
+      "page": 40,
+      "fileName": "page-040.png",
+      "width": 792,
+      "height": 1116,
+      "size": 164457,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-040.png"
+    },
+    {
+      "page": 41,
+      "fileName": "page-041.png",
+      "width": 792,
+      "height": 1116,
+      "size": 155746,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-041.png"
+    },
+    {
+      "page": 42,
+      "fileName": "page-042.png",
+      "width": 792,
+      "height": 1116,
+      "size": 170211,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-042.png"
+    },
+    {
+      "page": 43,
+      "fileName": "page-043.png",
+      "width": 792,
+      "height": 1116,
+      "size": 175587,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-043.png"
+    },
+    {
+      "page": 44,
+      "fileName": "page-044.png",
+      "width": 792,
+      "height": 1116,
+      "size": 127022,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-044.png"
+    },
+    {
+      "page": 45,
+      "fileName": "page-045.png",
+      "width": 792,
+      "height": 1116,
+      "size": 162733,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-045.png"
+    },
+    {
+      "page": 46,
+      "fileName": "page-046.png",
+      "width": 792,
+      "height": 1116,
+      "size": 159608,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-046.png"
+    },
+    {
+      "page": 47,
+      "fileName": "page-047.png",
+      "width": 792,
+      "height": 1116,
+      "size": 160108,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-047.png"
+    },
+    {
+      "page": 48,
+      "fileName": "page-048.png",
+      "width": 792,
+      "height": 1116,
+      "size": 64666,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-048.png"
+    },
+    {
+      "page": 49,
+      "fileName": "page-049.png",
+      "width": 792,
+      "height": 1116,
+      "size": 156474,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-049.png"
+    },
+    {
+      "page": 50,
+      "fileName": "page-050.png",
+      "width": 792,
+      "height": 1116,
+      "size": 154416,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-050.png"
+    },
+    {
+      "page": 51,
+      "fileName": "page-051.png",
+      "width": 792,
+      "height": 1116,
+      "size": 173977,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-051.png"
+    },
+    {
+      "page": 52,
+      "fileName": "page-052.png",
+      "width": 792,
+      "height": 1116,
+      "size": 69194,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-052.png"
+    },
+    {
+      "page": 53,
+      "fileName": "page-053.png",
+      "width": 792,
+      "height": 1116,
+      "size": 138681,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-053.png"
+    },
+    {
+      "page": 54,
+      "fileName": "page-054.png",
+      "width": 792,
+      "height": 1116,
+      "size": 143643,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-054.png"
+    },
+    {
+      "page": 55,
+      "fileName": "page-055.png",
+      "width": 792,
+      "height": 1116,
+      "size": 141174,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-055.png"
+    },
+    {
+      "page": 56,
+      "fileName": "page-056.png",
+      "width": 792,
+      "height": 1116,
+      "size": 75290,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-056.png"
+    },
+    {
+      "page": 57,
+      "fileName": "page-057.png",
+      "width": 792,
+      "height": 1116,
+      "size": 157640,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-057.png"
+    },
+    {
+      "page": 58,
+      "fileName": "page-058.png",
+      "width": 792,
+      "height": 1116,
+      "size": 144976,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-058.png"
+    },
+    {
+      "page": 59,
+      "fileName": "page-059.png",
+      "width": 792,
+      "height": 1116,
+      "size": 160328,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-059.png"
+    },
+    {
+      "page": 60,
+      "fileName": "page-060.png",
+      "width": 792,
+      "height": 1116,
+      "size": 52365,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-060.png"
+    },
+    {
+      "page": 61,
+      "fileName": "page-061.png",
+      "width": 792,
+      "height": 1116,
+      "size": 168069,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-061.png"
+    },
+    {
+      "page": 62,
+      "fileName": "page-062.png",
+      "width": 792,
+      "height": 1116,
+      "size": 65986,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-062.png"
+    },
+    {
+      "page": 63,
+      "fileName": "page-063.png",
+      "width": 792,
+      "height": 1116,
+      "size": 126159,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-063.png"
+    },
+    {
+      "page": 64,
+      "fileName": "page-064.png",
+      "width": 792,
+      "height": 1116,
+      "size": 131112,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-064.png"
+    },
+    {
+      "page": 65,
+      "fileName": "page-065.png",
+      "width": 792,
+      "height": 1116,
+      "size": 153787,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-065.png"
+    },
+    {
+      "page": 66,
+      "fileName": "page-066.png",
+      "width": 792,
+      "height": 1116,
+      "size": 163951,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-066.png"
+    },
+    {
+      "page": 67,
+      "fileName": "page-067.png",
+      "width": 792,
+      "height": 1116,
+      "size": 31499,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-067.png"
+    },
+    {
+      "page": 68,
+      "fileName": "page-068.png",
+      "width": 792,
+      "height": 1116,
+      "size": 185784,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-068.png"
+    },
+    {
+      "page": 69,
+      "fileName": "page-069.png",
+      "width": 792,
+      "height": 1116,
+      "size": 175648,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-069.png"
+    },
+    {
+      "page": 70,
+      "fileName": "page-070.png",
+      "width": 792,
+      "height": 1116,
+      "size": 27734,
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/sayyida-safiyya-se-aaqa-ka-nikah/hindi/volume1/page-070.png"
+    }
+  ]
+}
