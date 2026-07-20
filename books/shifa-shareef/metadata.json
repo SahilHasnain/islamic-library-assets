@@ -25,7 +25,7 @@
         {
           "id": "volume1",
           "title": "volume1",
-          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-english/english/volume1/manifest.json"
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/english/volume1/manifest.json"
         }
       ]
     },
@@ -38,7 +38,7 @@
         {
           "id": "volume1",
           "title": "Volume 1",
-          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/manifest.json",
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/manifest.json",
           "order": 1,
           "printedPageStartPage": 2,
           "introNote": "Shifa Shareef ka ek mukammal tarjuma aur sharah",

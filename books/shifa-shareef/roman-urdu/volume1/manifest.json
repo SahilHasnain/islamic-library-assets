@@ -1,13 +1,13 @@
 {
-  "bookId": "shifa-shareef-roman-urdu",
+  "bookId": "shifa-shareef",
   "languageId": "roman-urdu",
   "volumeId": "volume1",
   "version": "2026-05-22-194135",
   "totalPages": 306,
-  "baseUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1",
   "filePattern": "page-{page}.png",
   "extension": "png",
-  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/cover.png",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/cover.png",
   "pages": [
     {
       "page": 1,
@@ -15,7 +15,7 @@
       "width": 792,
       "height": 1152,
       "size": 244187,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-001.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-001.png"
     },
     {
       "page": 2,
@@ -23,7 +23,7 @@
       "width": 792,
       "height": 1152,
       "size": 66190,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-002.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-002.png"
     },
     {
       "page": 3,
@@ -31,7 +31,7 @@
       "width": 792,
       "height": 1152,
       "size": 105083,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-003.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-003.png"
     },
     {
       "page": 4,
@@ -39,7 +39,7 @@
       "width": 792,
       "height": 1152,
       "size": 31065,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-004.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-004.png"
     },
     {
       "page": 5,
@@ -47,7 +47,7 @@
       "width": 792,
       "height": 1152,
       "size": 117996,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-005.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-005.png"
     },
     {
       "page": 6,
@@ -55,7 +55,7 @@
       "width": 792,
       "height": 1152,
       "size": 180052,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-006.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-006.png"
     },
     {
       "page": 7,
@@ -63,7 +63,7 @@
       "width": 792,
       "height": 1152,
       "size": 182196,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-007.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-007.png"
     },
     {
       "page": 8,
@@ -71,7 +71,7 @@
       "width": 792,
       "height": 1152,
       "size": 163735,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-008.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-008.png"
     },
     {
       "page": 9,
@@ -79,7 +79,7 @@
       "width": 792,
       "height": 1152,
       "size": 160869,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-009.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-009.png"
     },
     {
       "page": 10,
@@ -87,7 +87,7 @@
       "width": 792,
       "height": 1152,
       "size": 163481,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-010.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-010.png"
     },
     {
       "page": 11,
@@ -95,7 +95,7 @@
       "width": 792,
       "height": 1152,
       "size": 160018,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-011.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-011.png"
     },
     {
       "page": 12,
@@ -103,7 +103,7 @@
       "width": 792,
       "height": 1152,
       "size": 52273,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-012.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-012.png"
     },
     {
       "page": 13,
@@ -111,7 +111,7 @@
       "width": 792,
       "height": 1152,
       "size": 141716,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-013.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-013.png"
     },
     {
       "page": 14,
@@ -119,7 +119,7 @@
       "width": 792,
       "height": 1152,
       "size": 70658,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-014.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-014.png"
     },
     {
       "page": 15,
@@ -127,7 +127,7 @@
       "width": 792,
       "height": 1152,
       "size": 126972,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-015.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-015.png"
     },
     {
       "page": 16,
@@ -135,7 +135,7 @@
       "width": 792,
       "height": 1152,
       "size": 140748,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-016.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-016.png"
     },
     {
       "page": 17,
@@ -143,7 +143,7 @@
       "width": 792,
       "height": 1152,
       "size": 151195,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-017.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-017.png"
     },
     {
       "page": 18,
@@ -151,7 +151,7 @@
       "width": 792,
       "height": 1152,
       "size": 148536,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-018.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-018.png"
     },
     {
       "page": 19,
@@ -159,7 +159,7 @@
       "width": 792,
       "height": 1152,
       "size": 50362,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-019.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-019.png"
     },
     {
       "page": 20,
@@ -167,7 +167,7 @@
       "width": 792,
       "height": 1152,
       "size": 120695,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-020.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-020.png"
     },
     {
       "page": 21,
@@ -175,7 +175,7 @@
       "width": 792,
       "height": 1152,
       "size": 61987,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-021.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-021.png"
     },
     {
       "page": 22,
@@ -183,7 +183,7 @@
       "width": 792,
       "height": 1152,
       "size": 131763,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-022.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-022.png"
     },
     {
       "page": 23,
@@ -191,7 +191,7 @@
       "width": 792,
       "height": 1152,
       "size": 145968,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-023.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-023.png"
     },
     {
       "page": 24,
@@ -199,7 +199,7 @@
       "width": 792,
       "height": 1152,
       "size": 140034,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-024.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-024.png"
     },
     {
       "page": 25,
@@ -207,7 +207,7 @@
       "width": 792,
       "height": 1152,
       "size": 125059,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-025.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-025.png"
     },
     {
       "page": 26,
@@ -215,7 +215,7 @@
       "width": 792,
       "height": 1152,
       "size": 129720,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-026.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-026.png"
     },
     {
       "page": 27,
@@ -223,7 +223,7 @@
       "width": 792,
       "height": 1152,
       "size": 146360,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-027.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-027.png"
     },
     {
       "page": 28,
@@ -231,7 +231,7 @@
       "width": 792,
       "height": 1152,
       "size": 134962,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-028.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-028.png"
     },
     {
       "page": 29,
@@ -239,7 +239,7 @@
       "width": 792,
       "height": 1152,
       "size": 140216,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-029.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-029.png"
     },
     {
       "page": 30,
@@ -247,7 +247,7 @@
       "width": 792,
       "height": 1152,
       "size": 126129,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-030.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-030.png"
     },
     {
       "page": 31,
@@ -255,7 +255,7 @@
       "width": 792,
       "height": 1152,
       "size": 143260,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-031.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-031.png"
     },
     {
       "page": 32,
@@ -263,7 +263,7 @@
       "width": 792,
       "height": 1152,
       "size": 130343,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-032.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-032.png"
     },
     {
       "page": 33,
@@ -271,7 +271,7 @@
       "width": 792,
       "height": 1152,
       "size": 144349,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-033.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-033.png"
     },
     {
       "page": 34,
@@ -279,7 +279,7 @@
       "width": 792,
       "height": 1152,
       "size": 129533,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-034.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-034.png"
     },
     {
       "page": 35,
@@ -287,7 +287,7 @@
       "width": 792,
       "height": 1152,
       "size": 113858,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-035.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-035.png"
     },
     {
       "page": 36,
@@ -295,7 +295,7 @@
       "width": 792,
       "height": 1152,
       "size": 130851,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-036.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-036.png"
     },
     {
       "page": 37,
@@ -303,7 +303,7 @@
       "width": 792,
       "height": 1152,
       "size": 141745,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-037.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-037.png"
     },
     {
       "page": 38,
@@ -311,7 +311,7 @@
       "width": 792,
       "height": 1152,
       "size": 127723,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-038.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-038.png"
     },
     {
       "page": 39,
@@ -319,7 +319,7 @@
       "width": 792,
       "height": 1152,
       "size": 142231,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-039.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-039.png"
     },
     {
       "page": 40,
@@ -327,7 +327,7 @@
       "width": 792,
       "height": 1152,
       "size": 134076,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-040.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-040.png"
     },
     {
       "page": 41,
@@ -335,7 +335,7 @@
       "width": 792,
       "height": 1152,
       "size": 133776,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-041.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-041.png"
     },
     {
       "page": 42,
@@ -343,7 +343,7 @@
       "width": 792,
       "height": 1152,
       "size": 160209,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-042.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-042.png"
     },
     {
       "page": 43,
@@ -351,7 +351,7 @@
       "width": 792,
       "height": 1152,
       "size": 133447,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-043.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-043.png"
     },
     {
       "page": 44,
@@ -359,7 +359,7 @@
       "width": 792,
       "height": 1152,
       "size": 142819,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-044.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-044.png"
     },
     {
       "page": 45,
@@ -367,7 +367,7 @@
       "width": 792,
       "height": 1152,
       "size": 126749,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-045.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-045.png"
     },
     {
       "page": 46,
@@ -375,7 +375,7 @@
       "width": 792,
       "height": 1152,
       "size": 142810,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-046.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-046.png"
     },
     {
       "page": 47,
@@ -383,7 +383,7 @@
       "width": 792,
       "height": 1152,
       "size": 150097,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-047.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-047.png"
     },
     {
       "page": 48,
@@ -391,7 +391,7 @@
       "width": 792,
       "height": 1152,
       "size": 140690,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-048.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-048.png"
     },
     {
       "page": 49,
@@ -399,7 +399,7 @@
       "width": 792,
       "height": 1152,
       "size": 142467,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-049.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-049.png"
     },
     {
       "page": 50,
@@ -407,7 +407,7 @@
       "width": 792,
       "height": 1152,
       "size": 153554,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-050.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-050.png"
     },
     {
       "page": 51,
@@ -415,7 +415,7 @@
       "width": 792,
       "height": 1152,
       "size": 136839,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-051.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-051.png"
     },
     {
       "page": 52,
@@ -423,7 +423,7 @@
       "width": 792,
       "height": 1152,
       "size": 154606,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-052.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-052.png"
     },
     {
       "page": 53,
@@ -431,7 +431,7 @@
       "width": 792,
       "height": 1152,
       "size": 138470,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-053.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-053.png"
     },
     {
       "page": 54,
@@ -439,7 +439,7 @@
       "width": 792,
       "height": 1152,
       "size": 148673,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-054.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-054.png"
     },
     {
       "page": 55,
@@ -447,7 +447,7 @@
       "width": 792,
       "height": 1152,
       "size": 148365,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-055.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-055.png"
     },
     {
       "page": 56,
@@ -455,7 +455,7 @@
       "width": 792,
       "height": 1152,
       "size": 142930,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-056.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-056.png"
     },
     {
       "page": 57,
@@ -463,7 +463,7 @@
       "width": 792,
       "height": 1152,
       "size": 76141,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-057.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-057.png"
     },
     {
       "page": 58,
@@ -471,7 +471,7 @@
       "width": 792,
       "height": 1152,
       "size": 137140,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-058.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-058.png"
     },
     {
       "page": 59,
@@ -479,7 +479,7 @@
       "width": 792,
       "height": 1152,
       "size": 139545,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-059.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-059.png"
     },
     {
       "page": 60,
@@ -487,7 +487,7 @@
       "width": 792,
       "height": 1152,
       "size": 145958,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-060.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-060.png"
     },
     {
       "page": 61,
@@ -495,7 +495,7 @@
       "width": 792,
       "height": 1152,
       "size": 161931,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-061.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-061.png"
     },
     {
       "page": 62,
@@ -503,7 +503,7 @@
       "width": 792,
       "height": 1152,
       "size": 132837,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-062.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-062.png"
     },
     {
       "page": 63,
@@ -511,7 +511,7 @@
       "width": 792,
       "height": 1152,
       "size": 156696,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-063.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-063.png"
     },
     {
       "page": 64,
@@ -519,7 +519,7 @@
       "width": 792,
       "height": 1152,
       "size": 152593,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-064.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-064.png"
     },
     {
       "page": 65,
@@ -527,7 +527,7 @@
       "width": 792,
       "height": 1152,
       "size": 155740,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-065.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-065.png"
     },
     {
       "page": 66,
@@ -535,7 +535,7 @@
       "width": 792,
       "height": 1152,
       "size": 140623,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-066.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-066.png"
     },
     {
       "page": 67,
@@ -543,7 +543,7 @@
       "width": 792,
       "height": 1152,
       "size": 136119,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-067.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-067.png"
     },
     {
       "page": 68,
@@ -551,7 +551,7 @@
       "width": 792,
       "height": 1152,
       "size": 138264,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-068.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-068.png"
     },
     {
       "page": 69,
@@ -559,7 +559,7 @@
       "width": 792,
       "height": 1152,
       "size": 141829,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-069.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-069.png"
     },
     {
       "page": 70,
@@ -567,7 +567,7 @@
       "width": 792,
       "height": 1152,
       "size": 158842,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-070.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-070.png"
     },
     {
       "page": 71,
@@ -575,7 +575,7 @@
       "width": 792,
       "height": 1152,
       "size": 152699,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-071.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-071.png"
     },
     {
       "page": 72,
@@ -583,7 +583,7 @@
       "width": 792,
       "height": 1152,
       "size": 141267,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-072.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-072.png"
     },
     {
       "page": 73,
@@ -591,7 +591,7 @@
       "width": 792,
       "height": 1152,
       "size": 148729,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-073.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-073.png"
     },
     {
       "page": 74,
@@ -599,7 +599,7 @@
       "width": 792,
       "height": 1152,
       "size": 140596,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-074.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-074.png"
     },
     {
       "page": 75,
@@ -607,7 +607,7 @@
       "width": 792,
       "height": 1152,
       "size": 139839,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-075.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-075.png"
     },
     {
       "page": 76,
@@ -615,7 +615,7 @@
       "width": 792,
       "height": 1152,
       "size": 150758,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-076.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-076.png"
     },
     {
       "page": 77,
@@ -623,7 +623,7 @@
       "width": 792,
       "height": 1152,
       "size": 141439,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-077.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-077.png"
     },
     {
       "page": 78,
@@ -631,7 +631,7 @@
       "width": 792,
       "height": 1152,
       "size": 148354,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-078.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-078.png"
     },
     {
       "page": 79,
@@ -639,7 +639,7 @@
       "width": 792,
       "height": 1152,
       "size": 138243,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-079.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-079.png"
     },
     {
       "page": 80,
@@ -647,7 +647,7 @@
       "width": 792,
       "height": 1152,
       "size": 139558,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-080.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-080.png"
     },
     {
       "page": 81,
@@ -655,7 +655,7 @@
       "width": 792,
       "height": 1152,
       "size": 141718,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-081.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-081.png"
     },
     {
       "page": 82,
@@ -663,7 +663,7 @@
       "width": 792,
       "height": 1152,
       "size": 152843,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-082.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-082.png"
     },
     {
       "page": 83,
@@ -671,7 +671,7 @@
       "width": 792,
       "height": 1152,
       "size": 136822,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-083.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-083.png"
     },
     {
       "page": 84,
@@ -679,7 +679,7 @@
       "width": 792,
       "height": 1152,
       "size": 149692,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-084.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-084.png"
     },
     {
       "page": 85,
@@ -687,7 +687,7 @@
       "width": 792,
       "height": 1152,
       "size": 137703,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-085.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-085.png"
     },
     {
       "page": 86,
@@ -695,7 +695,7 @@
       "width": 792,
       "height": 1152,
       "size": 139054,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-086.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-086.png"
     },
     {
       "page": 87,
@@ -703,7 +703,7 @@
       "width": 792,
       "height": 1152,
       "size": 151744,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-087.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-087.png"
     },
     {
       "page": 88,
@@ -711,7 +711,7 @@
       "width": 792,
       "height": 1152,
       "size": 144131,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-088.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-088.png"
     },
     {
       "page": 89,
@@ -719,7 +719,7 @@
       "width": 792,
       "height": 1152,
       "size": 127537,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-089.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-089.png"
     },
     {
       "page": 90,
@@ -727,7 +727,7 @@
       "width": 792,
       "height": 1152,
       "size": 141316,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-090.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-090.png"
     },
     {
       "page": 91,
@@ -735,7 +735,7 @@
       "width": 792,
       "height": 1152,
       "size": 145809,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-091.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-091.png"
     },
     {
       "page": 92,
@@ -743,7 +743,7 @@
       "width": 792,
       "height": 1152,
       "size": 142441,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-092.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-092.png"
     },
     {
       "page": 93,
@@ -751,7 +751,7 @@
       "width": 792,
       "height": 1152,
       "size": 157727,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-093.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-093.png"
     },
     {
       "page": 94,
@@ -759,7 +759,7 @@
       "width": 792,
       "height": 1152,
       "size": 145001,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-094.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-094.png"
     },
     {
       "page": 95,
@@ -767,7 +767,7 @@
       "width": 792,
       "height": 1152,
       "size": 125604,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-095.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-095.png"
     },
     {
       "page": 96,
@@ -775,7 +775,7 @@
       "width": 792,
       "height": 1152,
       "size": 151287,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-096.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-096.png"
     },
     {
       "page": 97,
@@ -783,7 +783,7 @@
       "width": 792,
       "height": 1152,
       "size": 152946,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-097.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-097.png"
     },
     {
       "page": 98,
@@ -791,7 +791,7 @@
       "width": 792,
       "height": 1152,
       "size": 132529,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-098.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-098.png"
     },
     {
       "page": 99,
@@ -799,7 +799,7 @@
       "width": 792,
       "height": 1152,
       "size": 126816,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-099.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-099.png"
     },
     {
       "page": 100,
@@ -807,7 +807,7 @@
       "width": 792,
       "height": 1152,
       "size": 156988,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-100.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-100.png"
     },
     {
       "page": 101,
@@ -815,7 +815,7 @@
       "width": 792,
       "height": 1152,
       "size": 148801,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-101.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-101.png"
     },
     {
       "page": 102,
@@ -823,7 +823,7 @@
       "width": 792,
       "height": 1152,
       "size": 132453,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-102.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-102.png"
     },
     {
       "page": 103,
@@ -831,7 +831,7 @@
       "width": 792,
       "height": 1152,
       "size": 167198,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-103.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-103.png"
     },
     {
       "page": 104,
@@ -839,7 +839,7 @@
       "width": 792,
       "height": 1152,
       "size": 149849,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-104.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-104.png"
     },
     {
       "page": 105,
@@ -847,7 +847,7 @@
       "width": 792,
       "height": 1152,
       "size": 146433,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-105.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-105.png"
     },
     {
       "page": 106,
@@ -855,7 +855,7 @@
       "width": 792,
       "height": 1152,
       "size": 150779,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-106.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-106.png"
     },
     {
       "page": 107,
@@ -863,7 +863,7 @@
       "width": 792,
       "height": 1152,
       "size": 148815,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-107.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-107.png"
     },
     {
       "page": 108,
@@ -871,7 +871,7 @@
       "width": 792,
       "height": 1152,
       "size": 143694,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-108.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-108.png"
     },
     {
       "page": 109,
@@ -879,7 +879,7 @@
       "width": 792,
       "height": 1152,
       "size": 151875,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-109.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-109.png"
     },
     {
       "page": 110,
@@ -887,7 +887,7 @@
       "width": 792,
       "height": 1152,
       "size": 159005,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-110.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-110.png"
     },
     {
       "page": 111,
@@ -895,7 +895,7 @@
       "width": 792,
       "height": 1152,
       "size": 137284,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-111.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-111.png"
     },
     {
       "page": 112,
@@ -903,7 +903,7 @@
       "width": 792,
       "height": 1152,
       "size": 150685,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-112.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-112.png"
     },
     {
       "page": 113,
@@ -911,7 +911,7 @@
       "width": 792,
       "height": 1152,
       "size": 151417,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-113.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-113.png"
     },
     {
       "page": 114,
@@ -919,7 +919,7 @@
       "width": 792,
       "height": 1152,
       "size": 148551,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-114.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-114.png"
     },
     {
       "page": 115,
@@ -927,7 +927,7 @@
       "width": 792,
       "height": 1152,
       "size": 145359,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-115.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-115.png"
     },
     {
       "page": 116,
@@ -935,7 +935,7 @@
       "width": 792,
       "height": 1152,
       "size": 142889,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-116.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-116.png"
     },
     {
       "page": 117,
@@ -943,7 +943,7 @@
       "width": 792,
       "height": 1152,
       "size": 145428,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-117.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-117.png"
     },
     {
       "page": 118,
@@ -951,7 +951,7 @@
       "width": 792,
       "height": 1152,
       "size": 64450,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-118.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-118.png"
     },
     {
       "page": 119,
@@ -959,7 +959,7 @@
       "width": 792,
       "height": 1152,
       "size": 130102,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-119.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-119.png"
     },
     {
       "page": 120,
@@ -967,7 +967,7 @@
       "width": 792,
       "height": 1152,
       "size": 147938,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-120.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-120.png"
     },
     {
       "page": 121,
@@ -975,7 +975,7 @@
       "width": 792,
       "height": 1152,
       "size": 151771,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-121.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-121.png"
     },
     {
       "page": 122,
@@ -983,7 +983,7 @@
       "width": 792,
       "height": 1152,
       "size": 142016,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-122.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-122.png"
     },
     {
       "page": 123,
@@ -991,7 +991,7 @@
       "width": 792,
       "height": 1152,
       "size": 146366,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-123.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-123.png"
     },
     {
       "page": 124,
@@ -999,7 +999,7 @@
       "width": 792,
       "height": 1152,
       "size": 134098,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-124.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-124.png"
     },
     {
       "page": 125,
@@ -1007,7 +1007,7 @@
       "width": 792,
       "height": 1152,
       "size": 140112,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-125.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-125.png"
     },
     {
       "page": 126,
@@ -1015,7 +1015,7 @@
       "width": 792,
       "height": 1152,
       "size": 146383,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-126.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-126.png"
     },
     {
       "page": 127,
@@ -1023,7 +1023,7 @@
       "width": 792,
       "height": 1152,
       "size": 138718,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-127.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-127.png"
     },
     {
       "page": 128,
@@ -1031,7 +1031,7 @@
       "width": 792,
       "height": 1152,
       "size": 143876,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-128.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-128.png"
     },
     {
       "page": 129,
@@ -1039,7 +1039,7 @@
       "width": 792,
       "height": 1152,
       "size": 131575,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-129.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-129.png"
     },
     {
       "page": 130,
@@ -1047,7 +1047,7 @@
       "width": 792,
       "height": 1152,
       "size": 155749,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-130.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-130.png"
     },
     {
       "page": 131,
@@ -1055,7 +1055,7 @@
       "width": 792,
       "height": 1152,
       "size": 141406,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-131.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-131.png"
     },
     {
       "page": 132,
@@ -1063,7 +1063,7 @@
       "width": 792,
       "height": 1152,
       "size": 133885,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-132.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-132.png"
     },
     {
       "page": 133,
@@ -1071,7 +1071,7 @@
       "width": 792,
       "height": 1152,
       "size": 137842,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-133.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-133.png"
     },
     {
       "page": 134,
@@ -1079,7 +1079,7 @@
       "width": 792,
       "height": 1152,
       "size": 150810,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-134.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-134.png"
     },
     {
       "page": 135,
@@ -1087,7 +1087,7 @@
       "width": 792,
       "height": 1152,
       "size": 147994,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-135.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-135.png"
     },
     {
       "page": 136,
@@ -1095,7 +1095,7 @@
       "width": 792,
       "height": 1152,
       "size": 157435,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-136.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-136.png"
     },
     {
       "page": 137,
@@ -1103,7 +1103,7 @@
       "width": 792,
       "height": 1152,
       "size": 147113,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-137.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-137.png"
     },
     {
       "page": 138,
@@ -1111,7 +1111,7 @@
       "width": 792,
       "height": 1152,
       "size": 143670,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-138.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-138.png"
     },
     {
       "page": 139,
@@ -1119,7 +1119,7 @@
       "width": 792,
       "height": 1152,
       "size": 145310,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-139.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-139.png"
     },
     {
       "page": 140,
@@ -1127,7 +1127,7 @@
       "width": 792,
       "height": 1152,
       "size": 163741,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-140.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-140.png"
     },
     {
       "page": 141,
@@ -1135,7 +1135,7 @@
       "width": 792,
       "height": 1152,
       "size": 155073,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-141.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-141.png"
     },
     {
       "page": 142,
@@ -1143,7 +1143,7 @@
       "width": 792,
       "height": 1152,
       "size": 162552,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-142.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-142.png"
     },
     {
       "page": 143,
@@ -1151,7 +1151,7 @@
       "width": 792,
       "height": 1152,
       "size": 154180,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-143.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-143.png"
     },
     {
       "page": 144,
@@ -1159,7 +1159,7 @@
       "width": 792,
       "height": 1152,
       "size": 158587,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-144.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-144.png"
     },
     {
       "page": 145,
@@ -1167,7 +1167,7 @@
       "width": 792,
       "height": 1152,
       "size": 159634,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-145.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-145.png"
     },
     {
       "page": 146,
@@ -1175,7 +1175,7 @@
       "width": 792,
       "height": 1152,
       "size": 141386,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-146.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-146.png"
     },
     {
       "page": 147,
@@ -1183,7 +1183,7 @@
       "width": 792,
       "height": 1152,
       "size": 150951,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-147.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-147.png"
     },
     {
       "page": 148,
@@ -1191,7 +1191,7 @@
       "width": 792,
       "height": 1152,
       "size": 153769,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-148.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-148.png"
     },
     {
       "page": 149,
@@ -1199,7 +1199,7 @@
       "width": 792,
       "height": 1152,
       "size": 149409,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-149.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-149.png"
     },
     {
       "page": 150,
@@ -1207,7 +1207,7 @@
       "width": 792,
       "height": 1152,
       "size": 146707,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-150.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-150.png"
     },
     {
       "page": 151,
@@ -1215,7 +1215,7 @@
       "width": 792,
       "height": 1152,
       "size": 149030,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-151.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-151.png"
     },
     {
       "page": 152,
@@ -1223,7 +1223,7 @@
       "width": 792,
       "height": 1152,
       "size": 157317,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-152.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-152.png"
     },
     {
       "page": 153,
@@ -1231,7 +1231,7 @@
       "width": 792,
       "height": 1152,
       "size": 164689,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-153.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-153.png"
     },
     {
       "page": 154,
@@ -1239,7 +1239,7 @@
       "width": 792,
       "height": 1152,
       "size": 102732,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-154.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-154.png"
     },
     {
       "page": 155,
@@ -1247,7 +1247,7 @@
       "width": 792,
       "height": 1152,
       "size": 145956,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-155.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-155.png"
     },
     {
       "page": 156,
@@ -1255,7 +1255,7 @@
       "width": 792,
       "height": 1152,
       "size": 130247,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-156.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-156.png"
     },
     {
       "page": 157,
@@ -1263,7 +1263,7 @@
       "width": 792,
       "height": 1152,
       "size": 125797,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-157.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-157.png"
     },
     {
       "page": 158,
@@ -1271,7 +1271,7 @@
       "width": 792,
       "height": 1152,
       "size": 129014,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-158.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-158.png"
     },
     {
       "page": 159,
@@ -1279,7 +1279,7 @@
       "width": 792,
       "height": 1152,
       "size": 131935,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-159.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-159.png"
     },
     {
       "page": 160,
@@ -1287,7 +1287,7 @@
       "width": 792,
       "height": 1152,
       "size": 138434,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-160.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-160.png"
     },
     {
       "page": 161,
@@ -1295,7 +1295,7 @@
       "width": 792,
       "height": 1152,
       "size": 79252,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-161.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-161.png"
     },
     {
       "page": 162,
@@ -1303,7 +1303,7 @@
       "width": 792,
       "height": 1152,
       "size": 120368,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-162.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-162.png"
     },
     {
       "page": 163,
@@ -1311,7 +1311,7 @@
       "width": 792,
       "height": 1152,
       "size": 136305,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-163.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-163.png"
     },
     {
       "page": 164,
@@ -1319,7 +1319,7 @@
       "width": 792,
       "height": 1152,
       "size": 144025,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-164.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-164.png"
     },
     {
       "page": 165,
@@ -1327,7 +1327,7 @@
       "width": 792,
       "height": 1152,
       "size": 147417,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-165.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-165.png"
     },
     {
       "page": 166,
@@ -1335,7 +1335,7 @@
       "width": 792,
       "height": 1152,
       "size": 128572,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-166.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-166.png"
     },
     {
       "page": 167,
@@ -1343,7 +1343,7 @@
       "width": 792,
       "height": 1152,
       "size": 143897,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-167.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-167.png"
     },
     {
       "page": 168,
@@ -1351,7 +1351,7 @@
       "width": 792,
       "height": 1152,
       "size": 143347,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-168.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-168.png"
     },
     {
       "page": 169,
@@ -1359,7 +1359,7 @@
       "width": 792,
       "height": 1152,
       "size": 140059,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-169.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-169.png"
     },
     {
       "page": 170,
@@ -1367,7 +1367,7 @@
       "width": 792,
       "height": 1152,
       "size": 146351,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-170.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-170.png"
     },
     {
       "page": 171,
@@ -1375,7 +1375,7 @@
       "width": 792,
       "height": 1152,
       "size": 129195,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-171.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-171.png"
     },
     {
       "page": 172,
@@ -1383,7 +1383,7 @@
       "width": 792,
       "height": 1152,
       "size": 129427,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-172.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-172.png"
     },
     {
       "page": 173,
@@ -1391,7 +1391,7 @@
       "width": 792,
       "height": 1152,
       "size": 123419,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-173.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-173.png"
     },
     {
       "page": 174,
@@ -1399,7 +1399,7 @@
       "width": 792,
       "height": 1152,
       "size": 144876,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-174.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-174.png"
     },
     {
       "page": 175,
@@ -1407,7 +1407,7 @@
       "width": 792,
       "height": 1152,
       "size": 134340,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-175.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-175.png"
     },
     {
       "page": 176,
@@ -1415,7 +1415,7 @@
       "width": 792,
       "height": 1152,
       "size": 150821,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-176.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-176.png"
     },
     {
       "page": 177,
@@ -1423,7 +1423,7 @@
       "width": 792,
       "height": 1152,
       "size": 146910,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-177.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-177.png"
     },
     {
       "page": 178,
@@ -1431,7 +1431,7 @@
       "width": 792,
       "height": 1152,
       "size": 136134,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-178.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-178.png"
     },
     {
       "page": 179,
@@ -1439,7 +1439,7 @@
       "width": 792,
       "height": 1152,
       "size": 129611,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-179.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-179.png"
     },
     {
       "page": 180,
@@ -1447,7 +1447,7 @@
       "width": 792,
       "height": 1152,
       "size": 132573,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-180.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-180.png"
     },
     {
       "page": 181,
@@ -1455,7 +1455,7 @@
       "width": 792,
       "height": 1152,
       "size": 140685,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-181.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-181.png"
     },
     {
       "page": 182,
@@ -1463,7 +1463,7 @@
       "width": 792,
       "height": 1152,
       "size": 138847,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-182.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-182.png"
     },
     {
       "page": 183,
@@ -1471,7 +1471,7 @@
       "width": 792,
       "height": 1152,
       "size": 144540,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-183.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-183.png"
     },
     {
       "page": 184,
@@ -1479,7 +1479,7 @@
       "width": 792,
       "height": 1152,
       "size": 111694,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-184.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-184.png"
     },
     {
       "page": 185,
@@ -1487,7 +1487,7 @@
       "width": 792,
       "height": 1152,
       "size": 133249,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-185.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-185.png"
     },
     {
       "page": 186,
@@ -1495,7 +1495,7 @@
       "width": 792,
       "height": 1152,
       "size": 147953,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-186.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-186.png"
     },
     {
       "page": 187,
@@ -1503,7 +1503,7 @@
       "width": 792,
       "height": 1152,
       "size": 132685,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-187.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-187.png"
     },
     {
       "page": 188,
@@ -1511,7 +1511,7 @@
       "width": 792,
       "height": 1152,
       "size": 132892,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-188.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-188.png"
     },
     {
       "page": 189,
@@ -1519,7 +1519,7 @@
       "width": 792,
       "height": 1152,
       "size": 138168,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-189.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-189.png"
     },
     {
       "page": 190,
@@ -1527,7 +1527,7 @@
       "width": 792,
       "height": 1152,
       "size": 145628,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-190.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-190.png"
     },
     {
       "page": 191,
@@ -1535,7 +1535,7 @@
       "width": 792,
       "height": 1152,
       "size": 140493,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-191.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-191.png"
     },
     {
       "page": 192,
@@ -1543,7 +1543,7 @@
       "width": 792,
       "height": 1152,
       "size": 150094,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-192.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-192.png"
     },
     {
       "page": 193,
@@ -1551,7 +1551,7 @@
       "width": 792,
       "height": 1152,
       "size": 146717,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-193.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-193.png"
     },
     {
       "page": 194,
@@ -1559,7 +1559,7 @@
       "width": 792,
       "height": 1152,
       "size": 158213,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-194.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-194.png"
     },
     {
       "page": 195,
@@ -1567,7 +1567,7 @@
       "width": 792,
       "height": 1152,
       "size": 121856,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-195.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-195.png"
     },
     {
       "page": 196,
@@ -1575,7 +1575,7 @@
       "width": 792,
       "height": 1152,
       "size": 142220,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-196.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-196.png"
     },
     {
       "page": 197,
@@ -1583,7 +1583,7 @@
       "width": 792,
       "height": 1152,
       "size": 44144,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-197.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-197.png"
     },
     {
       "page": 198,
@@ -1591,7 +1591,7 @@
       "width": 792,
       "height": 1152,
       "size": 105617,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-198.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-198.png"
     },
     {
       "page": 199,
@@ -1599,7 +1599,7 @@
       "width": 792,
       "height": 1152,
       "size": 144129,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-199.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-199.png"
     },
     {
       "page": 200,
@@ -1607,7 +1607,7 @@
       "width": 792,
       "height": 1152,
       "size": 131731,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-200.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-200.png"
     },
     {
       "page": 201,
@@ -1615,7 +1615,7 @@
       "width": 792,
       "height": 1152,
       "size": 138806,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-201.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-201.png"
     },
     {
       "page": 202,
@@ -1623,7 +1623,7 @@
       "width": 792,
       "height": 1152,
       "size": 141198,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-202.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-202.png"
     },
     {
       "page": 203,
@@ -1631,7 +1631,7 @@
       "width": 792,
       "height": 1152,
       "size": 152968,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-203.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-203.png"
     },
     {
       "page": 204,
@@ -1639,7 +1639,7 @@
       "width": 792,
       "height": 1152,
       "size": 141166,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-204.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-204.png"
     },
     {
       "page": 205,
@@ -1647,7 +1647,7 @@
       "width": 792,
       "height": 1152,
       "size": 135050,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-205.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-205.png"
     },
     {
       "page": 206,
@@ -1655,7 +1655,7 @@
       "width": 792,
       "height": 1152,
       "size": 151293,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-206.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-206.png"
     },
     {
       "page": 207,
@@ -1663,7 +1663,7 @@
       "width": 792,
       "height": 1152,
       "size": 150706,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-207.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-207.png"
     },
     {
       "page": 208,
@@ -1671,7 +1671,7 @@
       "width": 792,
       "height": 1152,
       "size": 145937,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-208.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-208.png"
     },
     {
       "page": 209,
@@ -1679,7 +1679,7 @@
       "width": 792,
       "height": 1152,
       "size": 160647,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-209.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-209.png"
     },
     {
       "page": 210,
@@ -1687,7 +1687,7 @@
       "width": 792,
       "height": 1152,
       "size": 136897,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-210.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-210.png"
     },
     {
       "page": 211,
@@ -1695,7 +1695,7 @@
       "width": 792,
       "height": 1152,
       "size": 141097,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-211.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-211.png"
     },
     {
       "page": 212,
@@ -1703,7 +1703,7 @@
       "width": 792,
       "height": 1152,
       "size": 135450,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-212.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-212.png"
     },
     {
       "page": 213,
@@ -1711,7 +1711,7 @@
       "width": 792,
       "height": 1152,
       "size": 146944,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-213.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-213.png"
     },
     {
       "page": 214,
@@ -1719,7 +1719,7 @@
       "width": 792,
       "height": 1152,
       "size": 140611,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-214.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-214.png"
     },
     {
       "page": 215,
@@ -1727,7 +1727,7 @@
       "width": 792,
       "height": 1152,
       "size": 144303,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-215.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-215.png"
     },
     {
       "page": 216,
@@ -1735,7 +1735,7 @@
       "width": 792,
       "height": 1152,
       "size": 153012,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-216.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-216.png"
     },
     {
       "page": 217,
@@ -1743,7 +1743,7 @@
       "width": 792,
       "height": 1152,
       "size": 150534,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-217.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-217.png"
     },
     {
       "page": 218,
@@ -1751,7 +1751,7 @@
       "width": 792,
       "height": 1152,
       "size": 138067,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-218.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-218.png"
     },
     {
       "page": 219,
@@ -1759,7 +1759,7 @@
       "width": 792,
       "height": 1152,
       "size": 142519,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-219.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-219.png"
     },
     {
       "page": 220,
@@ -1767,7 +1767,7 @@
       "width": 792,
       "height": 1152,
       "size": 37616,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-220.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-220.png"
     },
     {
       "page": 221,
@@ -1775,7 +1775,7 @@
       "width": 792,
       "height": 1152,
       "size": 132635,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-221.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-221.png"
     },
     {
       "page": 222,
@@ -1783,7 +1783,7 @@
       "width": 792,
       "height": 1152,
       "size": 147497,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-222.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-222.png"
     },
     {
       "page": 223,
@@ -1791,7 +1791,7 @@
       "width": 792,
       "height": 1152,
       "size": 144629,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-223.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-223.png"
     },
     {
       "page": 224,
@@ -1799,7 +1799,7 @@
       "width": 792,
       "height": 1152,
       "size": 150044,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-224.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-224.png"
     },
     {
       "page": 225,
@@ -1807,7 +1807,7 @@
       "width": 792,
       "height": 1152,
       "size": 164241,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-225.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-225.png"
     },
     {
       "page": 226,
@@ -1815,7 +1815,7 @@
       "width": 792,
       "height": 1152,
       "size": 147868,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-226.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-226.png"
     },
     {
       "page": 227,
@@ -1823,7 +1823,7 @@
       "width": 792,
       "height": 1152,
       "size": 158568,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-227.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-227.png"
     },
     {
       "page": 228,
@@ -1831,7 +1831,7 @@
       "width": 792,
       "height": 1152,
       "size": 150987,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-228.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-228.png"
     },
     {
       "page": 229,
@@ -1839,7 +1839,7 @@
       "width": 792,
       "height": 1152,
       "size": 145232,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-229.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-229.png"
     },
     {
       "page": 230,
@@ -1847,7 +1847,7 @@
       "width": 792,
       "height": 1152,
       "size": 141067,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-230.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-230.png"
     },
     {
       "page": 231,
@@ -1855,7 +1855,7 @@
       "width": 792,
       "height": 1152,
       "size": 149319,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-231.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-231.png"
     },
     {
       "page": 232,
@@ -1863,7 +1863,7 @@
       "width": 792,
       "height": 1152,
       "size": 151695,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-232.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-232.png"
     },
     {
       "page": 233,
@@ -1871,7 +1871,7 @@
       "width": 792,
       "height": 1152,
       "size": 159010,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-233.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-233.png"
     },
     {
       "page": 234,
@@ -1879,7 +1879,7 @@
       "width": 792,
       "height": 1152,
       "size": 153348,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-234.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-234.png"
     },
     {
       "page": 235,
@@ -1887,7 +1887,7 @@
       "width": 792,
       "height": 1152,
       "size": 156166,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-235.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-235.png"
     },
     {
       "page": 236,
@@ -1895,7 +1895,7 @@
       "width": 792,
       "height": 1152,
       "size": 159614,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-236.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-236.png"
     },
     {
       "page": 237,
@@ -1903,7 +1903,7 @@
       "width": 792,
       "height": 1152,
       "size": 145486,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-237.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-237.png"
     },
     {
       "page": 238,
@@ -1911,7 +1911,7 @@
       "width": 792,
       "height": 1152,
       "size": 155769,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-238.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-238.png"
     },
     {
       "page": 239,
@@ -1919,7 +1919,7 @@
       "width": 792,
       "height": 1152,
       "size": 150644,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-239.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-239.png"
     },
     {
       "page": 240,
@@ -1927,7 +1927,7 @@
       "width": 792,
       "height": 1152,
       "size": 146413,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-240.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-240.png"
     },
     {
       "page": 241,
@@ -1935,7 +1935,7 @@
       "width": 792,
       "height": 1152,
       "size": 157768,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-241.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-241.png"
     },
     {
       "page": 242,
@@ -1943,7 +1943,7 @@
       "width": 792,
       "height": 1152,
       "size": 156452,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-242.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-242.png"
     },
     {
       "page": 243,
@@ -1951,7 +1951,7 @@
       "width": 792,
       "height": 1152,
       "size": 162243,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-243.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-243.png"
     },
     {
       "page": 244,
@@ -1959,7 +1959,7 @@
       "width": 792,
       "height": 1152,
       "size": 154101,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-244.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-244.png"
     },
     {
       "page": 245,
@@ -1967,7 +1967,7 @@
       "width": 792,
       "height": 1152,
       "size": 163394,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-245.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-245.png"
     },
     {
       "page": 246,
@@ -1975,7 +1975,7 @@
       "width": 792,
       "height": 1152,
       "size": 134100,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-246.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-246.png"
     },
     {
       "page": 247,
@@ -1983,7 +1983,7 @@
       "width": 792,
       "height": 1152,
       "size": 139478,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-247.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-247.png"
     },
     {
       "page": 248,
@@ -1991,7 +1991,7 @@
       "width": 792,
       "height": 1152,
       "size": 143838,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-248.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-248.png"
     },
     {
       "page": 249,
@@ -1999,7 +1999,7 @@
       "width": 792,
       "height": 1152,
       "size": 136875,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-249.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-249.png"
     },
     {
       "page": 250,
@@ -2007,7 +2007,7 @@
       "width": 792,
       "height": 1152,
       "size": 150878,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-250.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-250.png"
     },
     {
       "page": 251,
@@ -2015,7 +2015,7 @@
       "width": 792,
       "height": 1152,
       "size": 139725,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-251.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-251.png"
     },
     {
       "page": 252,
@@ -2023,7 +2023,7 @@
       "width": 792,
       "height": 1152,
       "size": 147343,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-252.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-252.png"
     },
     {
       "page": 253,
@@ -2031,7 +2031,7 @@
       "width": 792,
       "height": 1152,
       "size": 150231,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-253.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-253.png"
     },
     {
       "page": 254,
@@ -2039,7 +2039,7 @@
       "width": 792,
       "height": 1152,
       "size": 131321,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-254.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-254.png"
     },
     {
       "page": 255,
@@ -2047,7 +2047,7 @@
       "width": 792,
       "height": 1152,
       "size": 148577,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-255.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-255.png"
     },
     {
       "page": 256,
@@ -2055,7 +2055,7 @@
       "width": 792,
       "height": 1152,
       "size": 148003,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-256.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-256.png"
     },
     {
       "page": 257,
@@ -2063,7 +2063,7 @@
       "width": 792,
       "height": 1152,
       "size": 145775,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-257.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-257.png"
     },
     {
       "page": 258,
@@ -2071,7 +2071,7 @@
       "width": 792,
       "height": 1152,
       "size": 143380,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-258.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-258.png"
     },
     {
       "page": 259,
@@ -2079,7 +2079,7 @@
       "width": 792,
       "height": 1152,
       "size": 162664,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-259.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-259.png"
     },
     {
       "page": 260,
@@ -2087,7 +2087,7 @@
       "width": 792,
       "height": 1152,
       "size": 153931,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-260.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-260.png"
     },
     {
       "page": 261,
@@ -2095,7 +2095,7 @@
       "width": 792,
       "height": 1152,
       "size": 149026,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-261.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-261.png"
     },
     {
       "page": 262,
@@ -2103,7 +2103,7 @@
       "width": 792,
       "height": 1152,
       "size": 154078,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-262.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-262.png"
     },
     {
       "page": 263,
@@ -2111,7 +2111,7 @@
       "width": 792,
       "height": 1152,
       "size": 152450,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-263.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-263.png"
     },
     {
       "page": 264,
@@ -2119,7 +2119,7 @@
       "width": 792,
       "height": 1152,
       "size": 159427,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-264.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-264.png"
     },
     {
       "page": 265,
@@ -2127,7 +2127,7 @@
       "width": 792,
       "height": 1152,
       "size": 150875,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-265.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-265.png"
     },
     {
       "page": 266,
@@ -2135,7 +2135,7 @@
       "width": 792,
       "height": 1152,
       "size": 146436,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-266.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-266.png"
     },
     {
       "page": 267,
@@ -2143,7 +2143,7 @@
       "width": 792,
       "height": 1152,
       "size": 150695,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-267.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-267.png"
     },
     {
       "page": 268,
@@ -2151,7 +2151,7 @@
       "width": 792,
       "height": 1152,
       "size": 152460,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-268.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-268.png"
     },
     {
       "page": 269,
@@ -2159,7 +2159,7 @@
       "width": 792,
       "height": 1152,
       "size": 145561,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-269.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-269.png"
     },
     {
       "page": 270,
@@ -2167,7 +2167,7 @@
       "width": 792,
       "height": 1152,
       "size": 153768,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-270.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-270.png"
     },
     {
       "page": 271,
@@ -2175,7 +2175,7 @@
       "width": 792,
       "height": 1152,
       "size": 144705,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-271.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-271.png"
     },
     {
       "page": 272,
@@ -2183,7 +2183,7 @@
       "width": 792,
       "height": 1152,
       "size": 138667,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-272.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-272.png"
     },
     {
       "page": 273,
@@ -2191,7 +2191,7 @@
       "width": 792,
       "height": 1152,
       "size": 152431,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-273.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-273.png"
     },
     {
       "page": 274,
@@ -2199,7 +2199,7 @@
       "width": 792,
       "height": 1152,
       "size": 157495,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-274.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-274.png"
     },
     {
       "page": 275,
@@ -2207,7 +2207,7 @@
       "width": 792,
       "height": 1152,
       "size": 114782,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-275.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-275.png"
     },
     {
       "page": 276,
@@ -2215,7 +2215,7 @@
       "width": 792,
       "height": 1152,
       "size": 138925,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-276.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-276.png"
     },
     {
       "page": 277,
@@ -2223,7 +2223,7 @@
       "width": 792,
       "height": 1152,
       "size": 164973,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-277.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-277.png"
     },
     {
       "page": 278,
@@ -2231,7 +2231,7 @@
       "width": 792,
       "height": 1152,
       "size": 131024,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-278.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-278.png"
     },
     {
       "page": 279,
@@ -2239,7 +2239,7 @@
       "width": 792,
       "height": 1152,
       "size": 155997,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-279.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-279.png"
     },
     {
       "page": 280,
@@ -2247,7 +2247,7 @@
       "width": 792,
       "height": 1152,
       "size": 150987,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-280.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-280.png"
     },
     {
       "page": 281,
@@ -2255,7 +2255,7 @@
       "width": 792,
       "height": 1152,
       "size": 136620,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-281.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-281.png"
     },
     {
       "page": 282,
@@ -2263,7 +2263,7 @@
       "width": 792,
       "height": 1152,
       "size": 157760,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-282.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-282.png"
     },
     {
       "page": 283,
@@ -2271,7 +2271,7 @@
       "width": 792,
       "height": 1152,
       "size": 140159,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-283.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-283.png"
     },
     {
       "page": 284,
@@ -2279,7 +2279,7 @@
       "width": 792,
       "height": 1152,
       "size": 155811,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-284.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-284.png"
     },
     {
       "page": 285,
@@ -2287,7 +2287,7 @@
       "width": 792,
       "height": 1152,
       "size": 125047,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-285.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-285.png"
     },
     {
       "page": 286,
@@ -2295,7 +2295,7 @@
       "width": 792,
       "height": 1152,
       "size": 157238,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-286.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-286.png"
     },
     {
       "page": 287,
@@ -2303,7 +2303,7 @@
       "width": 792,
       "height": 1152,
       "size": 141818,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-287.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-287.png"
     },
     {
       "page": 288,
@@ -2311,7 +2311,7 @@
       "width": 792,
       "height": 1152,
       "size": 145598,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-288.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-288.png"
     },
     {
       "page": 289,
@@ -2319,7 +2319,7 @@
       "width": 792,
       "height": 1152,
       "size": 144467,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-289.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-289.png"
     },
     {
       "page": 290,
@@ -2327,7 +2327,7 @@
       "width": 792,
       "height": 1152,
       "size": 148320,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-290.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-290.png"
     },
     {
       "page": 291,
@@ -2335,7 +2335,7 @@
       "width": 792,
       "height": 1152,
       "size": 150110,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-291.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-291.png"
     },
     {
       "page": 292,
@@ -2343,7 +2343,7 @@
       "width": 792,
       "height": 1152,
       "size": 151939,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-292.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-292.png"
     },
     {
       "page": 293,
@@ -2351,7 +2351,7 @@
       "width": 792,
       "height": 1152,
       "size": 144684,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-293.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-293.png"
     },
     {
       "page": 294,
@@ -2359,7 +2359,7 @@
       "width": 792,
       "height": 1152,
       "size": 137907,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-294.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-294.png"
     },
     {
       "page": 295,
@@ -2367,7 +2367,7 @@
       "width": 792,
       "height": 1152,
       "size": 147123,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-295.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-295.png"
     },
     {
       "page": 296,
@@ -2375,7 +2375,7 @@
       "width": 792,
       "height": 1152,
       "size": 144413,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-296.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-296.png"
     },
     {
       "page": 297,
@@ -2383,7 +2383,7 @@
       "width": 792,
       "height": 1152,
       "size": 140859,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-297.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-297.png"
     },
     {
       "page": 298,
@@ -2391,7 +2391,7 @@
       "width": 792,
       "height": 1152,
       "size": 144472,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-298.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-298.png"
     },
     {
       "page": 299,
@@ -2399,7 +2399,7 @@
       "width": 792,
       "height": 1152,
       "size": 143587,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-299.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-299.png"
     },
     {
       "page": 300,
@@ -2407,7 +2407,7 @@
       "width": 792,
       "height": 1152,
       "size": 157521,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-300.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-300.png"
     },
     {
       "page": 301,
@@ -2415,7 +2415,7 @@
       "width": 792,
       "height": 1152,
       "size": 151422,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-301.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-301.png"
     },
     {
       "page": 302,
@@ -2423,7 +2423,7 @@
       "width": 792,
       "height": 1152,
       "size": 159465,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-302.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-302.png"
     },
     {
       "page": 303,
@@ -2431,7 +2431,7 @@
       "width": 792,
       "height": 1152,
       "size": 153329,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-303.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-303.png"
     },
     {
       "page": 304,
@@ -2439,7 +2439,7 @@
       "width": 792,
       "height": 1152,
       "size": 53929,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-304.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-304.png"
     },
     {
       "page": 305,
@@ -2447,7 +2447,7 @@
       "width": 792,
       "height": 1152,
       "size": 12727,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-305.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-305.png"
     },
     {
       "page": 306,
@@ -2455,7 +2455,7 @@
       "width": 792,
       "height": 1152,
       "size": 266966,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef-roman-urdu/roman-urdu/volume1/page-306.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/shifa-shareef/roman-urdu/volume1/page-306.png"
     }
   ]
 }

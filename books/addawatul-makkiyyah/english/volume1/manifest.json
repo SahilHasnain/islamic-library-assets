@@ -1,13 +1,13 @@
 {
-  "bookId": "addawatul-makkiyyah-english",
+  "bookId": "addawatul-makkiyyah",
   "languageId": "english",
   "volumeId": "volume1",
   "version": "2026-07-17-124545",
   "totalPages": 225,
-  "baseUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1",
   "filePattern": "page-{page}.png",
   "extension": "png",
-  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/cover.png",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/cover.png",
   "pages": [
     {
       "page": 1,
@@ -15,7 +15,7 @@
       "width": 840,
       "height": 1190,
       "size": 34973,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-001.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-001.png"
     },
     {
       "page": 2,
@@ -23,7 +23,7 @@
       "width": 840,
       "height": 1190,
       "size": 63139,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-002.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-002.png"
     },
     {
       "page": 3,
@@ -31,7 +31,7 @@
       "width": 840,
       "height": 1190,
       "size": 12194,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-003.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-003.png"
     },
     {
       "page": 4,
@@ -39,7 +39,7 @@
       "width": 840,
       "height": 1190,
       "size": 31102,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-004.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-004.png"
     },
     {
       "page": 5,
@@ -47,7 +47,7 @@
       "width": 840,
       "height": 1190,
       "size": 107924,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-005.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-005.png"
     },
     {
       "page": 6,
@@ -55,7 +55,7 @@
       "width": 840,
       "height": 1190,
       "size": 144339,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-006.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-006.png"
     },
     {
       "page": 7,
@@ -63,7 +63,7 @@
       "width": 840,
       "height": 1190,
       "size": 139314,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-007.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-007.png"
     },
     {
       "page": 8,
@@ -71,7 +71,7 @@
       "width": 840,
       "height": 1190,
       "size": 85020,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-008.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-008.png"
     },
     {
       "page": 9,
@@ -79,7 +79,7 @@
       "width": 840,
       "height": 1190,
       "size": 125637,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-009.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-009.png"
     },
     {
       "page": 10,
@@ -87,7 +87,7 @@
       "width": 840,
       "height": 1190,
       "size": 133407,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-010.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-010.png"
     },
     {
       "page": 11,
@@ -95,7 +95,7 @@
       "width": 840,
       "height": 1190,
       "size": 123153,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-011.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-011.png"
     },
     {
       "page": 12,
@@ -103,7 +103,7 @@
       "width": 840,
       "height": 1190,
       "size": 141231,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-012.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-012.png"
     },
     {
       "page": 13,
@@ -111,7 +111,7 @@
       "width": 840,
       "height": 1190,
       "size": 143710,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-013.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-013.png"
     },
     {
       "page": 14,
@@ -119,7 +119,7 @@
       "width": 840,
       "height": 1190,
       "size": 87926,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-014.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-014.png"
     },
     {
       "page": 15,
@@ -127,7 +127,7 @@
       "width": 840,
       "height": 1190,
       "size": 90074,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-015.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-015.png"
     },
     {
       "page": 16,
@@ -135,7 +135,7 @@
       "width": 840,
       "height": 1190,
       "size": 100330,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-016.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-016.png"
     },
     {
       "page": 17,
@@ -143,7 +143,7 @@
       "width": 840,
       "height": 1190,
       "size": 96642,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-017.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-017.png"
     },
     {
       "page": 18,
@@ -151,7 +151,7 @@
       "width": 840,
       "height": 1190,
       "size": 92664,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-018.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-018.png"
     },
     {
       "page": 19,
@@ -159,7 +159,7 @@
       "width": 840,
       "height": 1190,
       "size": 124021,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-019.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-019.png"
     },
     {
       "page": 20,
@@ -167,7 +167,7 @@
       "width": 840,
       "height": 1190,
       "size": 127014,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-020.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-020.png"
     },
     {
       "page": 21,
@@ -175,7 +175,7 @@
       "width": 840,
       "height": 1190,
       "size": 116418,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-021.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-021.png"
     },
     {
       "page": 22,
@@ -183,7 +183,7 @@
       "width": 840,
       "height": 1190,
       "size": 117491,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-022.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-022.png"
     },
     {
       "page": 23,
@@ -191,7 +191,7 @@
       "width": 840,
       "height": 1190,
       "size": 136352,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-023.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-023.png"
     },
     {
       "page": 24,
@@ -199,7 +199,7 @@
       "width": 840,
       "height": 1190,
       "size": 125629,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-024.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-024.png"
     },
     {
       "page": 25,
@@ -207,7 +207,7 @@
       "width": 840,
       "height": 1190,
       "size": 129705,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-025.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-025.png"
     },
     {
       "page": 26,
@@ -215,7 +215,7 @@
       "width": 840,
       "height": 1190,
       "size": 115241,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-026.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-026.png"
     },
     {
       "page": 27,
@@ -223,7 +223,7 @@
       "width": 840,
       "height": 1190,
       "size": 141924,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-027.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-027.png"
     },
     {
       "page": 28,
@@ -231,7 +231,7 @@
       "width": 840,
       "height": 1190,
       "size": 129157,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-028.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-028.png"
     },
     {
       "page": 29,
@@ -239,7 +239,7 @@
       "width": 840,
       "height": 1190,
       "size": 132181,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-029.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-029.png"
     },
     {
       "page": 30,
@@ -247,7 +247,7 @@
       "width": 840,
       "height": 1190,
       "size": 127524,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-030.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-030.png"
     },
     {
       "page": 31,
@@ -255,7 +255,7 @@
       "width": 840,
       "height": 1190,
       "size": 119715,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-031.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-031.png"
     },
     {
       "page": 32,
@@ -263,7 +263,7 @@
       "width": 840,
       "height": 1190,
       "size": 110262,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-032.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-032.png"
     },
     {
       "page": 33,
@@ -271,7 +271,7 @@
       "width": 840,
       "height": 1190,
       "size": 127031,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-033.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-033.png"
     },
     {
       "page": 34,
@@ -279,7 +279,7 @@
       "width": 840,
       "height": 1190,
       "size": 132542,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-034.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-034.png"
     },
     {
       "page": 35,
@@ -287,7 +287,7 @@
       "width": 840,
       "height": 1190,
       "size": 103780,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-035.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-035.png"
     },
     {
       "page": 36,
@@ -295,7 +295,7 @@
       "width": 840,
       "height": 1190,
       "size": 80904,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-036.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-036.png"
     },
     {
       "page": 37,
@@ -303,7 +303,7 @@
       "width": 840,
       "height": 1190,
       "size": 115974,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-037.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-037.png"
     },
     {
       "page": 38,
@@ -311,7 +311,7 @@
       "width": 840,
       "height": 1190,
       "size": 54903,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-038.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-038.png"
     },
     {
       "page": 39,
@@ -319,7 +319,7 @@
       "width": 840,
       "height": 1190,
       "size": 118187,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-039.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-039.png"
     },
     {
       "page": 40,
@@ -327,7 +327,7 @@
       "width": 840,
       "height": 1190,
       "size": 132147,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-040.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-040.png"
     },
     {
       "page": 41,
@@ -335,7 +335,7 @@
       "width": 840,
       "height": 1190,
       "size": 126186,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-041.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-041.png"
     },
     {
       "page": 42,
@@ -343,7 +343,7 @@
       "width": 840,
       "height": 1190,
       "size": 105215,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-042.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-042.png"
     },
     {
       "page": 43,
@@ -351,7 +351,7 @@
       "width": 840,
       "height": 1190,
       "size": 130744,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-043.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-043.png"
     },
     {
       "page": 44,
@@ -359,7 +359,7 @@
       "width": 840,
       "height": 1190,
       "size": 134949,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-044.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-044.png"
     },
     {
       "page": 45,
@@ -367,7 +367,7 @@
       "width": 840,
       "height": 1190,
       "size": 132069,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-045.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-045.png"
     },
     {
       "page": 46,
@@ -375,7 +375,7 @@
       "width": 840,
       "height": 1190,
       "size": 115169,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-046.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-046.png"
     },
     {
       "page": 47,
@@ -383,7 +383,7 @@
       "width": 840,
       "height": 1190,
       "size": 146555,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-047.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-047.png"
     },
     {
       "page": 48,
@@ -391,7 +391,7 @@
       "width": 840,
       "height": 1190,
       "size": 123474,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-048.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-048.png"
     },
     {
       "page": 49,
@@ -399,7 +399,7 @@
       "width": 840,
       "height": 1190,
       "size": 129118,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-049.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-049.png"
     },
     {
       "page": 50,
@@ -407,7 +407,7 @@
       "width": 840,
       "height": 1190,
       "size": 133985,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-050.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-050.png"
     },
     {
       "page": 51,
@@ -415,7 +415,7 @@
       "width": 840,
       "height": 1190,
       "size": 145013,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-051.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-051.png"
     },
     {
       "page": 52,
@@ -423,7 +423,7 @@
       "width": 840,
       "height": 1190,
       "size": 120255,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-052.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-052.png"
     },
     {
       "page": 53,
@@ -431,7 +431,7 @@
       "width": 840,
       "height": 1190,
       "size": 108943,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-053.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-053.png"
     },
     {
       "page": 54,
@@ -439,7 +439,7 @@
       "width": 840,
       "height": 1190,
       "size": 97923,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-054.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-054.png"
     },
     {
       "page": 55,
@@ -447,7 +447,7 @@
       "width": 840,
       "height": 1190,
       "size": 114327,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-055.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-055.png"
     },
     {
       "page": 56,
@@ -455,7 +455,7 @@
       "width": 840,
       "height": 1190,
       "size": 103585,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-056.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-056.png"
     },
     {
       "page": 57,
@@ -463,7 +463,7 @@
       "width": 840,
       "height": 1190,
       "size": 120645,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-057.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-057.png"
     },
     {
       "page": 58,
@@ -471,7 +471,7 @@
       "width": 840,
       "height": 1190,
       "size": 141128,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-058.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-058.png"
     },
     {
       "page": 59,
@@ -479,7 +479,7 @@
       "width": 840,
       "height": 1190,
       "size": 148871,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-059.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-059.png"
     },
     {
       "page": 60,
@@ -487,7 +487,7 @@
       "width": 840,
       "height": 1190,
       "size": 113362,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-060.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-060.png"
     },
     {
       "page": 61,
@@ -495,7 +495,7 @@
       "width": 840,
       "height": 1190,
       "size": 156077,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-061.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-061.png"
     },
     {
       "page": 62,
@@ -503,7 +503,7 @@
       "width": 840,
       "height": 1190,
       "size": 108637,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-062.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-062.png"
     },
     {
       "page": 63,
@@ -511,7 +511,7 @@
       "width": 840,
       "height": 1190,
       "size": 144014,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-063.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-063.png"
     },
     {
       "page": 64,
@@ -519,7 +519,7 @@
       "width": 840,
       "height": 1190,
       "size": 80450,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-064.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-064.png"
     },
     {
       "page": 65,
@@ -527,7 +527,7 @@
       "width": 840,
       "height": 1190,
       "size": 120270,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-065.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-065.png"
     },
     {
       "page": 66,
@@ -535,7 +535,7 @@
       "width": 840,
       "height": 1190,
       "size": 134109,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-066.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-066.png"
     },
     {
       "page": 67,
@@ -543,7 +543,7 @@
       "width": 840,
       "height": 1190,
       "size": 92143,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-067.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-067.png"
     },
     {
       "page": 68,
@@ -551,7 +551,7 @@
       "width": 840,
       "height": 1190,
       "size": 111061,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-068.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-068.png"
     },
     {
       "page": 69,
@@ -559,7 +559,7 @@
       "width": 840,
       "height": 1190,
       "size": 102540,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-069.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-069.png"
     },
     {
       "page": 70,
@@ -567,7 +567,7 @@
       "width": 840,
       "height": 1190,
       "size": 111675,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-070.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-070.png"
     },
     {
       "page": 71,
@@ -575,7 +575,7 @@
       "width": 840,
       "height": 1190,
       "size": 123925,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-071.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-071.png"
     },
     {
       "page": 72,
@@ -583,7 +583,7 @@
       "width": 840,
       "height": 1190,
       "size": 123299,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-072.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-072.png"
     },
     {
       "page": 73,
@@ -591,7 +591,7 @@
       "width": 840,
       "height": 1190,
       "size": 130572,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-073.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-073.png"
     },
     {
       "page": 74,
@@ -599,7 +599,7 @@
       "width": 840,
       "height": 1190,
       "size": 124373,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-074.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-074.png"
     },
     {
       "page": 75,
@@ -607,7 +607,7 @@
       "width": 840,
       "height": 1190,
       "size": 111563,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-075.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-075.png"
     },
     {
       "page": 76,
@@ -615,7 +615,7 @@
       "width": 840,
       "height": 1190,
       "size": 127170,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-076.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-076.png"
     },
     {
       "page": 77,
@@ -623,7 +623,7 @@
       "width": 840,
       "height": 1190,
       "size": 144178,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-077.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-077.png"
     },
     {
       "page": 78,
@@ -631,7 +631,7 @@
       "width": 840,
       "height": 1190,
       "size": 128385,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-078.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-078.png"
     },
     {
       "page": 79,
@@ -639,7 +639,7 @@
       "width": 840,
       "height": 1190,
       "size": 141432,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-079.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-079.png"
     },
     {
       "page": 80,
@@ -647,7 +647,7 @@
       "width": 840,
       "height": 1190,
       "size": 139646,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-080.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-080.png"
     },
     {
       "page": 81,
@@ -655,7 +655,7 @@
       "width": 840,
       "height": 1190,
       "size": 149069,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-081.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-081.png"
     },
     {
       "page": 82,
@@ -663,7 +663,7 @@
       "width": 840,
       "height": 1190,
       "size": 138754,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-082.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-082.png"
     },
     {
       "page": 83,
@@ -671,7 +671,7 @@
       "width": 840,
       "height": 1190,
       "size": 141514,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-083.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-083.png"
     },
     {
       "page": 84,
@@ -679,7 +679,7 @@
       "width": 840,
       "height": 1190,
       "size": 148537,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-084.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-084.png"
     },
     {
       "page": 85,
@@ -687,7 +687,7 @@
       "width": 840,
       "height": 1190,
       "size": 146125,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-085.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-085.png"
     },
     {
       "page": 86,
@@ -695,7 +695,7 @@
       "width": 840,
       "height": 1190,
       "size": 144817,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-086.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-086.png"
     },
     {
       "page": 87,
@@ -703,7 +703,7 @@
       "width": 840,
       "height": 1190,
       "size": 111155,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-087.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-087.png"
     },
     {
       "page": 88,
@@ -711,7 +711,7 @@
       "width": 840,
       "height": 1190,
       "size": 130755,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-088.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-088.png"
     },
     {
       "page": 89,
@@ -719,7 +719,7 @@
       "width": 840,
       "height": 1190,
       "size": 137397,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-089.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-089.png"
     },
     {
       "page": 90,
@@ -727,7 +727,7 @@
       "width": 840,
       "height": 1190,
       "size": 120120,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-090.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-090.png"
     },
     {
       "page": 91,
@@ -735,7 +735,7 @@
       "width": 840,
       "height": 1190,
       "size": 138886,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-091.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-091.png"
     },
     {
       "page": 92,
@@ -743,7 +743,7 @@
       "width": 840,
       "height": 1190,
       "size": 104467,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-092.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-092.png"
     },
     {
       "page": 93,
@@ -751,7 +751,7 @@
       "width": 840,
       "height": 1190,
       "size": 118147,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-093.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-093.png"
     },
     {
       "page": 94,
@@ -759,7 +759,7 @@
       "width": 840,
       "height": 1190,
       "size": 147339,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-094.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-094.png"
     },
     {
       "page": 95,
@@ -767,7 +767,7 @@
       "width": 840,
       "height": 1190,
       "size": 140831,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-095.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-095.png"
     },
     {
       "page": 96,
@@ -775,7 +775,7 @@
       "width": 840,
       "height": 1190,
       "size": 117024,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-096.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-096.png"
     },
     {
       "page": 97,
@@ -783,7 +783,7 @@
       "width": 840,
       "height": 1190,
       "size": 118757,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-097.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-097.png"
     },
     {
       "page": 98,
@@ -791,7 +791,7 @@
       "width": 840,
       "height": 1190,
       "size": 110835,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-098.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-098.png"
     },
     {
       "page": 99,
@@ -799,7 +799,7 @@
       "width": 840,
       "height": 1190,
       "size": 142703,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-099.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-099.png"
     },
     {
       "page": 100,
@@ -807,7 +807,7 @@
       "width": 840,
       "height": 1190,
       "size": 140848,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-100.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-100.png"
     },
     {
       "page": 101,
@@ -815,7 +815,7 @@
       "width": 840,
       "height": 1190,
       "size": 139946,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-101.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-101.png"
     },
     {
       "page": 102,
@@ -823,7 +823,7 @@
       "width": 840,
       "height": 1190,
       "size": 141535,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-102.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-102.png"
     },
     {
       "page": 103,
@@ -831,7 +831,7 @@
       "width": 840,
       "height": 1190,
       "size": 147718,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-103.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-103.png"
     },
     {
       "page": 104,
@@ -839,7 +839,7 @@
       "width": 840,
       "height": 1190,
       "size": 124721,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-104.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-104.png"
     },
     {
       "page": 105,
@@ -847,7 +847,7 @@
       "width": 840,
       "height": 1190,
       "size": 97214,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-105.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-105.png"
     },
     {
       "page": 106,
@@ -855,7 +855,7 @@
       "width": 840,
       "height": 1190,
       "size": 110569,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-106.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-106.png"
     },
     {
       "page": 107,
@@ -863,7 +863,7 @@
       "width": 840,
       "height": 1190,
       "size": 143676,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-107.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-107.png"
     },
     {
       "page": 108,
@@ -871,7 +871,7 @@
       "width": 840,
       "height": 1190,
       "size": 121760,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-108.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-108.png"
     },
     {
       "page": 109,
@@ -879,7 +879,7 @@
       "width": 840,
       "height": 1190,
       "size": 131481,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-109.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-109.png"
     },
     {
       "page": 110,
@@ -887,7 +887,7 @@
       "width": 840,
       "height": 1190,
       "size": 132352,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-110.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-110.png"
     },
     {
       "page": 111,
@@ -895,7 +895,7 @@
       "width": 840,
       "height": 1190,
       "size": 130869,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-111.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-111.png"
     },
     {
       "page": 112,
@@ -903,7 +903,7 @@
       "width": 840,
       "height": 1190,
       "size": 119064,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-112.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-112.png"
     },
     {
       "page": 113,
@@ -911,7 +911,7 @@
       "width": 840,
       "height": 1190,
       "size": 133724,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-113.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-113.png"
     },
     {
       "page": 114,
@@ -919,7 +919,7 @@
       "width": 840,
       "height": 1190,
       "size": 132306,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-114.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-114.png"
     },
     {
       "page": 115,
@@ -927,7 +927,7 @@
       "width": 840,
       "height": 1190,
       "size": 145145,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-115.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-115.png"
     },
     {
       "page": 116,
@@ -935,7 +935,7 @@
       "width": 840,
       "height": 1190,
       "size": 129175,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-116.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-116.png"
     },
     {
       "page": 117,
@@ -943,7 +943,7 @@
       "width": 840,
       "height": 1190,
       "size": 151282,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-117.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-117.png"
     },
     {
       "page": 118,
@@ -951,7 +951,7 @@
       "width": 840,
       "height": 1190,
       "size": 118026,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-118.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-118.png"
     },
     {
       "page": 119,
@@ -959,7 +959,7 @@
       "width": 840,
       "height": 1190,
       "size": 142414,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-119.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-119.png"
     },
     {
       "page": 120,
@@ -967,7 +967,7 @@
       "width": 840,
       "height": 1190,
       "size": 113076,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-120.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-120.png"
     },
     {
       "page": 121,
@@ -975,7 +975,7 @@
       "width": 840,
       "height": 1190,
       "size": 120882,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-121.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-121.png"
     },
     {
       "page": 122,
@@ -983,7 +983,7 @@
       "width": 840,
       "height": 1190,
       "size": 140329,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-122.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-122.png"
     },
     {
       "page": 123,
@@ -991,7 +991,7 @@
       "width": 840,
       "height": 1190,
       "size": 118749,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-123.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-123.png"
     },
     {
       "page": 124,
@@ -999,7 +999,7 @@
       "width": 840,
       "height": 1190,
       "size": 133221,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-124.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-124.png"
     },
     {
       "page": 125,
@@ -1007,7 +1007,7 @@
       "width": 840,
       "height": 1190,
       "size": 110108,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-125.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-125.png"
     },
     {
       "page": 126,
@@ -1015,7 +1015,7 @@
       "width": 840,
       "height": 1190,
       "size": 127547,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-126.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-126.png"
     },
     {
       "page": 127,
@@ -1023,7 +1023,7 @@
       "width": 840,
       "height": 1190,
       "size": 121518,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-127.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-127.png"
     },
     {
       "page": 128,
@@ -1031,7 +1031,7 @@
       "width": 840,
       "height": 1190,
       "size": 129636,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-128.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-128.png"
     },
     {
       "page": 129,
@@ -1039,7 +1039,7 @@
       "width": 840,
       "height": 1190,
       "size": 147523,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-129.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-129.png"
     },
     {
       "page": 130,
@@ -1047,7 +1047,7 @@
       "width": 840,
       "height": 1190,
       "size": 126276,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-130.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-130.png"
     },
     {
       "page": 131,
@@ -1055,7 +1055,7 @@
       "width": 840,
       "height": 1190,
       "size": 129151,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-131.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-131.png"
     },
     {
       "page": 132,
@@ -1063,7 +1063,7 @@
       "width": 840,
       "height": 1190,
       "size": 103359,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-132.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-132.png"
     },
     {
       "page": 133,
@@ -1071,7 +1071,7 @@
       "width": 840,
       "height": 1190,
       "size": 141504,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-133.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-133.png"
     },
     {
       "page": 134,
@@ -1079,7 +1079,7 @@
       "width": 840,
       "height": 1190,
       "size": 124723,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-134.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-134.png"
     },
     {
       "page": 135,
@@ -1087,7 +1087,7 @@
       "width": 840,
       "height": 1190,
       "size": 160977,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-135.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-135.png"
     },
     {
       "page": 136,
@@ -1095,7 +1095,7 @@
       "width": 840,
       "height": 1190,
       "size": 146058,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-136.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-136.png"
     },
     {
       "page": 137,
@@ -1103,7 +1103,7 @@
       "width": 840,
       "height": 1190,
       "size": 142360,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-137.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-137.png"
     },
     {
       "page": 138,
@@ -1111,7 +1111,7 @@
       "width": 840,
       "height": 1190,
       "size": 154200,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-138.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-138.png"
     },
     {
       "page": 139,
@@ -1119,7 +1119,7 @@
       "width": 840,
       "height": 1190,
       "size": 131641,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-139.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-139.png"
     },
     {
       "page": 140,
@@ -1127,7 +1127,7 @@
       "width": 840,
       "height": 1190,
       "size": 127543,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-140.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-140.png"
     },
     {
       "page": 141,
@@ -1135,7 +1135,7 @@
       "width": 840,
       "height": 1190,
       "size": 120790,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-141.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-141.png"
     },
     {
       "page": 142,
@@ -1143,7 +1143,7 @@
       "width": 840,
       "height": 1190,
       "size": 137339,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-142.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-142.png"
     },
     {
       "page": 143,
@@ -1151,7 +1151,7 @@
       "width": 840,
       "height": 1190,
       "size": 153558,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-143.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-143.png"
     },
     {
       "page": 144,
@@ -1159,7 +1159,7 @@
       "width": 840,
       "height": 1190,
       "size": 131421,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-144.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-144.png"
     },
     {
       "page": 145,
@@ -1167,7 +1167,7 @@
       "width": 840,
       "height": 1190,
       "size": 148393,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-145.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-145.png"
     },
     {
       "page": 146,
@@ -1175,7 +1175,7 @@
       "width": 840,
       "height": 1190,
       "size": 121028,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-146.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-146.png"
     },
     {
       "page": 147,
@@ -1183,7 +1183,7 @@
       "width": 840,
       "height": 1190,
       "size": 100907,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-147.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-147.png"
     },
     {
       "page": 148,
@@ -1191,7 +1191,7 @@
       "width": 840,
       "height": 1190,
       "size": 131417,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-148.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-148.png"
     },
     {
       "page": 149,
@@ -1199,7 +1199,7 @@
       "width": 840,
       "height": 1190,
       "size": 137127,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-149.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-149.png"
     },
     {
       "page": 150,
@@ -1207,7 +1207,7 @@
       "width": 840,
       "height": 1190,
       "size": 142858,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-150.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-150.png"
     },
     {
       "page": 151,
@@ -1215,7 +1215,7 @@
       "width": 840,
       "height": 1190,
       "size": 135534,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-151.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-151.png"
     },
     {
       "page": 152,
@@ -1223,7 +1223,7 @@
       "width": 840,
       "height": 1190,
       "size": 124128,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-152.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-152.png"
     },
     {
       "page": 153,
@@ -1231,7 +1231,7 @@
       "width": 840,
       "height": 1190,
       "size": 146134,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-153.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-153.png"
     },
     {
       "page": 154,
@@ -1239,7 +1239,7 @@
       "width": 840,
       "height": 1190,
       "size": 143330,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-154.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-154.png"
     },
     {
       "page": 155,
@@ -1247,7 +1247,7 @@
       "width": 840,
       "height": 1190,
       "size": 133302,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-155.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-155.png"
     },
     {
       "page": 156,
@@ -1255,7 +1255,7 @@
       "width": 840,
       "height": 1190,
       "size": 141818,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-156.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-156.png"
     },
     {
       "page": 157,
@@ -1263,7 +1263,7 @@
       "width": 840,
       "height": 1190,
       "size": 142149,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-157.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-157.png"
     },
     {
       "page": 158,
@@ -1271,7 +1271,7 @@
       "width": 840,
       "height": 1190,
       "size": 129225,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-158.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-158.png"
     },
     {
       "page": 159,
@@ -1279,7 +1279,7 @@
       "width": 840,
       "height": 1190,
       "size": 125438,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-159.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-159.png"
     },
     {
       "page": 160,
@@ -1287,7 +1287,7 @@
       "width": 840,
       "height": 1190,
       "size": 124639,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-160.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-160.png"
     },
     {
       "page": 161,
@@ -1295,7 +1295,7 @@
       "width": 840,
       "height": 1190,
       "size": 117401,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-161.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-161.png"
     },
     {
       "page": 162,
@@ -1303,7 +1303,7 @@
       "width": 840,
       "height": 1190,
       "size": 110415,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-162.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-162.png"
     },
     {
       "page": 163,
@@ -1311,7 +1311,7 @@
       "width": 840,
       "height": 1190,
       "size": 128264,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-163.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-163.png"
     },
     {
       "page": 164,
@@ -1319,7 +1319,7 @@
       "width": 840,
       "height": 1190,
       "size": 101204,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-164.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-164.png"
     },
     {
       "page": 165,
@@ -1327,7 +1327,7 @@
       "width": 840,
       "height": 1190,
       "size": 141929,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-165.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-165.png"
     },
     {
       "page": 166,
@@ -1335,7 +1335,7 @@
       "width": 840,
       "height": 1190,
       "size": 153557,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-166.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-166.png"
     },
     {
       "page": 167,
@@ -1343,7 +1343,7 @@
       "width": 840,
       "height": 1190,
       "size": 122847,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-167.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-167.png"
     },
     {
       "page": 168,
@@ -1351,7 +1351,7 @@
       "width": 840,
       "height": 1190,
       "size": 143002,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-168.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-168.png"
     },
     {
       "page": 169,
@@ -1359,7 +1359,7 @@
       "width": 840,
       "height": 1190,
       "size": 127755,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-169.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-169.png"
     },
     {
       "page": 170,
@@ -1367,7 +1367,7 @@
       "width": 840,
       "height": 1190,
       "size": 133711,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-170.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-170.png"
     },
     {
       "page": 171,
@@ -1375,7 +1375,7 @@
       "width": 840,
       "height": 1190,
       "size": 151101,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-171.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-171.png"
     },
     {
       "page": 172,
@@ -1383,7 +1383,7 @@
       "width": 840,
       "height": 1190,
       "size": 124378,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-172.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-172.png"
     },
     {
       "page": 173,
@@ -1391,7 +1391,7 @@
       "width": 840,
       "height": 1190,
       "size": 132481,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-173.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-173.png"
     },
     {
       "page": 174,
@@ -1399,7 +1399,7 @@
       "width": 840,
       "height": 1190,
       "size": 114367,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-174.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-174.png"
     },
     {
       "page": 175,
@@ -1407,7 +1407,7 @@
       "width": 840,
       "height": 1190,
       "size": 114381,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-175.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-175.png"
     },
     {
       "page": 176,
@@ -1415,7 +1415,7 @@
       "width": 840,
       "height": 1190,
       "size": 133229,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-176.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-176.png"
     },
     {
       "page": 177,
@@ -1423,7 +1423,7 @@
       "width": 840,
       "height": 1190,
       "size": 102519,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-177.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-177.png"
     },
     {
       "page": 178,
@@ -1431,7 +1431,7 @@
       "width": 840,
       "height": 1190,
       "size": 139155,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-178.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-178.png"
     },
     {
       "page": 179,
@@ -1439,7 +1439,7 @@
       "width": 840,
       "height": 1190,
       "size": 138468,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-179.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-179.png"
     },
     {
       "page": 180,
@@ -1447,7 +1447,7 @@
       "width": 840,
       "height": 1190,
       "size": 140244,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-180.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-180.png"
     },
     {
       "page": 181,
@@ -1455,7 +1455,7 @@
       "width": 840,
       "height": 1190,
       "size": 145298,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-181.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-181.png"
     },
     {
       "page": 182,
@@ -1463,7 +1463,7 @@
       "width": 840,
       "height": 1190,
       "size": 145016,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-182.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-182.png"
     },
     {
       "page": 183,
@@ -1471,7 +1471,7 @@
       "width": 840,
       "height": 1190,
       "size": 125042,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-183.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-183.png"
     },
     {
       "page": 184,
@@ -1479,7 +1479,7 @@
       "width": 840,
       "height": 1190,
       "size": 118227,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-184.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-184.png"
     },
     {
       "page": 185,
@@ -1487,7 +1487,7 @@
       "width": 840,
       "height": 1190,
       "size": 127878,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-185.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-185.png"
     },
     {
       "page": 186,
@@ -1495,7 +1495,7 @@
       "width": 840,
       "height": 1190,
       "size": 132912,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-186.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-186.png"
     },
     {
       "page": 187,
@@ -1503,7 +1503,7 @@
       "width": 840,
       "height": 1190,
       "size": 120880,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-187.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-187.png"
     },
     {
       "page": 188,
@@ -1511,7 +1511,7 @@
       "width": 840,
       "height": 1190,
       "size": 131957,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-188.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-188.png"
     },
     {
       "page": 189,
@@ -1519,7 +1519,7 @@
       "width": 840,
       "height": 1190,
       "size": 131739,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-189.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-189.png"
     },
     {
       "page": 190,
@@ -1527,7 +1527,7 @@
       "width": 840,
       "height": 1190,
       "size": 107759,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-190.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-190.png"
     },
     {
       "page": 191,
@@ -1535,7 +1535,7 @@
       "width": 840,
       "height": 1190,
       "size": 115137,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-191.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-191.png"
     },
     {
       "page": 192,
@@ -1543,7 +1543,7 @@
       "width": 840,
       "height": 1190,
       "size": 134320,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-192.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-192.png"
     },
     {
       "page": 193,
@@ -1551,7 +1551,7 @@
       "width": 840,
       "height": 1190,
       "size": 129360,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-193.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-193.png"
     },
     {
       "page": 194,
@@ -1559,7 +1559,7 @@
       "width": 840,
       "height": 1190,
       "size": 149631,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-194.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-194.png"
     },
     {
       "page": 195,
@@ -1567,7 +1567,7 @@
       "width": 840,
       "height": 1190,
       "size": 127298,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-195.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-195.png"
     },
     {
       "page": 196,
@@ -1575,7 +1575,7 @@
       "width": 840,
       "height": 1190,
       "size": 113856,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-196.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-196.png"
     },
     {
       "page": 197,
@@ -1583,7 +1583,7 @@
       "width": 840,
       "height": 1190,
       "size": 139637,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-197.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-197.png"
     },
     {
       "page": 198,
@@ -1591,7 +1591,7 @@
       "width": 840,
       "height": 1190,
       "size": 113470,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-198.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-198.png"
     },
     {
       "page": 199,
@@ -1599,7 +1599,7 @@
       "width": 840,
       "height": 1190,
       "size": 142494,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-199.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-199.png"
     },
     {
       "page": 200,
@@ -1607,7 +1607,7 @@
       "width": 840,
       "height": 1190,
       "size": 98676,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-200.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-200.png"
     },
     {
       "page": 201,
@@ -1615,7 +1615,7 @@
       "width": 840,
       "height": 1190,
       "size": 111142,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-201.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-201.png"
     },
     {
       "page": 202,
@@ -1623,7 +1623,7 @@
       "width": 840,
       "height": 1190,
       "size": 108740,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-202.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-202.png"
     },
     {
       "page": 203,
@@ -1631,7 +1631,7 @@
       "width": 840,
       "height": 1190,
       "size": 112829,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-203.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-203.png"
     },
     {
       "page": 204,
@@ -1639,7 +1639,7 @@
       "width": 840,
       "height": 1190,
       "size": 124662,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-204.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-204.png"
     },
     {
       "page": 205,
@@ -1647,7 +1647,7 @@
       "width": 840,
       "height": 1190,
       "size": 117459,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-205.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-205.png"
     },
     {
       "page": 206,
@@ -1655,7 +1655,7 @@
       "width": 840,
       "height": 1190,
       "size": 115879,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-206.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-206.png"
     },
     {
       "page": 207,
@@ -1663,7 +1663,7 @@
       "width": 840,
       "height": 1190,
       "size": 78859,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-207.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-207.png"
     },
     {
       "page": 208,
@@ -1671,7 +1671,7 @@
       "width": 840,
       "height": 1190,
       "size": 80445,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-208.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-208.png"
     },
     {
       "page": 209,
@@ -1679,7 +1679,7 @@
       "width": 840,
       "height": 1190,
       "size": 88724,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-209.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-209.png"
     },
     {
       "page": 210,
@@ -1687,7 +1687,7 @@
       "width": 840,
       "height": 1190,
       "size": 79788,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-210.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-210.png"
     },
     {
       "page": 211,
@@ -1695,7 +1695,7 @@
       "width": 840,
       "height": 1190,
       "size": 81939,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-211.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-211.png"
     },
     {
       "page": 212,
@@ -1703,7 +1703,7 @@
       "width": 840,
       "height": 1190,
       "size": 88252,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-212.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-212.png"
     },
     {
       "page": 213,
@@ -1711,7 +1711,7 @@
       "width": 840,
       "height": 1190,
       "size": 78870,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-213.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-213.png"
     },
     {
       "page": 214,
@@ -1719,7 +1719,7 @@
       "width": 840,
       "height": 1190,
       "size": 110472,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-214.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-214.png"
     },
     {
       "page": 215,
@@ -1727,7 +1727,7 @@
       "width": 840,
       "height": 1190,
       "size": 126557,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-215.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-215.png"
     },
     {
       "page": 216,
@@ -1735,7 +1735,7 @@
       "width": 840,
       "height": 1190,
       "size": 124398,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-216.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-216.png"
     },
     {
       "page": 217,
@@ -1743,7 +1743,7 @@
       "width": 840,
       "height": 1190,
       "size": 132597,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-217.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-217.png"
     },
     {
       "page": 218,
@@ -1751,7 +1751,7 @@
       "width": 840,
       "height": 1190,
       "size": 143897,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-218.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-218.png"
     },
     {
       "page": 219,
@@ -1759,7 +1759,7 @@
       "width": 840,
       "height": 1190,
       "size": 125800,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-219.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-219.png"
     },
     {
       "page": 220,
@@ -1767,7 +1767,7 @@
       "width": 840,
       "height": 1190,
       "size": 30324,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-220.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-220.png"
     },
     {
       "page": 221,
@@ -1775,7 +1775,7 @@
       "width": 840,
       "height": 1190,
       "size": 106728,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-221.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-221.png"
     },
     {
       "page": 222,
@@ -1783,7 +1783,7 @@
       "width": 840,
       "height": 1190,
       "size": 131965,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-222.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-222.png"
     },
     {
       "page": 223,
@@ -1791,7 +1791,7 @@
       "width": 840,
       "height": 1190,
       "size": 121604,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-223.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-223.png"
     },
     {
       "page": 224,
@@ -1799,7 +1799,7 @@
       "width": 840,
       "height": 1190,
       "size": 134365,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-224.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-224.png"
     },
     {
       "page": 225,
@@ -1807,7 +1807,7 @@
       "width": 840,
       "height": 1190,
       "size": 113772,
-      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah-english/english/volume1/page-225.png"
+      "url": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/addawatul-makkiyyah/english/volume1/page-225.png"
     }
   ]
 }
