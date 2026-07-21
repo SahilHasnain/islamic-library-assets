@@ -1,0 +1,22 @@
+{
+  "id": "minhajul-aabideen",
+  "title": "Minhajul Aabideen",
+  "author": "Imam Ghazali",
+  "description": "A spiritual classic on the purification of the soul by Imam Ghazali.",
+  "category": "Tasawwuf",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/minhajul-aabideen/cover.png",
+  "languages": [
+    {
+      "id": "roman-urdu",
+      "title": "Roman Urdu",
+      "volumes": [
+        {
+          "id": "volume1",
+          "title": "volume1",
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/minhajul-aabideen/roman-urdu/volume1/manifest.json"
+        }
+      ]
+    }
+  ],
+  "defaultLanguageId": "roman-urdu"
+}

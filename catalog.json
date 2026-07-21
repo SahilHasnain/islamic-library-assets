@@ -1,6 +1,6 @@
 {
-  "version": "2026-07-21-20419",
-  "generatedAt": "2026-07-21T14:34:20.981Z",
+  "version": "2026-07-21-20527",
+  "generatedAt": "2026-07-21T14:35:29.423Z",
   "books": [
     {
       "id": "addawatul-makkiyyah",
@@ -248,6 +248,15 @@
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/maqalaat-e-ahsani/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/maqalaat-e-ahsani/metadata.json"
+    },
+    {
+      "id": "minhajul-aabideen",
+      "title": "Minhajul Aabideen",
+      "author": "Imam Ghazali",
+      "category": "Tasawwuf",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/minhajul-aabideen/cover.png",
+      "status": "published",
+      "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/minhajul-aabideen/metadata.json"
     },
     {
       "id": "mukashafatul-quloob",
