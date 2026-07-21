@@ -1,6 +1,6 @@
 {
-  "version": "2026-07-20-13399",
-  "generatedAt": "2026-07-20T08:09:10.688Z",
+  "version": "2026-07-21-20419",
+  "generatedAt": "2026-07-21T14:34:20.981Z",
   "books": [
     {
       "id": "addawatul-makkiyyah",
@@ -158,6 +158,15 @@
       "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/difa-e-kanzul-imaan/cover.png",
       "status": "published",
       "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/difa-e-kanzul-imaan/metadata.json"
+    },
+    {
+      "id": "durood-stories",
+      "title": "Durood Stories",
+      "author": "Muslims Believe",
+      "category": "Fazail",
+      "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/durood-stories/cover.png",
+      "status": "published",
+      "metadataUrl": "https://raw.githubusercontent.com/sahilhasnain/islamic-library-assets/main/books/durood-stories/metadata.json"
     },
     {
       "id": "ikhteyarat-e-mustafa",

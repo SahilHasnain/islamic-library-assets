@@ -1,0 +1,22 @@
+{
+  "id": "durood-stories",
+  "title": "Durood Stories",
+  "author": "Muslims Believe",
+  "description": "A collection of 76 inspiring stories about the blessings of durood.",
+  "category": "Fazail",
+  "coverImage": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/durood-stories/cover.png",
+  "languages": [
+    {
+      "id": "english",
+      "title": "English",
+      "volumes": [
+        {
+          "id": "volume1",
+          "title": "volume1",
+          "manifestUrl": "https://cdn.jsdelivr.net/gh/sahilhasnain/islamic-library-assets@main/books/durood-stories/english/volume1/manifest.json"
+        }
+      ]
+    }
+  ],
+  "defaultLanguageId": "english"
+}
