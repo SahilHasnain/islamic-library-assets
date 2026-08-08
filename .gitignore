@@ -1,3 +1,5 @@
 # Keep generated asset structure in git while ignoring local OS noise.
 Thumbs.db
 .DS_Store
+config.bat
+node_modules
